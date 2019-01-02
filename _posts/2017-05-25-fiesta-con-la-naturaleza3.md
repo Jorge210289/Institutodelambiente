@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prueba
-date: 2017-05-25 16:16:01 -0600
+date: 2019-01-02 16:16:01 -0600
 category: naturaleza
 image: https://res.cloudinary.com/instituto-del-ambiente/image/upload/blog/fiesta-con-la-naturaleza.jpg
 ---
