@@ -299,10 +299,7 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1546543382/WhatsApp_Image_2019-01-03_at_12.04.19.jpg
     category: residencia
     caption: Area de dormitorios de estudiantes
-    
-  - url: https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=151.78&pitch=-0.76&key=YOUR_API_KEY&signature=YOUR_SIGNATURE
-     category: residencia
-     caption: Area de dormitorios de estudiantes
+   
 ---
 
 Las palabras no siempre pueden describir cómo es la realidad. Las fotos, por otro lado, son mucho más adecuadas para mostrarte la belleza de nuestro campus. Ven a conocer más de nuestro Instituto.
