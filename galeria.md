@@ -296,6 +296,9 @@ images:
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/accesibilidad.jpg
     category: jimenoa
     caption:
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1546543382/WhatsApp_Image_2019-01-03_at_12.04.19.jpg
+    category: residencia
+    caption: Area de dormitorios de estudiantes
 ---
 
 Las palabras no siempre pueden describir cómo es la realidad. Las fotos, por otro lado, son mucho más adecuadas para mostrarte la belleza de nuestro campus. Ven a conocer más de nuestro Instituto.
