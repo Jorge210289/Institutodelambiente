@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: Premios Ambientales
 date: 2018-11-24 16:16:01 -0600
-category: naturaleza
+category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1546605145/46948362_198593981072649_6748846115530997760_n.jpg
 ---
 Jarabacoa, La Vega. El pasado sábado 24, el Salón Multiusos del Instituto del Ambiente se vistió de gala para celebrar la quinta entrega de los Premios Ambientales, en su versión 2018. Actividad impulsada desde sus inicios por el Lic. Carlos Lague.
