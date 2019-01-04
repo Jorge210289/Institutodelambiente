@@ -2,84 +2,15 @@
 layout: post
 title: Premios Ambientales
 date: 2018-11-24 16:16:01 -0600
-category: eventos
+category: naturaleza
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1546605145/46948362_198593981072649_6748846115530997760_n.jpg
 ---
+Jarabacoa, La Vega. El pasado sábado 24, el Salón Multiusos del Instituto del Ambiente se vistió de gala para celebrar la quinta entrega de los Premios Ambientales, en su versión 2018. Actividad impulsada desde sus inicios por el Lic. Carlos Lague.
 
-Por segundo año consecutivo Jarabacoa se viste de gala para celebrar su pasadía familiar y el Día del Egresado, al que hemos llamado “Fiesta con la Naturaleza”, en conmemoración al Día Mundial del Medio Ambiente, estará llevándose a cabo el sábado 6 de junio en las instalaciones de la Escuela Ambiental de 9:00 A.M a 5:00 P.M.
+Premiación destinada a las buenas acciones ambientales, donde se establecieron unas 10 categorías para ser galardonados los/as jóvenes del Instituto que contaban con las cualidades y los criterios que se establecieron.
 
-Es nuestro deber como institución formadora en este ámbito, demostrar cómo podemos deleitarnos de los recursos que poseemos sin lastimarlo, vivimos en esta tierra y es la única que tenemos, ¿por qué lastimarla? Aunemos esfuerzos, y asumamos nuestro compromiso de cuidarla y protegerla.
+Está hermosa actividad, contó con el apoyo del cuerpo de Profesores del Instituto del Ambiente, la gran familia Ambiental (empleados, estudiantes), y demás personalidades que hicieron posible que una vez más se llevara acabo dicha actividad.
 
-Por esto se ha preparado una fiesta desbordada de actividades que sin lugar a dudas complacerán todas las edades y gustos, en un ambiente sano y familiar, pero sobre todo enseñando, aprendiendo y disfrutando de lo que nos rodea. Entre las actividades propuestas tenemos:
+Está actividad, de pleno disfruté y celebración contó con la presencia de los hermanos Pérez, quienes trabajan con el Proyecto en Moca de "Construcción de Casa de Plásticos".
 
-* Caminatas
-* Carteles Ambientales
-* Estatuas Vivientes
-* Maratón
-* Música Típica
-* Taller de Pintura
-* Rutas de Bicicleta
-* Canciones
-* Taller de Pintura Para Niños
-* Exhibición de Pinturas
-* Ballet
-* Cuentos Ambientales
-* Exposición de Fotografías
-* Poemas
-* Poesía Negroide
-* Obras de Teatro
-* Gimnasia
-* Grupos Folclóricos
-* Pinturas de Murales
-* Danzas Modernas
-* Taller de Reciclaje
-
-### Instituciones que han confirmado su participación:
-
-* Ministerio de Cultura
-* Escuela Alberto Hernández Buena Vista
-* Circulo De Locutores Jarabacoa
-* Ministerio de Turismo
-* Clúster de Ecoturístico
-* Ayuntamiento de Buena Vista
-* Ministerio de Deportes Y Recreación
-* Universidad ISA
-* Festival de Las Poesías de la Montana
-* Rancho Baiguate
-* Cámara Forestal
-* Productora SJM
-* Ayuntamiento Municipal de Jarabacoa
-* Universidad Nacional Pedro Henríquez Ureña
-* Café Monte Alto
-* CONACADO
-* Plan Sierra
-* Grupo Rica
-* Farmer to Farmer
-* Festival de las Flores
-* Casa Tranquila
-* Club de Golf Jarabacoa
-* REEDOM
-* Fondos Mineros
-* PUCMM
-* INTEC
-* Dujos Madera
-* Escuela de Pintura MWA
-* Fundación Mariposa
-* Liceo- Centro Buena Vista
-* Escuela Manuel Ubaldo Gómez
-* Los Niños de Yaji
-* BOSQUESA
-* Surfuturo
-* Escuela Limonal
-* Escuela Sabaneta
-* COOPEARROZ
-* Rancho Jarabacoa
-* UAFAM
-* Escuela Primaria Piedra Blanca
-* Plan Cordillera
-* Liceo Científico Hermanas Mirabal
-* Plan Yaque
-* Dujos Madera
-* Consejo Apoyo a Jarabacoa
-
-Dicen que: “Dios está en todas partes, pero duerme en Jarabacoa”, pero te vamos a demostrar que realmente está todo el día con nosotros, en especial para esta fiesta. ¡Te esperamos!!!!
+Está magnifica noche amenizada con las voces angelicales de los estudiantes Lisbeth Benjamín y Gregori Gómez, y una sorpresa del Sr. Chico Peréz quién puso a bailar a los presentes a ritmo de bachata. Para finalizar con la noche se bailó a ritmo de típico con los músicos de Bachata Extrema.
