@@ -3,6 +3,7 @@ layout: page
 title: Palabras de la Rectora
 permalink: /Instituto/Rectora
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1546625956/47015837_198593964405984_6524636921325420544_n.jpg
+menus: services
 ---
 
-Palabras de motivaciÛn de nuestra rectora Lic. Martha Fern·ndez
+Palabras de motivaci√≥n de nuestra rectora Lic. Martha Fern√°ndez
