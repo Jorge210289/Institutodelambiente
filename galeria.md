@@ -299,6 +299,8 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1546543382/WhatsApp_Image_2019-01-03_at_12.04.19.jpg
     category: residencia
     caption: Area de dormitorios de estudiantes
+    
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1547046222204!6m8!1m7!1sCAoSLEFGMVFpcE9rc3F1aEJFQkVmeEhsNV9yZUlxN1Awd3pMVFpLbmgtd2JpT29V!2m2!1d19.12748350021405!2d-70.5698272414347!3f124!4f0!5f0.7820865974627469" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
    
 ---
 
