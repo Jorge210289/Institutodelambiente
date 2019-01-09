@@ -3,100 +3,100 @@ layout: default
 ---
 
 <section class="py-16 px-6 max-w-2xl mx-auto">
-  <div class="md:flex md:items-end">
-    <div class="md:text-right md:w-2/5 md:mr-8 mb-6 md:mb-0">
-      <p class="font-serif text-green text-xl mb-3">{{ page.intro.pretitle }}</p>
-      <h2 class="text-black text-3xl md:text-4xl leading-tight">{{ page.intro.title }}</h2>
-    </div>
+<div class="md:flex md:items-end">
+<div class="md:text-right md:w-2/5 md:mr-8 mb-6 md:mb-0">
+<p class="font-serif text-green text-xl mb-3">{{ page.intro.pretitle }}</p>
+<h2 class="text-black text-3xl md:text-4xl leading-tight">{{ page.intro.title }}</h2>
+</div>
   
-    <p class="md:w-3/5 text-lg text-grey-dark mb-1">{{ content | strip_html }}</p>
-  </div>
-
-  <div class="md:flex md:-mx-4 mt-8 pt-8">
-    {% for item in page.items %}
-      <article class="md:mx-4 flex-1 clearfix mb-6 md:mb-0">
-        <h3 class="lined uppercase text-black mb-6">{{ item.title }}</h3>
-        <svg class="text-green border border-solid border-grey-light p-3 box-content float-left mt-1 mr-6 mb-2" width="50" height="50">
-          <use xlink:href="/icons/symbol-defs.svg#{{ item.icon }}"></use>
-        </svg>
-        <p class="font-light">{{ item.content }}</p>
-      </article>
-    {% endfor %}
-  </div>
+<p class="md:w-3/5 text-lg text-grey-dark mb-1">{{ content | strip_html }}</p>
+</div>
+<div class="md:flex md:-mx-4 mt-8 pt-8">{% for item in page.items %}
+<article class="md:mx-4 flex-1 clearfix mb-6 md:mb-0">
+<h3 class="lined uppercase text-black mb-6">{{ item.title }}</h3>
+<p class="font-light">{{ item.content }}</p>
+</article>
+{% endfor %}</div>
 </section>
-
-
-
 <figure class="mt-8">
-  <div class="flex transition">
-    {% for image in page.images %}
-      <a data-fancybox="gallery" href="{{ image.url | replace: 'upload', 'upload/q_60' }}" class="block w-1/4 flex-no-shrink opacity-75 hover:opacity-100 transition">
-        <picture>
-          <source data-lazy data-srcset="{{ image.url | replace: 'upload', 'upload/c_scale,q_60,w_500' | replace: '.jpg', '.webp' }}" type="image/webp">
-          <img data-lazy data-src="{{ image.url | replace: 'upload', 'upload/c_scale,q_60,w_500' }}" alt="{{ image.title }}" width="500" height="625">
-          <noscript>
+<div class="flex transition">{% for image in page.images %} <a class="block w-1/4 flex-no-shrink opacity-75 hover:opacity-100 transition" href="{{ image.url | replace: 'upload', 'upload/q_60' }}" data-fancybox="gallery"> <picture> <source type="image/webp" data-lazy="" data-srcset="{{ image.url | replace: 'upload', 'upload/c_scale,q_60,w_500' | replace: '.jpg', '.webp' }}" /> <img alt="{{ image.title }}" width="500" height="625" data-lazy="" data-src="{{ image.url | replace: 'upload', 'upload/c_scale,q_60,w_500' }}" /></picture><noscript>
             <img src="{{ image.url | replace: 'upload', 'upload/c_scale,q_60,w_500' }}" alt="{{ image.title }}" width="500" height="625">
-          </noscript>
-        </picture>
-      </a>
-    {% endfor %}
-  </div>
-  <figcaption class="bg-grey-lighter py-8">
-    <div class="max-w-2xl mx-auto text-center">
-      <p class="font-light text-lg">{{ page.image_caption }}</p>
-    </div>
-  </figcaption>
+          </noscript></a> {% endfor %}</div>
+<figcaption class="bg-grey-lighter py-8">
+<div class="max-w-2xl mx-auto text-center">
+<p class="font-light text-lg">{{ page.image_caption }}</p>
+</div>
+</figcaption>
 </figure>
-
-
-
 <section class="py-16 px-6 max-w-2xl mx-auto">
-  <h2 class="text-black lined text-3xl md:text-4xl mb-6 leading-tight" data-action="colorize">{{ page.others.title }}</h2>
-  <p class="text-xl font-light">{{ page.others.intro }}</p>
-
-  <div class="md:flex md:-mx-4 mt-8 py-8">
-    {% for item in page.others.items %}
-      <article class="md:mx-4 flex-1 clearfix mb-6 md:mb-0">
-        <h3 class="lined uppercase text-black mb-6">{{ item.title }}</h3>
-        <svg class="text-green border border-solid border-grey-light p-3 box-content float-left mt-1 mr-6 mb-2" width="50" height="50">
-          <use xlink:href="/icons/symbol-defs.svg#{{ item.icon }}"></use>
-        </svg>
-        <p class="font-light">{{ item.content }}</p>
-      </article>
-    {% endfor %}
-  </div>
-
-  <div class="mt-8 pt-16 border-t border-grey-light">
-    <h2 class="text-black lined text-3xl md:text-4xl mb-6 leading-tight" data-action="colorize">Precios, reglas y detalles</h2>
-    <p class="text-xl font-light">En esta sección hay todos los detalles sobre nuestros servicios. Si tienes más preguntas, puedes contactarnos en cualquier momento en la sección de abajo.</p>
-  
-    <article>
-      <h3 class="uppercase text-black mb-2 mt-8">Costos por evento</h3>
-      <ul>
-        <li>RD$10,000 para bodas, cumpleaños, graduaciones y actividades afines.</li>
-        <li>RD$5,000. Para reuniones, talleres, seminarios y actividades afines.</li>
-      </ul>
-      <h3 class="uppercase text-black mb-2 mt-8">Los servicios incluyen:</h3>
-      <ul>
-        <li>Planta Eléctrica</li>
-        <li>Baños equipados a la entrega</li>
-        <li>Parqueos</li>
-      </ul>
-      <h3 class="uppercase text-black mb-2 mt-8">Las reglas</h3>
-      <ul>
-        <li>Cuidar el área verde y jardines del Instituto. Respetar los límites naturales al momento de colocar carpas y objetos de decoración.</li>
-        <li>Evitar circular vehículos en lugares no autorizados.</li>
-        <li>Dejar alquileres en las áreas antes o después del evento sin responsabilidad del Instituto.</li>
-        <li>Hacer el montaje de la actividad un día antes si fuese necesario y retirar los alquileres a más tardar el día después de
-        la actividad.</li>
-        <li>Respetar el horario establecido para llevar a cabo el evento. La hora máxima para tener música alta es a las 10:00 PM.</li>
-        <li>Dejar el lugar lo más recogido posible inmediatamente después del evento; utilizando los zafacones suministrados para desechos
-        sólidos.</li>
-        <li>Realizar el pago al menos una semana antes del evento. Este pago incluirá un depósito reembolsable de 2,500 pesos para cubrir
-        posibles daños ocasionados al área, si así fuere el caso.</li>
-      </ul>
-    </article>
-  </div>
+<h2 class="text-black lined text-3xl md:text-4xl mb-6 leading-tight" data-action="colorize">{{ page.others.title }}</h2>
+<p class="text-xl font-light">{{ page.others.intro }}</p>
+<div class="md:flex md:-mx-4 mt-8 py-8">{% for item in page.others.items %}
+<article class="md:mx-4 flex-1 clearfix mb-6 md:mb-0">
+<h3 class="lined uppercase text-black mb-6">{{ item.title }}</h3>
+<p class="font-light">{{ item.content }}</p>
+</article>
+{% endfor %}</div>
+<div class="mt-8 pt-16 border-t border-grey-light">
+<h2 class="text-black lined text-3xl md:text-4xl mb-6 leading-tight" data-action="colorize">Precios, reglas y detalles</h2>
+<p class="text-xl font-light">En esta secci&oacute;n hay todos los detalles sobre nuestros servicios. Si tienes m&aacute;s preguntas, puedes contactarnos en cualquier momento en la secci&oacute;n de abajo.</p>
+<article>
+<h3 class="uppercase text-black mb-2 mt-8">Aporte por evento</h3>
+<ul>
+<li>RD$20,000 para bodas, cumplea&ntilde;os, graduaciones y actividades afines.</li>
+<li>RD$6,000. Para reuniones, talleres, seminarios y actividades afines.</li>
+</ul>
+<h3 class="uppercase text-black mb-2 mt-8">Los servicios incluyen:</h3>
+<ul>
+<li>Limpienza del sal&oacute;n, antesy despu&eacute;s de la actividad.</li>
+<li>Mobiliario: Mesas redondas y rectangulares, sillas pl&aacute;sticas y mesas de picnic para 200 personas.</li>
+<li>Area verde alrededor del sal&oacute;n con disponibilidad para fotos.</li>
+<li>Planta el&eacute;ctrica de 12 kilos.</li>
+<li>Area de bar.</li>
+<li>Area de ba&ntilde;os equipados a la entrega.</li>
+<li>Pantalla de proyecci&oacute;n.</li>
+<li>Facilidad de estacionamiento al aire libre.</li>
+<li>Seguridad privada.</li>
+</ul>
+<p>Servicio extra (opcional)</p>
+<p>Limpieza de ba&ntilde;os durante la actividad RD$ 1,500.00</p>
+<p>Servicio de alimentaci&oacute;n y refrigerio de acuerdo con las necesidades del grupo.</p>
+<h3 class="uppercase text-black mb-2 mt-8">Capacidad para 400 personas</h3>
+<h3 class="uppercase text-black mb-2 mt-8">&nbsp;</h3>
+<h3 class="uppercase text-black mb-2 mt-8">Responsabilidad del usuario</h3>
+<p>&nbsp;</p>
+<ul>
+<li>Decoraci&oacute;n general del sal&oacute;n.</li>
+<li>Sillas y mesas en caso de no utilizar las disponibles.</li>
+<li>Cristaler&iacute;a, lencer&iacute;a y cuberter&iacute;a para el montaje de las mesas.</li>
+<li>Utensilios de servir (Chaffing Dish, platones, bowls, entre otros).</li>
+<li>Limpieza y reposici&oacute;n del equipamiento de los ba&ntilde;os durante la actividad.</li>
+<li>Equipos audiovisuales (Proyector, equipo de sonido, etc.).</li>
+<li>Iluminaci&oacute;n adicional a la disponible en el sal&oacute;n.</li>
+<li>Bizcocho y mesa de postres.</li>
+<li>servicio de camarero.</li>
+</ul>
+<p>&nbsp;</p>
+<h3 class="uppercase text-black mb-2 mt-8">Reglas</h3>
+<ul>
+<ul>
+<li>Cuidar el &aacute;rea verde y jardines del Instituto. Respetar los l&iacute;mites naturales al momento de colocar carpas y objetos de decoraci&oacute;n.</li>
+<li>Evitar circular veh&iacute;culos en lugares no autorizados.</li>
+<li>Dejar alquileres en las &aacute;reas antes o despu&eacute;s del evento sin responsabilidad del Instituto.</li>
+<li>Hacer el montaje de la actividad un d&iacute;a antes si fuese necesario y retirar los alquileres a m&aacute;s tardar el d&iacute;a despu&eacute;s de la actividad.</li>
+<li>Respetar el horario establecido para llevar a cabo el evento. La hora m&aacute;xima para tener m&uacute;sica alta es a las 10:00 PM.</li>
+<li>Dejar el lugar lo m&aacute;s recogido posible inmediatamente despu&eacute;s del evento; utilizando los zafacones suministrados para desechos s&oacute;lidos.</li>
+<li>Realizar el pago al menos una semana antes del evento. Este pago incluir&aacute; un dep&oacute;sito reembolsable de 2,500 pesos para cubrir posibles da&ntilde;os ocasionados al &aacute;rea, si as&iacute; fuere el caso.</li>
+</ul>
+</ul>
+<h3 class="uppercase text-black mb-2 mt-8">Condiciones de pago</h3>
+<ul>
+<li>Se requiere el pago del 50% a la reservaci&oacute;n y el resto a m&aacute;s tardar una semana antes de la actividad, m&aacute;s el dep&oacute;sito reembosable solicitado.</li>
+<li>Tiene hasta 30 dias antes de la actividad para hacer cambio de fecha y cancelar.</li>
+<li>Si cancela despu&eacute;s del tiempo se&ntilde;alado, se pierde un 20% del monto pagado.</li>
+<li>Estos precios est&aacute;n sujetos a cambios.</li>
+</ul>
+</article>
+</div>
 </section>
-
-{% include contact-us.html %}
+<p>{% include contact-us.html %}</p>
