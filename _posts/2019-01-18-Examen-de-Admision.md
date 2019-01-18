@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Examen de Admision
 date: 2019-01-18 16:16:01 -0600
