@@ -11,6 +11,6 @@ Premiación destinada a las buenas acciones ambientales, donde se establecieron 
 
 Está hermosa actividad, contó con el apoyo del cuerpo de Profesores del Instituto del Ambiente, la gran familia Ambiental (empleados, estudiantes), y demás personalidades que hicieron posible que una vez más se llevara acabo dicha actividad.
 
-Está actividad, de pleno disfruté y celebración contó con la presencia de los hermanos Pérez, quienes trabajan con el Proyecto en Moca de "Construcción de Casa de Plásticos".
+Está actividad, de pleno disfrute y celebración contó con la presencia de los hermanos Pérez, quienes trabajan con el Proyecto en Moca de "Construcción de Casa de Plásticos".
 
 Está magnifica noche amenizada con las voces angelicales de los estudiantes Lisbeth Benjamín y Gregori Gómez, y una sorpresa del Sr. Chico Peréz quién puso a bailar a los presentes a ritmo de bachata. Para finalizar con la noche se bailó a ritmo de típico con los músicos de Bachata Extrema.
