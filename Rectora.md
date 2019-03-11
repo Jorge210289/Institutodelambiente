@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1546625956/47015837_19
 thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1546625956/47015837_198593964405984_6524636921325420544_n.jpg
 menus: institute
 ---
-<BIG>Nuestros Ejes Transversales</BIG>
+<BIG><b>Nuestros Ejes Transversales</b></BIG>
 
 <b>Misión: </b>
 
@@ -20,6 +20,7 @@ menus: institute
 
 
 <b>Valores institucionales:</b>
+
 Seriedad
 Respeto
 Calidad del servicio
