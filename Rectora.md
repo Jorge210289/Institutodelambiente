@@ -21,14 +21,22 @@ menus: institute
 
 <b>Valores institucionales:</b>
 
-Seriedad
+<UL>Seriedad
+
 Respeto
+
 Calidad del servicio
+
 Responsabilidad
+
 Solidaridad
+
 Superación y esfuerzo
+
 Transparencia
-Equidad
+
+Equidad</UL>
+
 
     
 
