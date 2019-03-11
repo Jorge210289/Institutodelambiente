@@ -24,17 +24,11 @@ menus: institute
 <UL>Seriedad
 
 Respeto
-
 Calidad del servicio
-
 Responsabilidad
-
 Solidaridad
-
 Superación y esfuerzo
-
 Transparencia
-
 Equidad</UL>
 
 
