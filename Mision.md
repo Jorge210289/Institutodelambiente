@@ -2,7 +2,7 @@
 
 layout: Rectora
 
-title: Nuestra Misión
+title: Nuestra MisiÃ³n
 
 description: Nuestros ejes transversales
 
@@ -16,58 +16,37 @@ thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1546625956/4701583
 menus: institute
 
 ---
+<!doctype html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p><big><b>Nuestros Ejes Transversales</b></big></p>
 
-<BIG><b>Nuestros Ejes Transversales</b>
-</BIG>
+<p><b>Misi&oacute;n:</b></p>
 
-<b>Misión: </b>
+<p style="text-align: justify;">&ldquo;Aplicar una pol&iacute;tica de Estado integral para la conservaci&oacute;n, protecci&oacute;n y regulaci&oacute;n de la gesti&oacute;n de los recursos naturales y el medio ambiente para alcanzar el desarrollo sostenible de Rep&uacute;blica Dominicana&rdquo;.</p>
 
+<p><b>Visi&oacute;n:</b></p>
 
+<p style="text-align: justify;">&ldquo;Desarrollar una pol&iacute;tica abierta, democr&aacute;tica y participativa, basada en la cooperaci&oacute;n y en las alianzas estrat&eacute;gicas entre el Estado, las comunidades y el sector empresarial, a fin de comprometer a todos los actores p&uacute;blicos y privados que intervienen en la gesti&oacute;n del medio ambiente y los recursos naturales, con un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras&rdquo;.</p>
 
+<p><b>Valores institucionales:</b></p>
 
-“Aplicar una política de Estado integral para la conservación, protección y regulación de la gestión de los recursos naturales y el medio ambiente para alcanzar el desarrollo sostenible de República Dominicana”.
+<ul>
+	<li>Seriedad</li>
+	<li>Respeto</li>
+	<li>Calidad del servicio</li>
+	<li>Responsabilidad</li>
+	<li>Solidaridad</li>
+	<li>Superaci&oacute;n y esfuerzo</li>
+	<li>Transparencia</li>
+	<li>Equidad</li>
+</ul>
+</body>
+</html>
 
-
-
-
-
-<b>Visión: </b>
-
-
-
-
-“Desarrollar una política abierta, democrática y participativa, basada en la cooperación y en las alianzas estratégicas entre el Estado, las comunidades y el sector empresarial, a fin de comprometer a todos los actores públicos y privados que intervienen en la gestión del medio ambiente y los recursos naturales, con un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras”.
-
-
-
-
-
-<b>Valores institucionales:</b>
-
-
-
-
-<UL>Seriedad
-
-
-Respeto
-
-
-Calidad del servicio
-
-
-Responsabilidad
-
-Solidaridad
-
-
-Superación y  esfuerzo
-
-
-Transparencia
-
-
-Equidad</UL>
 
 
     
