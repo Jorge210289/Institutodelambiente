@@ -8,6 +8,7 @@ thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1546625956/4701583
 menus: institute
 ---
 <BIG>Nuestros Ejes Transversales</BIG>
+
 <b>Misión: </b>
 
 “Aplicar una política de Estado integral para la conservación, protección y regulación de la gestión de los recursos naturales y el medio ambiente para alcanzar el desarrollo sostenible de República Dominicana”.
