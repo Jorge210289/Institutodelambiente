@@ -15,7 +15,6 @@ thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1546625956/4701583
 menus: institute
 
 ---
-<!doctype html>
 <html>
 <head>
 	<title></title>
