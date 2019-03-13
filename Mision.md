@@ -1,35 +1,29 @@
+
 ---
-layout: requirements
+layout: history
 
-title: Nuestra Misión
-
-description: Nuestros ejes Transversales.
+title: Mision
+description: Nuestra Mision.
 
 permalink: /instituto/Mision/
-
 menus: institute
 
-can_i_apply:
-  title: Mision
-  content: |
-Aplicar una política de Estado integral para la conservación, protección y
-regulación de la gestión de los recursos naturales y el medio ambiente para
-alcanzar el desarrollo sostenible de República Dominicana.
+pre_heading: 50 años de experiencia
+heading: Nuestros Ejes Transversales
 
-how_to_apply:
-  title: Vision
-  content: |
-Desarrollar una política abierta, democrática y participativa, basada en la cooperación y en las alianzas estratégicas entre el Estado, las comunidades y el sector empresarial, a fin de comprometer a todos los actores públicos y privados que intervienen en la gestión del medio ambiente y los recursos naturales, con un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras.
-
-process:
-  title: Valores Institucionales
-  items:
-    - Seriedad
-    - Respero.
-    - Calidad de Servicio.
-    - Responsabilidad.
-    - Solidaridad.
-    - Superacion y Esfuerzo.
-    - Transparencia.
-    - Equidad.
- ---
+entries:
+  - year: Mision
+    content: La Escuela fue renombrada como Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales y ya es reconocida por el Ministerio de Educación Superior de Ciencias y Tecnologías.
+  - year: 2017
+    content: En septiembre de ese año se dio ainicio a la XV promocion con 56 estudiantes, siendo 6 de estos de nacionalidad haitiana. Actualmente permanecen 38 estudiantes, de los cuales 30 se especializan en Ciencias Forestales y 8 estudian Gestion Ambiental.
+  - year: 2016
+    content: Entra la 14va. Promoción con 51 estudiantes, de ellos 47% de sexo femenino y 53% de sexo masculino.
+  - year: 2010
+    content: A través de una resolucion ministerial, se designó como Escuela Nacional de Medio Ambiente y Recursos Naturales (Escuela Ambiental) en la gestión del Dr. Jaime David Fernández Mirabal, Ministro de Medio Ambiente, ahora con un marco más global de conservación y protección de los recursos naturales de nuestro país.
+  - year: 1987
+    content: En la 4ta. Promoción se incluyeron jóvenes del sexo femenino. Teresa Tiburcio fue la primera mujer en graduarse.
+  - year: 1977
+    content: Se le asigna el nombre de <strong>Agrón. Dennis C. Stamers Smith</strong> a la Escuela Nacional Forestal, por el Presidente Dr. Joaquín Balaguer. Originalmente fue diseñada solamente para la formación de jóvenes del sexo masculino como Técnicos Forestales, Guardabosques y Guardaparques.
+  - year: 1968
+    content: Fundada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) con el apoyo de Alianza para el progreso, como Escuela de Silvicultura.
+---
