@@ -1,6 +1,6 @@
 ---
 
-layout: History
+layout: careers
 
 title: Nuestra Misión
 
