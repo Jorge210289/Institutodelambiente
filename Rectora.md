@@ -1,5 +1,5 @@
 ---
-layout: History
+layout: requirements
 title: Nuestra Misión
 description: Nuestros ejes transversales
 permalink: /Instituto/Mision
