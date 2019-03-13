@@ -1,11 +1,10 @@
 ---
 
-layout: Rectora
+layout: History
 
 title: Nuestra Misión
 
 description: Nuestros ejes transversales
-
 
 permalink: /Instituto/Mision
 
