@@ -1,8 +1,12 @@
 ---
 layout: requirements
+
 title: Nuestra Misión
+
 description: Nuestros ejes Transversales.
+
 permalink: /instituto/Mision/
+
 menus: institute
 
 can_i_apply:
