@@ -1,7 +1,7 @@
 ---
 layout: history
 
-title: Mision
+title: Nuestra  Mision
 description: Nuestra Mision.
 
 permalink: /instituto/Mision/
