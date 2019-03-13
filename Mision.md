@@ -12,9 +12,9 @@ heading: Nuestros Ejes Transversales
 
 entries:
   - year: Mision
-    content: La Escuela fue renombrada como Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales y ya es reconocida por el Ministerio de Educación Superior de Ciencias y Tecnologías.
+    content: “Aplicar una política de Estado integral para la conservación, protección y regulación de la gestión de los recursos naturales y el medio ambiente para alcanzar el desarrollo sostenible de República Dominicana”.
   - year: Vision
-    content: En septiembre de ese año se dio ainicio a la XV promocion con 56 estudiantes, siendo 6 de estos de nacionalidad haitiana. Actualmente permanecen 38 estudiantes, de los cuales 30 se especializan en Ciencias Forestales y 8 estudian Gestion Ambiental.
+    content: “Desarrollar una política abierta, democrática y participativa, basada en la cooperación y en las alianzas estratégicas entre el Estado, las comunidades y el sector empresarial, a fin de comprometer a todos los actores públicos y privados que intervienen en la gestión del medio ambiente y los recursos naturales, con un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras”.
   - year: Valores
-    content: Entra la 14va. Promoción con 51 estudiantes, de ellos 47% de sexo femenino y 53% de sexo masculino.    
+    content: Seriedad, Respeto, Calidad del servicio, Responsabilidad, Solidaridad, Superación y esfuerzo, Transparencia, Equidad.    
 ---
