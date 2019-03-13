@@ -1,32 +1,32 @@
 ---
 layout: requirements
+
 title: Nuestra Misión
-description: Nuestros ejes transversales
+description: Nuestros ejes Transversales.
+
 permalink: /instituto/Mision/
 menus: institute
 
 can_i_apply:
   title: Mision
   content: |
-  <p style="text-align: justify;">&ldquo;Aplicar una pol&iacute;tica de Estado integral para la conservaci&oacute;n, protecci&oacute;n y regulaci&oacute;n de la gesti&oacute;n de los recursos naturales y el medio ambiente para alcanzar el desarrollo sostenible de Rep&uacute;blica Dominicana&rdquo;.</p>
-    
+   “Aplicar una política de Estado integral para la conservación, protección y
+regulación de la gestión de los recursos naturales y el medio ambiente para
+alcanzar el desarrollo sostenible de República Dominicana”.
 how_to_apply:
-  title: Vision
+  title: Visión
   content: |
-    <p style="text-align: justify;">&ldquo;Desarrollar una pol&iacute;tica abierta, democr&aacute;tica y participativa, basada en la cooperaci&oacute;n y en las alianzas estrat&eacute;gicas entre el Estado, las comunidades y el sector empresarial, a fin de comprometer a todos los actores p&uacute;blicos y privados que intervienen en la gesti&oacute;n del medio ambiente y los recursos naturales, con un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras&rdquo;.</p>
-    
-  process:
+    “Desarrollar una política abierta, democrática y participativa, basada en la cooperación y en las alianzas estratégicas entre el Estado, las comunidades y el sector empresarial, a fin de comprometer a todos los actores públicos y privados que intervienen en la gestión del medio ambiente y los recursos naturales, con un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras”.
+process:
   title: Valores Institucionales
   items:
-    - Seriedad.
-    - Respeto.
-    - Calidad del Servicio.
+    - Seriedad
+    - Respero.
+    - Calidad de Servicio.
     - Responsabilidad.
     - Solidaridad.
-    - Superación y esfuerzo.
+    - Superacion y Esfuerzo.
     - Transparencia.
-    - Equidad. 
+    - Equidad.
+ 
 ---
-
-
-
