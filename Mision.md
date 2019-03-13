@@ -28,5 +28,4 @@ process:
     - Superacion y Esfuerzo.
     - Transparencia.
     - Equidad.
- 
----
+ ---
