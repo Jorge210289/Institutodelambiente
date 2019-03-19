@@ -1,18 +1,13 @@
 ---
-
 layout: post
-
 title: Examen Admision
-
 date: 2019-03-09 08:16:01 -0600
-
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1553008104/Examen_Admision.jpg
 ---
-
 <html>
 <head>
-	<title>HTML Editor - Full Version</title>
+
 </head>
 <body>
 <h1><br />
@@ -41,8 +36,3 @@ M&aacute;s informaci&oacute;n en:<br />
 <p>o contacte la <strong>Oficina de Medio Ambiente</strong> m&aacute;s cercana</p>
 </body>
 </html>
-
-
-
-
-
