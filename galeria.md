@@ -299,9 +299,40 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1546543382/WhatsApp_Image_2019-01-03_at_12.04.19.jpg
     category: residencia
     caption: Area de dormitorios de estudiantes
+    %20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05.jpg
+category: jimenoa
+
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349941/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05_1.jpg
+category: jimenoa
+
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05_3.jpg
+category: jimenoa
+
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05_2.jpg
+category: jimenoa
+
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.07.jpg
+category: jimenoa
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349939/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.08.jpg
+category: jimenoa
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.07_4.jpg
+category: jimenoa
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349939/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.08_1.jpg
+category: jimenoa
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349939/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.07_3.jpg
+category: jimenoa
+caption: Recinto Jimenoa
+- url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349939/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.08_2.jpg
+category: jimenoa
     
-  
-   
 ---
 
 Las palabras no siempre pueden describir cómo es la realidad. Las fotos, por otro lado, son mucho más adecuadas para mostrarte la belleza de nuestro campus. Ven a conocer más de nuestro Instituto.
