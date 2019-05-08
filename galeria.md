@@ -295,5 +295,6 @@ images:
     caption:
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/accesibilidad.jpg
     category: jimenoa
+    
     ---
 Las palabras no siempre pueden describir cómo es la realidad. Las fotos, por otro lado, son mucho más adecuadas para mostrarte la belleza de nuestro campus. Ven a conocer más de nuestro Instituto.
