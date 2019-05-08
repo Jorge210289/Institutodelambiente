@@ -299,6 +299,9 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1546543382/WhatsApp_Image_2019-01-03_at_12.04.19.jpg
     category: residencia
     caption: Area de dormitorios de estudiantes
+    caption:
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349941/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.04_2.jpg
+    category: jimenoa
     
   
    
