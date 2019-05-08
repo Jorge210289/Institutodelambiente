@@ -314,7 +314,7 @@ images:
      caption:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05_2.jpg
     category: jimenoa
-    caption:
+     caption:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.07.jpg
     category: jimenoa
     
