@@ -13,40 +13,40 @@ images:
     caption: Produción de condimentos para la cocina.
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349941/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.04_2.jpg 
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349941/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05.jpg
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349941/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05_1.jpg 
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05_3.jpg  
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.05_2.jpg 
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.07.jpg
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349939/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.08.jpg 
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349940/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.07_4.jpg
     category: jimenoa
-		caption: 
+    caption: 
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349939/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.08_1.jpg  
     category: jimenoa
-	caption: 
+    caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557349939/Recinto%20Jimenoa/WhatsApp_Image_2019-05-08_at_16.20.07_3.jpg 
     category: jimenoa
     caption: Produción de árboles bonsaies en el Instituto.
