@@ -36,5 +36,9 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1557404514/Graduacion%
 <p>Gracias a un grupo de Instituciones, el Instituto Superior del Ambiente de Jarabacoa se perfila como la primera en  capacitar  jóvenes de Medio Ambiente y Recursos Naturales.</p>
 
 <p>A juicio del gobernador de la provincia de La Vega Lic. Bolívar Marte, visitar el Instituto del Ambiente en Estudios Superiores de Jarabacoa , es encontrarse con la naturaleza, el sonido de las aves, las frescas brisas de los pinos y el amor y entrega de un equipo de trabajo consagrados a formar hombres y mujeres ejemplares.</p>
+
+<video>
+  <source src="https://res.cloudinary.com/duuonteo7/video/upload/v1557408342/Graduacion%20XV%20Promocion/Video_Graduacion.mp4" type="video/mp4" />
+  </video> 
 </body>
 </html>
