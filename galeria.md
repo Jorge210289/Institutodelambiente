@@ -13,6 +13,27 @@ images:
     caption: Produción de condimentos para la cocina.
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403842/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.02.jpg 
+    category: multiuso
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403843/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.01_2.jpg 
+    category: multiuso
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403842/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.01_3.jpg 
+    category: multiuso
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403842/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.02_1.jpg 
+    category: multiuso
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403842/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.00.jpg 
+    category: multiuso
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403842/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.01.jpg  
+    category: multiuso
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403842/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.01_1.jpg 
+    category: multiuso
     caption: 
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: jimenoa
