@@ -13,6 +13,18 @@ images:
     caption: Produción de condimentos para la cocina.
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557404514/Graduacion%20XV%20Promocion/WhatsApp_Image_2019-05-04_at_22.24.48.jpg
+    category: graduacionxv
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557404514/Graduacion%20XV%20Promocion/WhatsApp_Image_2019-05-04_at_22.24.39.jpg
+    category: graduacionxv
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557404514/Graduacion%20XV%20Promocion/WhatsApp_Image_2019-05-04_at_13.36.06.jpg
+    category: graduacionxv
+	caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557404514/Graduacion%20XV%20Promocion/WhatsApp_Image_2019-05-04_at_22.24.45.jpg
+    category: graduacionxv
     caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557403842/Multiuso/WhatsApp_Image_2019-05-07_at_11.03.02.jpg 
     category: multiuso
