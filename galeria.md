@@ -13,6 +13,57 @@ images:
     caption: Produción de condimentos para la cocina.
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
+    caption: Visita Niños Cristhian School
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405530/Visitantes/WhatsApp_Image_2019-04-14_at_13.47.45_1.jpg
+    category: visita
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405607/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.11.jpg
+    category: visita
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405616/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.10_2.jpg
+    category: visita
+    caption: Tecnología de Producción Amigable
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405720/Charlas/WhatsApp_Image_2019-02-28_at_10.39.54_3.jpg
+    category: charla
+    caption: Tecnología de Producción Amigable
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405711/Charlas/WhatsApp_Image_2019-02-28_at_10.39.55_7.jpg
+    category: charla
+    caption: Tecnología de Producción Amigable
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405704/Charlas/WhatsApp_Image_2019-02-28_at_10.39.55_3.jpg
+    category: charla
+    caption: Xenobioticos acumulados en los alimentos
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405816/Charlas/WhatsApp_Image_2019-03-22_at_11.47.58.jpg
+    category: charla
+    caption: Xenobioticos acumulados en los alimentos
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405815/Charlas/WhatsApp_Image_2019-03-22_at_11.47.53.jpg
+    category: charla
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405953/EF/WhatsApp_Image_2019-03-18_at_15.36.48.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405953/EF/WhatsApp_Image_2019-03-17_at_16.55.01.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405938/EF/WhatsApp_Image_2019-04-14_at_12.44.55.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405937/EF/WhatsApp_Image_2019-04-14_at_15.37.20.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405937/EF/WhatsApp_Image_2019-04-14_at_12.31.53.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405937/EF/WhatsApp_Image_2019-04-14_at_11.56.59.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405923/EF/WhatsApp_Image_2019-04-13_at_14.53.10.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405923/EF/WhatsApp_Image_2019-04-13_at_14.20.09_1.jpg
+    category: ef
+    caption: 
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405922/EF/WhatsApp_Image_2019-04-13_at_14.20.05.jpg
+    category: ef
     caption: 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557404514/Graduacion%20XV%20Promocion/WhatsApp_Image_2019-05-04_at_22.24.48.jpg
     category: graduacionxv
