@@ -13,6 +13,9 @@ images:
     caption: Produción de condimentos para la cocina.
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
+    caption: Fiesta con la Naturaleza 2019 - Ven y acompañanos!!!
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557749116/Fiesta%20con%20la%20Naturaleza%202019/fiesta_con_la_naturalezaposter_ministerio__08_001.jpg  
+    category: fiesta2019
     caption: Visita Niños Cristhian School
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405530/Visitantes/WhatsApp_Image_2019-04-14_at_13.47.45_1.jpg
     category: visita
