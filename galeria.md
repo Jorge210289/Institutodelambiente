@@ -23,6 +23,15 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405607/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.11.jpg
     category: visita
     caption: 
+    - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557841420/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.00_2.jpg
+    category: visita
+    caption: 
+    - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557841418/Visitantes/WhatsApp_Image_2019-05-05_at_15.45.54.jpg
+    category: visita
+    caption: 
+    - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557841417/Visitantes/WhatsApp_Image_2019-05-05_at_15.45.42.jpg
+    category: visita
+    caption:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405616/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.10_2.jpg
     category: visita
     caption: Tecnología de Producción Amigable
