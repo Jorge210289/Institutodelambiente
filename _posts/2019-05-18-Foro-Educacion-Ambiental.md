@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Graduación XV Promoción
-date: 2019-05-04 08:16:01 -0600
+title: Foro La Educación Ambiental en la República Dominicana
+date: 2019-05-18 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1558194718/Foro%20Educacion%20Ambiental/WhatsApp_Image_2019-05-18_at_11.46.57.jpg
 ---
