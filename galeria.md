@@ -8,21 +8,21 @@ permalink: /instituto/galeria/
 menus: institute
 
 images:
-  - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/hierbas.jpg
+- url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/hierbas.jpg
     category: produccion
     caption: Produción de condimentos para la cocina.
-  - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
+    - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
     caption: 
-  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557749116/Fiesta%20con%20la%20Naturaleza%202019/fiesta_con_la_naturalezaposter_ministerio__08_001.jpg  
+    - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557749116/Fiesta%20con%20la%20Naturaleza%202019/fiesta_con_la_naturalezaposter_ministerio__08_001.jpg  
     category: fiesta2019
     caption: Fiesta con la Naturaleza 2019 - Ven y acompañanos!!!
-  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405530/Visitantes/WhatsApp_Image_2019-04-14_at_13.47.45_1.jpg
-    category: visita
-    caption: Visita Niños Cristhian School
-      - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405607/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.11.jpg
-    category: visita
-    caption: 
+    - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405530/Visitantes/WhatsApp_Image_2019-04-14_at_13.47.45_1.jpg
+  category: visita
+  caption: Visita Niños Cristhian School
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405607/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.11.jpg
+  category: visita
+  caption: 
     - url: https://res.cloudinary.com/duuonteo7/image/upload/v1558441930/WhatsApp_Image_2019-05-20_at_14.45.30_2.jpg
     category: visita
     caption: Almuerzo con comunicadores de Jarabacoa
