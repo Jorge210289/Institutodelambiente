@@ -20,15 +20,6 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405530/Visitantes/WhatsApp_Image_2019-04-14_at_13.47.45_1.jpg
     category: visita
     caption: Visita Niños Cristhian School
-  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557405607/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.11.jpg
-    category: visita
-    caption: 
-    - url: https://res.cloudinary.com/duuonteo7/image/upload/v1558441930/WhatsApp_Image_2019-05-20_at_14.45.30_2.jpg
-    category: visita
-    caption: Almuerzo con comunicadores de Jarabacoa
-    - url: https://res.cloudinary.com/duuonteo7/image/upload/v1558441929/WhatsApp_Image_2019-05-20_at_14.45.31.jpg
-    category: visita
-    caption: Almuerzo con comunicadores de Jarabacoa    
     - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557841420/Visitantes/WhatsApp_Image_2019-05-05_at_15.46.00_2.jpg
     category: visita
     caption: 
