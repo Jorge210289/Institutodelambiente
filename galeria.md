@@ -14,6 +14,9 @@ images:
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
     caption: Fiesta con la Naturaleza 2019 - Ven y acompañanos!!!
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1558963033/Visitantes/WhatsApp_Image_2019-05-24_at_11.02.59_1.jpg
+    category: visita
+    caption: Visita Militares de alto rango de la Armada Dominicana y de la Fuerza Naval de Honduras 
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1557749116/Fiesta%20con%20la%20Naturaleza%202019/fiesta_con_la_naturalezaposter_ministerio__08_001.jpg  
     category: fiesta2019
     caption: Visita Niños Cristhian School
