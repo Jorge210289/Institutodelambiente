@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nota de Prensa Fiesta con la Naturaleza 2019
-date: 2019-05-29 08:16:01 -0600
+date: 2019-05-28 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1559131511/Fiesta%20con%20la%20Naturaleza%202019/WhatsApp_Image_2019-05-28_at_19.52.03.jpg
 ---
