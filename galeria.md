@@ -26,6 +26,9 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173833/Un%20dia%20con%20la%20Naturaleza/WhatsApp_Image_2019-06-08_at_11.10.38_1.jpg
     category: visita
     caption: Grupo Aeropuerto Internacional del Cibao
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173833/Un%20dia%20con%20la%20Naturaleza/WhatsApp_Image_2019-06-08_at_14.12.56.jpg
+    category: visita
+    caption: Grupo Aeropuerto Internacional del Cibao
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
     caption: Fiesta con la Naturaleza 2019 - Ven y acompañanos!!!
