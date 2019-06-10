@@ -20,6 +20,9 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173728/Un%20dia%20con%20la%20Naturaleza/WhatsApp_Image_2019-06-07_at_13.14.06_1.jpg
     category: visita
     caption: Visita INABIE "Yo celebro la Ética aprendiendo y viviendo Un día con la Naturaleza"
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173832/Un%20dia%20con%20la%20Naturaleza/WhatsApp_Image_2019-06-08_at_14.12.56_1.jpg
+    category: visita
+    caption: Grupo Aeropuerto Internacional del Cibao
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
     caption: Fiesta con la Naturaleza 2019 - Ven y acompañanos!!!
