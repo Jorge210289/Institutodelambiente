@@ -11,6 +11,9 @@ images:
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/hierbas.jpg
     category: produccion
     caption: Produción de condimentos para la cocina.
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173728/Un%20dia%20con%20la%20Naturaleza/WhatsApp_Image_2019-06-07_at_13.14.06_1.jpg
+    category: visita
+    caption: Visita INABIE "Yo celebro la Ética aprendiendo y viviendo Un día con la Naturaleza"
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/arboles-bonsai.jpg  
     category: produccion
     caption: Fiesta con la Naturaleza 2019 - Ven y acompañanos!!!
