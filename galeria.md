@@ -17,6 +17,9 @@ images:
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173967/EF/WhatsApp_Image_2019-06-09_at_14.09.46_1.jpg
     category: visita
     caption: Grupo EF 09-06-19
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173966/EF/WhatsApp_Image_2019-06-09_at_14.09.45.jpg
+    category: visita
+    caption: Grupo EF 09-06-19
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173728/Un%20dia%20con%20la%20Naturaleza/WhatsApp_Image_2019-06-07_at_13.14.06_1.jpg
     category: visita
     caption: Visita INABIE "Yo celebro la Ética aprendiendo y viviendo Un día con la Naturaleza"
