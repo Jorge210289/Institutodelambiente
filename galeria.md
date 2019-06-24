@@ -11,6 +11,9 @@ images:
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/hierbas.jpg
     category: produccion
     caption: Produción de condimentos para la cocina.
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1561377953/EF/WhatsApp_Image_2019-06-23_at_10.57.33.jpg
+    category: visita
+    caption: Grupo EF 23-06-19
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1560173967/EF/WhatsApp_Image_2019-06-09_at_14.09.44.jpg
     category: visita
     caption: Grupo EF 09-06-19
