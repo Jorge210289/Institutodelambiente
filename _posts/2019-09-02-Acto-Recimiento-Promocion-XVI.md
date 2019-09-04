@@ -34,5 +34,16 @@ Jarabacoa, Rep. Dom.- Con la presencia de los directores de las oficinas medio a
 <p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609807/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.23.jpg" style="width: 400px; height: 267px;" /></p>
 
 <p>Por Erick Duran (Jarabacoa@live.com)</p>
+
+<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609809/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.14.jpg" style="width: 400px; height: 267px;" /></p>
+
+<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609809/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.12.jpg" style="width: 400px; height: 267px;" /></p>
+
+<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609807/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.24.jpg" style="width: 400px; height: 267px;" /></p>
+
+<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609807/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.05.jpg" style="width: 400px; height: 267px;" /></p>
+
+<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609807/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.19.jpg" style="width: 400px; height: 267px;" /></p>
+
 </body>
 </html>
