@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1567609806/Bienvenida%
 ---
 
 <head>
-	<title>HTML Editor - Full Version</title>
+	
 </head>
 <body>
 <p style="text-align: justify;"><strong>Jarabacoa: Instituto del Ambiente, realiza&nbsp; Sexta Decima versi&oacute;n de recibimiento de promoci&oacute;n y da la bienvenida al Dr. Jos&eacute; V&aacute;squez Guerra, como su nuevo director.</strong></p>
