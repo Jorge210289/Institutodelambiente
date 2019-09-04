@@ -25,7 +25,9 @@ Jarabacoa, Rep. Dom.- Con la presencia de los directores de las oficinas medio a
 
 <p>&nbsp;</p>
 
-<p>En este acto de recibimiento a estudiantes y al nuevo director, le fue entregada una placa de reconocimiento por su trayectoria a la anterior directora, do&ntilde;a Martha Fern&aacute;ndez, cual fue despedida con aplausos y abrazos, continuara como asesora de educaci&oacute;n ambiental del instituto.</p>
+<p>En este acto de recibimiento a estudiantes y al nuevo director, le fue entregada una placa de reconocimiento por su trayectoria a la anterior directora, do&ntilde;a Martha Fern&aacute;ndez, cual fue despedida con aplausos y abrazos, continuara como asesora de educaci&oacute;n ambiental.</p>
+
+<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609808/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.15.jpg" style="width: 400px; height: 267px;" /></p>
 
 <p>Se destaco la presencia del ingeniero Manuel Serrano en representaci&oacute;n del Ministro de Medio Ambiente, el se&ntilde;or &Aacute;ngel Est&eacute;vez; la diputada Antonia Suriel, Lic. V&iacute;ctor Henr&iacute;quez, Lcda. Nancy Gal&aacute;n, Lic. Dayamo Victoriano, Sra. Amalia Fern&aacute;ndez,</p>
 
