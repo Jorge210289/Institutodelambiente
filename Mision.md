@@ -12,9 +12,15 @@ heading: Nuestros Ejes Transversales
 
 entries:
   - year: Misión
-    content: “Aplicar una política de Estado integral para la conservación, protección y regulación de la gestión de los recursos naturales y el medio ambiente para alcanzar el desarrollo sostenible de República Dominicana”.
+    content: “Ser una Institución Técnica de Educación Superior líder en la formación, capacitación y
+actualización de técnicos y profesionales en la gestión del medio ambiente y en el manejo de los
+recursos naturales que contribuyan con la implementación de un modelo de desarrollo sostenible
+que garantice una calidad de vida adecuada para las generaciones presentes y futuras.”
   - year: Visión
-    content: “Desarrollar una política abierta, democrática y participativa, basada en la cooperación y en las alianzas estratégicas entre el Estado, las comunidades y el sector empresarial, a fin de comprometer a todos los actores públicos y privados que intervienen en la gestión del medio ambiente y los recursos naturales, con un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras”.
+    content: “Formar profesionales de nivel técnico superior altamente calificados, con espíritu crítico,
+creativo, con visión global que contribuyan a una correcta aplicación de una política pública para
+la conservación y regulación del medio ambiente y el manejo de los recursos naturales de la
+República Dominicana.”
   - year: Valores
-    content: Seriedad, Respeto, Calidad del servicio, Responsabilidad, Solidaridad, Superación y esfuerzo, Transparencia, Equidad.    
+    content: Excelencia Académica, Responsabilidad Social Ambiental, Integridad, Equidad .    
 ---
