@@ -10,7 +10,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1567609806/Bienvenida%
 	
 </head>
 <body>
-<p style="text-align: justify;"><strong>Jarabacoa: Instituto del Ambiente, realiza&nbsp; Sexta Decima versi&oacute;n de recibimiento de promoci&oacute;n y da la bienvenida al Dr. Jos&eacute; V&aacute;squez Guerra, como su nuevo director.</strong></p>
+<p style="text-align: justify;"><strong>Jarabacoa: Instituto del Ambiente, realiza&nbsp; Sexta Decima versi&oacute;n de recibimiento de promoci&oacute;n y da la bienvenida al Dr. Jos&eacute; V&aacute;squez Guerra, como su nuevo rector.</strong></p>
 
 <p><br />
 Jarabacoa, Rep. Dom.- Con la presencia de los directores de las oficinas medio ambientales de la provincia de La Vega, estudiantes e invitados, la direcci&oacute;n del Instituto Medio Ambiental de Jarabacoa, dio la bienvenida a su nuevo rector, el Dr. Jos&eacute; V&aacute;squez Guerra, al mismo tiempo se realiz&oacute; la bienvenida a 60 bachilleres que ingresaran al instituto, para ser capacitado a lo largo de dos a&ntilde;os.</p>
