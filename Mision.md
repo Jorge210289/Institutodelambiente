@@ -25,4 +25,4 @@ entries:
     
 - year: Valores
 content: Excelencia Académica, Responsabilidad Social Ambiental, Integridad, Equidad. 
-    ---
+---
