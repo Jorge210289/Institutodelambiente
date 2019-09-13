@@ -11,8 +11,8 @@ pre_heading: 50 años de experiencia
 heading: Nuestros Ejes Transversales
 
 entries:
-- year: Misión
-content: “Ser una Institución Técnica de Educación Superior líder en la formación, capacitación y
+  - year: Misión
+  content: “Ser una Institución Técnica de Educación Superior líder en la formación, capacitación y
     actualización de técnicos y profesionales en la gestión del medio ambiente y en el manejo de los
     recursos naturales que contribuyan con la implementación de un modelo de desarrollo sostenible
     que garantice una calidad de vida adecuada para las generaciones presentes y futuras”.
