@@ -13,7 +13,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1567609806/Bienvenida%
 <p style="text-align: justify;"><strong>Jarabacoa: Instituto del Ambiente, realiza&nbsp; Sexta Decima versi&oacute;n de recibimiento de promoci&oacute;n y da la bienvenida al Dr. Jos&eacute; V&aacute;squez Guerra, como su nuevo director.</strong></p>
 
 <p><br />
-Jarabacoa, Rep. Dom.- Con la presencia de los directores de las oficinas medio ambientales de la provincia de La Vega, estudiantes e invitados, la direcci&oacute;n del Instituto Medio Ambiental de Jarabacoa, dio la bienvenida a su nuevo director, el Dr. Jos&eacute; V&aacute;squez Guerra, al mismo tiempo se realiz&oacute; la bienvenida a 60 bachilleres que ingresaran al instituto, para ser capacitado a lo largo de dos a&ntilde;os.</p>
+Jarabacoa, Rep. Dom.- Con la presencia de los directores de las oficinas medio ambientales de la provincia de La Vega, estudiantes e invitados, la direcci&oacute;n del Instituto Medio Ambiental de Jarabacoa, dio la bienvenida a su nuevo rector, el Dr. Jos&eacute; V&aacute;squez Guerra, al mismo tiempo se realiz&oacute; la bienvenida a 60 bachilleres que ingresaran al instituto, para ser capacitado a lo largo de dos a&ntilde;os.</p>
 
 <p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609808/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.24_1.jpg" style="width: 400px; height: 286px;" /></p>
 
@@ -21,11 +21,11 @@ Jarabacoa, Rep. Dom.- Con la presencia de los directores de las oficinas medio a
 
 <p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609809/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.12.jpg" style="width: 400px; height: 267px;" /></p>
 
-<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609808/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.08.jpg" style="width: 400px; height: 500px; float: right;" />El nuevo director del Instituto Ambiental de Jarabacoa, Dr. Jos&eacute; Santiago V&aacute;squez Guerra, es oriundo de la provincia de La Vega, posee un doctorado en desarrollo sostenible, titulo obtenido en la universidad UNICEPES, Michoac&aacute;n, M&eacute;xico; realiz&oacute; los estudios t&eacute;cnicos de producci&oacute;n limpia en la universidad INTEC; tambi&eacute;n Responsabilidad Social Empresarial en la Universidad de Buenos Aires, Argentina y se gradu&oacute; de ingeniero agr&oacute;nomo en la Universidad Cat&oacute;lica del Cibao &ndash; UCATECI, entre otros importantes estudios.</p>
+<p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609808/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.08.jpg" style="width: 400px; height: 500px; float: right;" />El nuevo rector del Instituto Ambiental de Jarabacoa, Dr. Jos&eacute; Santiago V&aacute;squez Guerra, es oriundo de la provincia de La Vega, posee un doctorado en desarrollo sostenible, titulo obtenido en la universidad UNICEPES, Michoac&aacute;n, M&eacute;xico; realiz&oacute; los estudios t&eacute;cnicos de producci&oacute;n limpia en la universidad INTEC; tambi&eacute;n Responsabilidad Social Empresarial en la Universidad de Buenos Aires, Argentina y se gradu&oacute; de ingeniero agr&oacute;nomo en la Universidad Cat&oacute;lica del Cibao &ndash; UCATECI, entre otros importantes estudios.</p>
 
 <p>&nbsp;</p>
 
-<p>En este acto de recibimiento a estudiantes y al nuevo director, le fue entregada una placa de reconocimiento por su trayectoria a la anterior directora, do&ntilde;a Martha Fern&aacute;ndez, cual fue despedida con aplausos y abrazos, continuara como asesora de educaci&oacute;n ambiental.</p>
+<p>En este acto de recibimiento a estudiantes y al nuevo rector, le fue entregada una placa de reconocimiento por su trayectoria a la anterior rectora, do&ntilde;a Martha Fern&aacute;ndez, cual fue despedida con aplausos y abrazos, continuara como asesora de educaci&oacute;n ambiental.</p>
 
 <p><img alt="" src="https://res.cloudinary.com/duuonteo7/image/upload/v1567609808/Bienvenida%20XVI%20Promocion/WhatsApp_Image_2019-09-04_at_12.05.15.jpg" style="width: 400px; height: 267px;" /></p>
 
