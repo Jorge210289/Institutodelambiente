@@ -22,5 +22,5 @@ entries:
     la conservación y regulación del medio ambiente y el manejo de los recursos naturales de la
     República Dominicana.”
 - year: Valores
-    content: Excelencia Académica, Responsabilidad Social Ambiental, Integridad, Equidad .    
+    content: Excelencia Académica, Responsabilidad Social Ambiental, Integridad, Equidad . 
 ---
