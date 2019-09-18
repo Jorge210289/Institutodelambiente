@@ -1,6 +1,6 @@
 ---
 title: Jorge Luis Abreu
-thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1568810639/Profesores%20Instituto/DSC_0023-e1566831408190.jpg
+thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1568811228/Profesores%20Instituto/Imagen1.jpg
 published: true
 ---
 
