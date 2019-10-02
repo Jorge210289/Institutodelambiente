@@ -27,7 +27,7 @@ images:
   - title: Titulo 1
     url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-1.jpg
   - title: Titulo 2
-    url: https://res.cloudinary.com/duuonteo7/video/upload/v1570019900/camelydamiron_-_BwpahAZBfKt.mp4
+    url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-2.jpg
   - title: Titulo 3
     url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-3.jpg
   - title: Titulo 4
