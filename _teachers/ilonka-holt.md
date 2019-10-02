@@ -1,6 +1,6 @@
 ---
-title: Jesus Rodriguez
+title: Jorge Luis Abreu
 published: True
 ---
 
-Aprender Inglés es un aspecto importante para todo profesional. Ilonka se ocupa de hacerlo en una forma divertida.
+Jorge Luis es el encargado de cómputos. también imparte clases Informática, Métodos Estadísticos, entre otras.
