@@ -8,6 +8,9 @@ permalink: /instituto/galeria/
 menus: institute
 
 images:
+  - url: https://res.cloudinary.com/duuonteo7/video/upload/v1570019900/camelydamiron_-_BwpahAZBfKt.mp4
+    category: visita
+    caption: Ven y realiza tu sesión fotográfica en nuestras instalaciones
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/hierbas.jpg
     category: produccion
     caption: Produción de condimentos para la cocina.
