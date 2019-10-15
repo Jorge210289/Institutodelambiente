@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuevos Estudiantes Promoción XVI
-date: 2019-10-19 16:16:01 -0600
+date: 2019-10-14 16:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1562069865/Convivencia/Grupo_06.jpg
 ---
