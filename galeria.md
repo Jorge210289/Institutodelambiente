@@ -8,6 +8,9 @@ permalink: /instituto/galeria/
 menus: institute
 
 images:
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1571167130/WhatsApp_Image_2019-10-15_at_14.20.25.jpg
+    category: visita
+    caption: Ceremonia de Bodas de Elsa Reyes
   - url: https://res.cloudinary.com/duuonteo7/video/upload/v1570019900/camelydamiron_-_BwpahAZBfKt.mp4
     category: visita
     caption: Ven y realiza tu sesión fotográfica en nuestras instalaciones
