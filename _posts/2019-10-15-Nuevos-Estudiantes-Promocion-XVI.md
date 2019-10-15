@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Nuevos Estudiantes Promoción XVI
