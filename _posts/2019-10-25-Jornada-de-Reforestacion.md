@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Jornada de Reforestacion
 date: 2019-10-25 00:00:01 -0600
