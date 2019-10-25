@@ -3,7 +3,7 @@ layout: post
 title: Visita Estiantes Colegio Doulus
 date: 2019-10-24 00:00:01 -0600
 category: eventos
-image: https://res.cloudinary.com/duuonteo7/video/upload/v1572015773/Ni%C3%B1os%20doluos/WhatsApp_Video_2019-10-24_at_17.54.16.mp4
+image: https://res.cloudinary.com/duuonteo7/image/upload/v1572015760/Ni%C3%B1os%20doluos/WhatsApp_Image_2019-10-24_at_17.50.23.jpg
 ---
 
 <head>
