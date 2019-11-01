@@ -25,9 +25,9 @@ items:
 
 images:
   - title: Titulo 1
-    url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-1.jpg
+    url: https://res.cloudinary.com/duuonteo7/image/upload/v1572618069/Multiuso/WhatsApp_Image_2019-10-31_at_13.53.49.jpg
   - title: Titulo 2
-    url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-2.jpg
+    url: https://res.cloudinary.com/duuonteo7/image/upload/v1572618069/Multiuso/WhatsApp_Image_2019-10-30_at_19.34.08.jpg
   - title: Titulo 3
     url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-3.jpg
   - title: Titulo 4
