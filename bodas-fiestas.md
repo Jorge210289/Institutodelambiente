@@ -29,6 +29,7 @@ images:
     image_caption: Estas fotos fueron tomadas en nuestro Instituto en diferentes bodas incluída la de Miss. República Dominicana Kimberly Castillo.
   - title: Titulo 2
     url: https://res.cloudinary.com/duuonteo7/image/upload/v1573044286/Multiuso/boda2.jpg
+    image_height: 720
   - title: Titulo 3
     url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-3.jpg
   - title: Titulo 4
