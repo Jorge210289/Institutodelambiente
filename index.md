@@ -35,4 +35,4 @@ tiles:
     thumbnail: https://res.cloudinary.com/instituto-del-ambiente/image/upload/c_scale,q_80,w_550/pages/profesores.jpg
 ---
 
-Ubicado en el corazón verde de la República Dominicana en Jarabacoa, preparamos jóvenes de todo el país para una carrera técnica. Nuestros estudiantes se gradúan como **Gestores Ambientales** y **Ciencias Forestales** y trabajan en empresas que se dedican al **Medio Ambiente**.
+Estamos ubicados en el corazón vede de la República Dominicana, Jarabacoa. Preparamos jóvenes de todo el país y de la hermana República de Haití, como Técnicos Superiores en Gestión Ambiental y Ciencias Forestales, para proteger nuestra casa grande, La Naturaleza.
