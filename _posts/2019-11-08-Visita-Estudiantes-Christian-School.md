@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visita Colegio Christian School de Jarabacoa
-date: 2019-06-17 08:16:01 -0600
+date: 2019-11-08 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1573650891/Visitantes/WhatsApp_Image_2019-11-12_at_09.51.04.jpg
 ---
