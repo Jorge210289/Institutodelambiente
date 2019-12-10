@@ -11,6 +11,9 @@ pre_heading: 50 años de experiencia
 heading: Nuestros Ejes Transversales
 
 entries:
+- year: Filosofía
+  content: “Nuestra filosofía está basada en la ciencia, la sostenibilidad económica, social, ambiental y cultural de un mundo necesitado de seres humanos formados en los valores éticos de la persona humana”.
+  
 - year: Misión
   content: “Formar profesionales de nivel técnico superior altamente calificados, con espíritu crítico, creativo, con visión global que contribuyan a una correcta aplicación de una política pública para la conservación y regulación del medio ambiente y el manejo de los recursos naturales de la República Dominicana”.
     
