@@ -18,7 +18,7 @@ hero:
 
 about:
   pretitle: 326 estudiantes graduados
-  title: Técnicos desde 1968
+  title: Formando Técnicos desde 1968
 
 tiles:
   - name: El Campus
