@@ -50,6 +50,6 @@ Miembro de la Mesa de Conservación del Recurso Agua (MEPyD), año 2016.
 Ideólogo, editor y precursor del proyecto MANEJO INTEGRAL PARTICIPATIVO DE LA SUBCUEBCA CAMÚ, año 2015.
 Ideólogo, precursor y ejecutor del 1er ENCUENTRO MUNDIAL DE AGRICULTURA BIOINTENSIVA PARA EL MEJORAMIENTO DE VIDA EN LA REPÚBLICA DOMINICANA, año 2014.
 Ideólogo y precursor de la Sociedad Ecológica Ucateciana, año 2010.
-  - year: Personalidad
-    content: Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora mucho el aprendizaje y la honestidad, así como también la creatividad y el desafío. Trabaja con facilidad las tecnologías de la información (TIC). Puede hablar, leer y escribir bien español e Inglés. Habla un poco de japonés.
+- year: Personalidad
+content: Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora mucho el aprendizaje y la honestidad, así como también la creatividad y el desafío. Trabaja con facilidad las tecnologías de la información (TIC). Puede hablar, leer y escribir bien español e Inglés. Habla un poco de japonés.
 ---
