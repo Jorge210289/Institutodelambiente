@@ -23,5 +23,10 @@ entries:
     content: Técnico en Responsabilidad Social Empresarial en la Universidad de Buenos Aires, Argentina, año 2009.
   - year: 
     content: Magister en Manejo de Recursos Naturales en la Universidad Nacional Pedro Henríquez Ureña (UNPHU), año 2002.
+  - year: 
+    content: Se graduó de ingeniero agrónomo en la Universidad Católica del Cibao-UCATECI en el año 1997. 
+  - year: 
+    content: Estudios técnicos. 
+    
 ---    
 
