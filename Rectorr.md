@@ -4,7 +4,7 @@ layout: history
 title: Nuestro Rector
 description: José Santiago Vásquez Guerra
 
-permalink: /instituto/Resctor/
+permalink: /instituto/Rector/
 menus: institute
 
 pre_heading: José Santiago Vásquez Guerra
