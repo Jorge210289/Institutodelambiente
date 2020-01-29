@@ -27,6 +27,9 @@ entries:
     content: Se graduó de ingeniero agrónomo en la Universidad Católica del Cibao-UCATECI en el año 1997. 
   - year: 
     content: Estudios técnicos. 
+  - year: 
+    content: Especialista en manejo Universidad-Industria, Korean Advanced Institute of Science and Technology, Korea del Sur, año 2017.
+    content: Especialista en Desarrollo Rural con Enfoque de Mejoramiento de Vida, Tsukuba, Japón, año 2013.. 
     
 ---    
 
