@@ -20,8 +20,7 @@ entries:
   - year: 
     content: Estudios técnicos. 
   - year: 
-    content: Especialista en manejo Universidad-Industria, Korean Advanced Institute of Science and Technology, Korea del Sur, año 2017.
-    content: Especialista en Desarrollo Rural con Enfoque de Mejoramiento de Vida, Tsukuba, Japón, año 2013.. 
+    content: Especialista en manejo Universidad-Industria, Korean Advanced Institute of Science and Technology, Korea del Sur, año 2017. Especialista en Desarrollo Rural con Enfoque de Mejoramiento de Vida, Tsukuba, Japón, año 2013. Técnico en Producción Limpia. Universidad INTEC, año 2009. Especialista en Tecnología de cultivo bajo ambiente controlado, año 2003, Tsukuba, Japón. Especialista en Agricultura Orgánica Método Biointensivo, año 2008, Tepotzotlán, Estado de México.
     
 ---    
 
