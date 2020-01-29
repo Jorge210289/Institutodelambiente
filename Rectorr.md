@@ -17,4 +17,11 @@ entries:
     content: Estudios Universitarios
   - year: 
     content: Doctarado en desarrollo sostenible, título obtenido en la Universidad UNICEPES, Michoacán, México, año 2017.
+  - year: 
+    content: Técnico en Produción Limpia en la Universidad INTEC, año 2011.
+  - year: 
+    content: Técnico en Responsabilidad Social Empresarial en la Universidad de Buenos Aires, Argentina, año 2009.
+  - year: 
+    content: Magister en Manejo de Recursos Naturales en la Universidad Nacional Pedro Henríquez Ureña (UNPHU), año 2002.
 ---    
+
