@@ -26,6 +26,24 @@ entries:
   - year: 
     content: Rector Instituto del Ambiente. 
   - year: 
-    content: En la Universidad Católica del Cibao-UCATECI, desempeñó las soguientes posiciones Director del Departamento de Proyectos. Director del Departamento de Recursos Naturales. Director del Departamento de Servicios Generales. Vicerrector Interino de Desarrollo y Extensión. Director del Departamento de Extensión Social Universitaria. Director Ejecutivo Sociedad Ecológica Ucateciana. Coordinador de la Unidad Estratégica Agroempresarial. Docente universitario, impartiendo asignaturas como Anteproyecto de Tesis, Ecología y Medio Ambiente, English I, II, III, IV & English for business.    
+    content: En la Universidad Católica del Cibao-UCATECI, desempeñó las soguientes posiciones Director del Departamento de Proyectos. Director del Departamento de Recursos Naturales. Director del Departamento de Servicios Generales. Vicerrector Interino de Desarrollo y Extensión. Director del Departamento de Extensión Social Universitaria. Director Ejecutivo Sociedad Ecológica Ucateciana. Coordinador de la Unidad Estratégica Agroempresarial. Docente universitario, impartiendo asignaturas como Anteproyecto de Tesis, Ecología y Medio Ambiente, English I, II, III, IV & English for business.   
+  - year: 
+    content: También. 
+  - year: 
+    content: Profesor en el Instituto Agronómico Salesiano de La Vega. Director del Centro Nacional de Los Recursos Naturales, CECARENA, Jimenoa, Jarabacoa, año 1991-2000. 
+  - year: 
+    content: Publicaciones. 
+  - year: 
+    content: Ha realizado seis (6) publicaciones en revistas nacionales e intenacionales, más su Tesis Doctoral titulada Sistemas Implementados con Ingeniería Verde en el Manejo de las Aguas Residuales Caso, Municipio de Jarabacoa, año 2018. 
+  - year: 
+    content: Logros.  
+  - year: 
+    content: Revisor par, de la Revista Internacional de Sostenibilidad, Universidad de Illinois, Vancouver, Canadá. Ideólogo, elaborador del proyecto MANEJO INTEGRAL DE LA CUENCA YUNA, año 2017. Miembro de la Mesa de Conservación del Recurso Agua (MEPyD), año 2016. Ideólogo, editor y precursor del proyecto MANEJO INTEGRAL PARTICIPATIVO DE LA SUBCUEBCA CAMÚ, año 2015. Ideólogo, precursor y ejecutor del 1er ENCUENTRO MUNDIAL DE AGRICULTURA BIOINTENSIVA PARA EL MEJORAMIENTO DE VIDA EN LA REPÚBLICA DOMINICANA, año 2014. Ideólogo y precursor de la Sociedad Ecológica Ucateciana, año 2010.
+  - year: 
+    content: Personalidad. 
+  - year: 
+    content: Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora. 
+    
+
 ---    
 
