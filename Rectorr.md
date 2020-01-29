@@ -9,6 +9,7 @@ menus: institute
 
 pre_heading: José Santiago Vásquez Guerra
 heading: Nuestro Rector
+image: https://res.cloudinary.com/duuonteo7/image/upload/v1576067971/Profesores%20Instituto/WhatsApp_Image_2019-12-10_at_10.27.53.jpg
 
 entries:
   - year: Bio
