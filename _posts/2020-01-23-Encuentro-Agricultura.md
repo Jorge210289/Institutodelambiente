@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 1er Encuentro Mundial de Agricultura Biointensiva para el Mejoramiento de Vida
 date: 2020-01-23 08:16:01 -0600
