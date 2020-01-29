@@ -13,5 +13,8 @@ heading: Nuestro Rector
 entries:
   - year: Bio
     content: Nacido el día 6 de enero del 1964, en la ciudad de La Vega, República Dominicana. Hijo de padres dominicanos, casado con la Lcda. Elisa Altagracia Abreu, educadora, con quien ha procreado tres hijos, Hosseini, Nelissa y Óscar José.
-    content: Estudios universitarios
+  - year: 
+    content: Estudios Universitarios
+  - year: 
+    content: Doctarado en desarrollo sostenible, título obtenido en la Universidad UNICEPES, Michoacán, México, año 2017.
 ---    
