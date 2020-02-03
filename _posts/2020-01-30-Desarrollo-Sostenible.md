@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Desarrollo Sostenible y su Dimensión
 date: 2020-01-30 08:16:01 -0600
