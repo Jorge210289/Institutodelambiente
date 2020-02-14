@@ -8,6 +8,24 @@ permalink: /instituto/galeria/
 menus: institute
 
 images:
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1581684160/Bodas/WhatsApp_Image_2020-02-13_at_3.18.15_PM.jpg
+    category: visita
+    caption: Boda realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1581684160/Bodas/WhatsApp_Image_2020-02-13_at_3.18.15_PM_1.jpg
+    category: visita
+    caption: Boda realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1581684160/Bodas/WhatsApp_Image_2020-02-13_at_3.18.19_PM.jpg
+    category: visita
+    caption: Boda realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1581684161/Bodas/WhatsApp_Image_2020-02-13_at_3.18.18_PM_1.jpg
+    category: visita
+    caption: Boda realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1581684161/Bodas/WhatsApp_Image_2020-02-13_at_3.18.18_PM.jpg
+    category: visita
+    caption: Boda realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1581684161/Bodas/WhatsApp_Image_2020-02-13_at_3.18.17_PM.jpg
+    category: visita
+    caption: Boda realizada en nuestras instalaciones
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1571167130/WhatsApp_Image_2019-10-15_at_14.20.25.jpg
     category: visita
     caption: Ceremonia de Bodas de Elsa Reyes
