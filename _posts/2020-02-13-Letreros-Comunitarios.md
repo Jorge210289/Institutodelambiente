@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Instituto del Ambiente entrega letreros a comunitarios de Jimayaco Abajo, La Vega
 date: 2020-02-13 08:16:01 -0600
