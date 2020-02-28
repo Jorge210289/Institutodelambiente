@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: El Parque Nacional Valle Nuevo. Por el Dr. José Vásquez
 date: 2020-02-25 08:16:01 -0600
