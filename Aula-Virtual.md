@@ -4,7 +4,7 @@ description: Un Día con la Naturaleza, campamentos, Un Fin de Semana con la Nat
 
 menus: services
 
-permalink: /https://institutodelambiente.milaulas.com/login/index.php//
+permalink: "https://institutodelambiente.milaulas.com/login/index.php/"
 URL: https://institutodelambiente.milaulas.com/login/index.php
 
 
