@@ -9,7 +9,7 @@ menus:
     weight: 4
 
 
-permalink: //https://institutodelambiente.milaulas.com/login/index.php/
+https: //institutodelambiente.milaulas.com/login/index.php/
 URL: https://institutodelambiente.milaulas.com/login/index.php
 
 
