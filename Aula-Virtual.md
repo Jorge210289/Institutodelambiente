@@ -15,4 +15,4 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 
 ---
 
-<a class="enlace" href="https://institutodelambiente.milaulas.com/login/index.php">Ir a AULA VIRTUAL</a>
+<h1 style="text-align: center;"><a href="https://institutodelambiente.milaulas.com/login/index.php" target="_blank" rel="noopener" title="Ir a AULA VIRTUAL"><span style="text-decoration: underline;">Ir a AULA VIRTUAL</span></a></h1>
