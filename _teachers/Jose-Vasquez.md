@@ -1,6 +1,6 @@
 ---
 title: José S. Vásquez Guerra
-thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1579867647/Rector.png
+thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1588596485/Profesores/WhatsApp_Image_2020-05-04_at_9-removebg-preview.png
 published: true
 sort: 2
 ---
