@@ -29,7 +29,7 @@ tiles:
     description: Infórmate sobre las carreras que puedes estudiar...
     url: /instituto/carreras/
     thumbnail: https://res.cloudinary.com/instituto-del-ambiente/image/upload/c_scale,q_80,w_550/pages/hombre-trabajando.jpg
-  - name: Autoridades Académica
+  - name: Autoridades Académicas
     description: Ven a conocer nuestras Autoridades y profesores...
     url: /instituto/profesores/
     thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1576067971/Profesores%20Instituto/WhatsApp_Image_2019-12-10_at_10.27.53.jpg
