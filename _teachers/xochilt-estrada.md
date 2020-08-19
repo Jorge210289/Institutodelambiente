@@ -1,5 +1,6 @@
 ---
 title: Xochilt Estrada
+thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1597839113/Profesores/Imagen1-removebg-preview.png
 published: true
 ---
 
