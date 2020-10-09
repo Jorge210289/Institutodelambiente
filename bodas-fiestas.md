@@ -33,7 +33,7 @@ images:
   - title: Titulo 3
     url: https://res.cloudinary.com/duuonteo7/image/upload/v1602251285/Bodas/boda-3.jpg
   - title: Titulo 4
-    url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/boda-4.jpg
+    url: https://res.cloudinary.com/duuonteo7/image/upload/v1602251374/Bodas/boda-4.jpg
 image_caption: Fotos tomadas en diferentes actividades dentro de nuestro campus incluída la boda de Miss. República Dominicana Kimberly Castillo.
 
 others:
