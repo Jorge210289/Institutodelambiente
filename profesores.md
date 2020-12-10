@@ -4,7 +4,7 @@ layout: teachers
 title: Docentes
 description: Nuestros docentes son el fundamento para una educación sostenible.
 
-permalink: /instituto/docentes/
+permalink: /instituto/profesores/
 menus: institute
 ---
 
