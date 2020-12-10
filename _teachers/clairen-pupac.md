@@ -5,4 +5,4 @@ published: true
 date: 2020-01-10 16:16:01 -0600
 ---
 
-Clairen trabaja como profesora de Inglés, Ética Profesional y es encargada de Turismo Educativo.
+Clairen trabaja como docente de Inglés, Ética Profesional y es encargada de Turismo Educativo.
