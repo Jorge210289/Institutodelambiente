@@ -36,9 +36,9 @@ campus:
   image_path: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/camino-de-puerta.jpg
   content: Este Instituto cuenta con 2 campus que ofrecen una gran variedad de plantas, áreas temáticas y más. Haz clic en el botón de abajo para obtener más información sobre esto y para ver las fotos.
 teachers:
-  title: Profesores
+  title: Docentes
   image_path: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/profesores.jpg
-  content: Como parte de nuestra misión académica, contamos con un cuerpo de profesores con amplios conocimientos y una gran experiencia.<br><br>¡Ven y conócenos!
+  content: Como parte de nuestra misión académica, contamos con un cuerpo de docentes con amplios conocimientos y una gran experiencia.<br><br>¡Ven y conócenos!
 application:
   title: Como aplicar
   content: ¿Interesado en estudiar aquí? Hay algunas cosas que necesitas saber primero. Haz click en el botón y te lo explicaremos.
