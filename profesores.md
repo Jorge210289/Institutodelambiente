@@ -1,12 +1,12 @@
 ---
 layout: teachers
 
-title: Profesores
-description: Nuestros profesores son el fundamento para una educación sostenible.
+title: Docentes
+description: Nuestros docentes son el fundamento para una educación sostenible.
 
-permalink: /instituto/profesores/
+permalink: /instituto/docentes/
 menus: institute
 ---
 
-Tenemos 12 profesores fijos con diferentes conocimientos y experiencias laborales.
+Tenemos 12 docentes fijos con diferentes conocimientos y experiencias laborales.
 Además de eso, también trabajamos con el Ministerio de Medio Ambiente y podemos confiar en el conocimiento de sus profesionales para nuestras clases.
