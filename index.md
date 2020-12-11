@@ -31,7 +31,7 @@ tiles:
     thumbnail: https://res.cloudinary.com/instituto-del-ambiente/image/upload/c_scale,q_80,w_550/pages/hombre-trabajando.jpg
   - name: Autoridades Académicas
     description: Ven a conocer nuestras Autoridades y profesores...
-    url: /instituto/profesores/
+    url: /instituto/docentes/
     thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1607549321/Profesores/Imagen1.png
 ---
 
