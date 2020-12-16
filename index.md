@@ -28,7 +28,10 @@ tiles:
   - name: Las Carreras
     description: Infórmate sobre las carreras que puedes estudiar...
     url: /instituto/carreras/
-    thumbnail: https://res.cloudinary.com/instituto-del-ambiente/image/upload/c_scale,q_80,w_550/pages/hombre-trabajando.jpg
+  - name: Nuestro Ministro
+    description: Conóce nuestro Ministro de Medio Ambiente y Recursos Naturales
+    url: /instituto/ministro/
+    thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1608125964/Profesores/Ministro.png
   - name: Autoridades Académicas
     description: Ven a conocer nuestras Autoridades y profesores...
     url: /instituto/docentes/
