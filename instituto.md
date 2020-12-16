@@ -35,7 +35,7 @@ campus:
   title: Campus
   image_path: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/camino-de-puerta.jpg
   content: Este Instituto cuenta con 2 campus que ofrecen una gran variedad de plantas, áreas temáticas y más. Haz clic en el botón de abajo para obtener más información sobre esto y para ver las fotos.
-ministro:
+teachers:
   title: Ministro
   image_path: https://res.cloudinary.com/duuonteo7/image/upload/v1608125964/Profesores/Ministro.png
   content: Conoce a nuestro Ministro de Medio Ambiente y Recursos Naturales
