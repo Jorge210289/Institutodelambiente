@@ -27,10 +27,6 @@ principles:
   - title: Nuestra Visión
     content: Ser una Institución Técnica de Educación Superior líder en la formación, capacitación y actualización de técnicos y profesionales en la Gestión del Medio Ambiente y en el Manejo de los Recursos Naturales, que contribuyan con la implementación de un modelo de desarrollo sostenible que garantice una calidad de vida adecuada para las generaciones presentes y futuras.
     icon: vision
-careers:
-  title: Carreras
-  image_path: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/hombre-trabajando.jpg
-  content: "Ofrecemos 2 carreras diferentes: <b>Ciencias Forestales</b> y <b>Gestión Ambiental</b>. Haz clic en el botón abajo para obtener más informaciones acerca de estas carreras.<br><br>¿Te gustaría una?"
 campus:
   title: Campus
   image_path: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/camino-de-puerta.jpg
