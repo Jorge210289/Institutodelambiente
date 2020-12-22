@@ -13,8 +13,8 @@ menus:
     weight: 1
 
 hero:
-  title: Únete con el Medio Ambiente
-  subtitle: ¿Quieres estudiar en el área de medio ambiente y proteger tu mundo?<br>¡Empieza aquí!
+  title: En esta navidad y año nuevo
+  subtitle: Te deseamos que la paz, el amor y la alegría reine en nuestras vidas
 
 about:
   pretitle: 326 estudiantes graduados
