@@ -18,7 +18,7 @@ entries:
   - year: 2016
     content: Entra la décimo cuarta Promoción con 51 estudiantes, de ellos 47% de sexo femenino y 53% de sexo masculino.
   - year: 2010
-    content: A través de una resolucion ministerial, se designó como Escuela Nacional de Medio Ambiente y Recursos Naturales (Escuela Ambiental) en la gestión del Dr. Jaime David Fernández Mirabal, Ministro de Medio Ambiente, ahora con un marco más global de conservación y protección de los recursos naturales de nuestro país.
+    content: Se designó como Escuela Nacional de Medio Ambiente y Recursos Naturales (Escuela Ambiental) en la gestión del Dr. Jaime David Fernández Mirabal, Ministro de Medio Ambiente, ahora con un marco más global de conservación y protección de los recursos naturales de nuestro país.
   - year: 1987
     content: En la décimo cuarta Promoción se incluyeron jóvenes del sexo femenino. Teresa Tiburcio fue la primera mujer en graduarse.
   - year: 1977
