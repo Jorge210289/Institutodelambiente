@@ -12,7 +12,7 @@ heading: Sirviendo al medio ambiente desde 1968
 
 entries:
   - year: 2018
-    content: La Escuela fue renombrada como Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales y ya es reconocida por el Ministerio de Educación Superior de Ciencias y Tecnologías.
+    content: La Escuela fue renombrada como Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales mediante la resolución 83-2017 y ya es reconocida por el Ministerio de Educación Superior de Ciencias y Tecnologías.
   - year: 2017
     content: En septiembre de ese año se dió inicio a la XV promocion con 56 estudiantes, siendo 6 de estos de nacionalidad haitiana. Actualmente permanecen 38 estudiantes, de los cuales 30 se especializan en Ciencias Forestales y 8 estudian Gestion Ambiental.
   - year: 2016
