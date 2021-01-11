@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Reunión del Cluster Turístico de Jarabacoa
 date: 2021-01-08 16:16:01 -0600
