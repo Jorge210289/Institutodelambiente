@@ -29,7 +29,7 @@ events:
     image: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/campamentos.jpg
     icon: tent
   - title: Áreas de acampar y BBQ
-    content: Ofrecemos áreas verdes espaciosas para hacer campamentos y barbacoas. Por favor trae tu casa de campaña, equipo y una fuente de luz. El costo para cada persona es 100$ y incluye el uso de baños, área de fogata, balneario en el río Jimenoa y el area de barbecoa.
+    content: Ofrecemos áreas verdes espaciosas para hacer campamentos y barbacoas. Por favor trae tu casa de campaña, equipo y una fuente de luz. El costo para cada persona es 100$ y incluye el uso de baños, área de fogata, balneario en el río Jimenoa y el area de barbacoa.
     image: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/areas-de-acampar.jpg 
     icon: grill
   - title: Viaja, Conoce y Aprende
