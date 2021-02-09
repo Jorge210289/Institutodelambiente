@@ -305,9 +305,6 @@ images:
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/pages/camino-de-puerta.jpg
     category: bosques
     caption: Nuestros jovenes se especializan en varias áreas incluyendo la poda.
-  - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/ropa-afuera.jpg
-    category: residencia
-    caption: El Instituto cuenta con varias áreas, incluyendo esta lavandería.
   - url: https://res.cloudinary.com/instituto-del-ambiente/image/upload/gallery/letrero-parque-acuatico.jpg
     category: bosques
     caption: Dirección hacia el parque acuatico.
