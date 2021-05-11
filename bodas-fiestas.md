@@ -9,7 +9,7 @@ permalink: /servicios/bodas-fiestas/
 menus: services
 
 intro:
-  title: Casarte en el medio ambiente
+  title: Cásate en la Naturaleza
   pretitle: Una boda en el verde
 
 items:
