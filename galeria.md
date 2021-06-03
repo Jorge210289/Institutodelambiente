@@ -8,6 +8,18 @@ permalink: /instituto/galeria/
 menus: institute
 
 images:
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1622745862/Yanme/AHM_0318.jpg
+    category: visita
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1622745878/Yanme/AHM_0306.jpg
+    category: visita
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1622745885/Yanme/AHM_0449.jpg
+    category: visita
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1622745889/Yanme/AHM_0338.jpg
+    category: visita
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1622746110/Yanme/AHM_0370.jpg
+    category: visita
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1622746118/Yanme/AHM_0430.jpg
+    category: visita
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1581684160/Bodas/WhatsApp_Image_2020-02-13_at_3.18.15_PM.jpg
     category: visita
     caption: Boda realizada en nuestras instalaciones
