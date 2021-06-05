@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Día del Medio AMbiente
-date: 2021-06-05 12:16:01 -0600
+date: 2021-06-05 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1622914815/diaambiete/WhatsApp_Image_2021-06-05_at_1.59.39_PM.jpg
 ---
