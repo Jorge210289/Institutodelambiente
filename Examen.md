@@ -125,6 +125,12 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Ciudad Ganadera</p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong>Monse&ntilde;or Nouel y La Vega<br /></strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Instituto del Ambiente, Jarabacoa</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
@@ -135,5 +141,5 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <li style="text-align: center;"><b>Bachiller menor de 25 a&ntilde;os de edad</b></li>
 <li style="text-align: center;"><b>Presentar tarjeta vacunaci&oacute;n contra COVID-19</b></li>
 </ul>
-<p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 ---
