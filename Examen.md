@@ -34,7 +34,7 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p><b>Santo Domingo y San Cristobal</b></p>
 </td>
 <td style="width: 316.133px; height: 64px; text-align: left;">
-<p>UNPHU de la Ave. John F. Kennedy en Santo Domingo</p>
+<p>La UNPHU de la Ave. John F. Kennedy en Santo Domingo</p>
 </td>
 </tr>
 <tr style="height: 82px;">
@@ -110,7 +110,7 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <tr style="height: 46px;">
 <td style="width: 232.117px; height: 46px; text-align: left;"><strong>La descubierta</strong></td>
 <td style="width: 316.133px; height: 46px; text-align: left;">
-<p>Centro Culural Yolanda Mendez</p>
+<p>Centro Cultural Yolanda Mendez</p>
 </td>
 </tr>
 <tr>
