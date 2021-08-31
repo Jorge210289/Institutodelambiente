@@ -10,9 +10,8 @@ menus: institute
 pre_heading: Examen de Admisión
 heading: Lugares
 
-content: |
-
- <p>&nbsp;</p>
+content:
+<p>&nbsp;</p>
 <h1 style="text-align: center;"><b>Lugares donde se impartir&aacute; el examen de </b><b>admisi&oacute;n</b></h1>
 <p style="text-align: center;"><b>Fecha: </b>23 de septiembre 2021</p>
 <p style="text-align: center;"><b>Hora: </b>09:00 a.m. a 12:00 p.m.</p>
