@@ -1,14 +1,14 @@
 ---
 layout: history
 
-title: Examen
-description: Examen de Admisión.
+title: Examen de Admsión
+description: Lugares dónde será impartido
 
 permalink: /instituto/Examen/
 menus: institute
 
 pre_heading: Examen de Admisión
-heading: Lugares dónde se impartirá
+heading: Lugares
 
 content: |
 
