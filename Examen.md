@@ -4,7 +4,7 @@ layout: history
 title: Examen
 description: Examen de Admisión.
 
-permalink: /instituto/Mision/
+permalink: /instituto/Examen/
 menus: institute
 
 pre_heading: Examen de Admisión
