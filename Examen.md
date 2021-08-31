@@ -2,13 +2,13 @@
 layout: history
 
 title: Examen
-description: Examen de Admisión.
+description: Examen de AdmisiÃ³n.
 
 permalink: /instituto/Mision/
 menus: institute
 
-pre_heading: Examen de Admisión
-heading: Lugares dónde se impartirá
+pre_heading: Examen de AdmisiÃ³n
+heading: Lugares dÃ³nde se impartirÃ¡
 
 content: |
 
