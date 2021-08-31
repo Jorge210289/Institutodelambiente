@@ -1,16 +1,19 @@
 ---
-layout: history
+layout: landing-page
+title: Examen Admision
+menus:
+  header:
+    title: Examen Admision
+    weight: 4
+  footer:
+    title: Examen Admision
+    weight: 4
 
-title: Examen de Admsión
-description: Lugares dónde será impartido
+URL: https://institutodelambiente.milaulas.com/login/index.php
 
-permalink: /instituto/Examen/
-menus: institute
 
-pre_heading: Examen de Admisión
-heading: Lugares
 
-content:
+---
 <p>&nbsp;</p>
 <h1 style="text-align: center;"><b>Lugares donde se impartir&aacute; el examen de </b><b>admisi&oacute;n</b></h1>
 <p style="text-align: center;"><b>Fecha: </b>23 de septiembre 2021</p>
