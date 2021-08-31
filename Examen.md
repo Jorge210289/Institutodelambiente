@@ -119,6 +119,12 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Sal&oacute;n de Villas Codevi / Zona Franca</p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong>San Francisco<br /></strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Ciudad Ganadera</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
