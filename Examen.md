@@ -140,6 +140,7 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <li style="text-align: center;"><b>Uso obligatorio de mascarilla</b></li>
 <li style="text-align: center;"><b>Bachiller menor de 25 a&ntilde;os de edad</b></li>
 <li style="text-align: center;"><b>Presentar tarjeta vacunaci&oacute;n contra COVID-19</b></li>
+<li style="text-align: center;"><b>Llevar lápiz y lapicero</b></li>
 </ul>
 <p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 ---
