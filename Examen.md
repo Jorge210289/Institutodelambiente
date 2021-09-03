@@ -131,6 +131,24 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Instituto del Ambiente, Jarabacoa</p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong> Santiago Rodr&iacute;guez</strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Sal&oacute;n del Ayuntamiento</p>
+</td>
+</tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong>Duverg&eacute;, Prov. Independencia</strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Liceo Secundario Enriquillo</p>
+</td>
+</tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong>Jimani, Prov. Independencia</strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Liceo Secundario Frof. M&aacute;ximo P&eacute;rez Florian</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
@@ -140,7 +158,7 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <li style="text-align: center;"><b>Uso obligatorio de mascarilla</b></li>
 <li style="text-align: center;"><b>Bachiller menor de 25 a&ntilde;os de edad</b></li>
 <li style="text-align: center;"><b>Presentar tarjeta vacunaci&oacute;n contra COVID-19</b></li>
-<li style="text-align: center;"><b>Llevar lápiz y lapicero</b></li>
+<li style="text-align: center;"><b>Llevar l&aacute;piz y lapicero</b></li>
 </ul>
 <p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 ---
