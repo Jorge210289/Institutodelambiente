@@ -155,6 +155,12 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Oficina provincial de Medioambiente</p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong>San Pedro<br /></strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Escuela Vocacional (Laboral)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
