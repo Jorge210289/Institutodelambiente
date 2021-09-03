@@ -161,6 +161,18 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Escuela Vocacional (Laboral)</p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong>La Romana<br /></strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Sal&oacute;n de actos de la gobernaci&oacute;n</p>
+</td>
+</tr>
+<tr>
+<td style="width: 232.117px; text-align: left;"><strong>Hato Mayor</strong></td>
+<td style="width: 316.133px; text-align: left;">
+<p>Escuela Primaria Julio Mateo Jimenes, Recinto Juan Bosch</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
