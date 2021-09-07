@@ -24,153 +24,170 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <table class="demoTable" style="height: 646px; width: 556px; margin-left: auto; margin-right: auto; border-style: solid;">
 <thead>
 <tr style="height: 18px;">
-<td style="width: 232.117px; text-align: center; height: 18px;"><strong><span style="color: #c82828;">Provincia</span></strong></td>
-<td style="width: 316.133px; height: 18px;"><strong><span style="color: #c82828;">Lugar</span></strong></td>
+<td style="width: 232.283px; text-align: center; height: 18px;"><strong><span style="color: #c82828;">Provincia</span></strong></td>
+<td style="width: 316.367px; height: 18px;"><strong><span style="color: #c82828;">Lugar</span></strong></td>
 </tr>
 </thead>
 <tbody>
 <tr style="height: 64px;">
-<td style="width: 232.117px; height: 64px; text-align: left;">
+<td style="width: 232.283px; height: 64px; text-align: left;">
 <p><b>Santo Domingo y San Cristobal</b></p>
 </td>
-<td style="width: 316.133px; height: 64px; text-align: left;">
+<td style="width: 316.367px; height: 64px; text-align: left;">
 <p>La UNPHU de la Ave. John F. Kennedy en Santo Domingo</p>
 </td>
 </tr>
 <tr style="height: 82px;">
-<td style="width: 232.117px; height: 82px; text-align: left;">
+<td style="width: 232.283px; height: 82px; text-align: left;">
 <p><b>Santiago, Moca y Sajoma</b></p>
 <p><b>&nbsp;</b></p>
 </td>
-<td style="width: 316.133px; height: 82px; text-align: left;">
+<td style="width: 316.367px; height: 82px; text-align: left;">
 <p>Centro Educativo Prof. Juan Emilio Bosh. Crta. Las Palomas al lado del Club de los ferreteros, Santiago</p>
 </td>
 </tr>
 <tr style="height: 78px;">
-<td style="width: 232.117px; height: 78px; text-align: left;">
+<td style="width: 232.283px; height: 78px; text-align: left;">
 <p><b>Monte Plata</b></p>
 <p><b>&nbsp;</b></p>
 </td>
-<td style="width: 316.133px; height: 78px; text-align: left;">
+<td style="width: 316.367px; height: 78px; text-align: left;">
 <p>Colegio de las Monjas "Madre Ascensi&oacute;n N&iacute;col", detr&aacute;s de la polic&iacute;a Nacional</p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 232.117px; height: 46px; text-align: left;">
+<td style="width: 232.283px; height: 46px; text-align: left;">
 <p><b>San Juan</b></p>
 </td>
-<td style="width: 316.133px; height: 46px; text-align: left;">
+<td style="width: 316.367px; height: 46px; text-align: left;">
 <p>Aula Jacobo Moquete, Recinto UASD</p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 232.117px; height: 46px; text-align: left;">
+<td style="width: 232.283px; height: 46px; text-align: left;">
 <p><b>Puerto Plata</b></p>
 </td>
-<td style="width: 316.133px; height: 46px; text-align: left;">
+<td style="width: 316.367px; height: 46px; text-align: left;">
 <p>Recinto UASD</p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 232.117px; height: 46px; text-align: left;">
+<td style="width: 232.283px; height: 46px; text-align: left;">
 <p><b>Montecristi</b></p>
 </td>
-<td style="width: 316.133px; height: 46px; text-align: left;">
+<td style="width: 316.367px; height: 46px; text-align: left;">
 <p>Liceo Jos&eacute; Mart&iacute;</p>
 </td>
 </tr>
 <tr style="height: 64px;">
-<td style="width: 232.117px; height: 64px; text-align: left;">
+<td style="width: 232.283px; height: 64px; text-align: left;">
 <p><b>Azua</b></p>
 </td>
-<td style="width: 316.133px; height: 64px; text-align: left;">
+<td style="width: 316.367px; height: 64px; text-align: left;">
 <p>Instituto Polit&eacute;cnico Digna Teresa de Estrada</p>
 </td>
 </tr>
 <tr style="height: 64px;">
-<td style="width: 232.117px; height: 64px; text-align: left;"><strong>Barahona</strong>
+<td style="width: 232.283px; height: 64px; text-align: left;"><strong>Barahona</strong>
 <p><strong>&nbsp;</strong></p>
 </td>
-<td style="width: 316.133px; height: 64px; text-align: left;">
+<td style="width: 316.367px; height: 64px; text-align: left;">
 <p>Direcci&oacute;n Provincial de Medio Ambiente</p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 232.117px; height: 46px; text-align: left;"><strong>Pedernales</strong></td>
-<td style="width: 316.133px; height: 46px; text-align: left;">
+<td style="width: 232.283px; height: 46px; text-align: left;"><strong>Pedernales</strong></td>
+<td style="width: 316.367px; height: 46px; text-align: left;">
 <p>Direcci&oacute;n Provincial de Medio Ambiente</p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 232.117px; height: 46px; text-align: left;"><strong>Neiba</strong></td>
-<td style="width: 316.133px; height: 46px; text-align: left;">
+<td style="width: 232.283px; height: 46px; text-align: left;"><strong>Neiba</strong></td>
+<td style="width: 316.367px; height: 46px; text-align: left;">
 <p>Escuela Vocacional de las Fuerzas Armadas</p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 232.117px; height: 46px; text-align: left;"><strong>La descubierta</strong></td>
-<td style="width: 316.133px; height: 46px; text-align: left;">
+<td style="width: 232.283px; height: 46px; text-align: left;"><strong>La descubierta</strong></td>
+<td style="width: 316.367px; height: 46px; text-align: left;">
 <p>Centro Cultural Yolanda Mendez</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>Dajab&oacute;n</strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>Dajab&oacute;n</strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Sal&oacute;n de Villas Codevi / Zona Franca</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>San Francisco<br /></strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>San Francisco<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Ciudad Ganadera</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>Monse&ntilde;or Nouel y La Vega<br /></strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>Monse&ntilde;or Nouel y La Vega<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Instituto del Ambiente, Jarabacoa</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong> Santiago Rodr&iacute;guez</strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong> Santiago Rodr&iacute;guez</strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Sal&oacute;n del Ayuntamiento</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>Duverg&eacute;, Prov. Independencia</strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>Duverg&eacute;, Prov. Independencia</strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Liceo Secundario Enriquillo</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>Jimani, Prov. Independencia</strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>Jimani, Prov. Independencia</strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Liceo Secundario Frof. M&aacute;ximo P&eacute;rez Florian</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>Mao<br /></strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>Mao<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Oficina provincial de Medioambiente</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>San Pedro<br /></strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>San Pedro<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Escuela Vocacional (Laboral)</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>La Romana<br /></strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>La Romana<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Sal&oacute;n de actos de la gobernaci&oacute;n</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td style="width: 232.117px; text-align: left;"><strong>Hato Mayor</strong></td>
-<td style="width: 316.133px; text-align: left;">
+<td style="width: 232.283px; text-align: left;"><strong>Hato Mayor</strong></td>
+<td style="width: 316.367px; text-align: left;">
 <p>Escuela Primaria Julio Mateo Jimenes, Recinto Juan Bosch</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td style="width: 232.283px; text-align: left;"><strong>Elias Pi&ntilde;a<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
+<p>Liceo Gast&oacute;n Fernando Deligne</p>
 </td>
 </tr>
 </tbody>
