@@ -173,7 +173,7 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <tr>
 <td style="width: 232.283px; text-align: left;"><strong>La Romana<br /></strong></td>
 <td style="width: 316.367px; text-align: left;">
-<p>Sal&oacute;n de actos de la gobernaci&oacute;n</p>
+<p>Polit&eacute;cnico Calasanz San Eduardo</p>
 <p></p>
 </td>
 </tr>
