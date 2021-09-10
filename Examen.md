@@ -190,6 +190,12 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Liceo Gast&oacute;n Fernando Deligne</p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.283px; text-align: left;"><strong>Peravia<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
+<p>Escuela Vocacional<strong></strong></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
