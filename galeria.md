@@ -8,6 +8,21 @@ permalink: /instituto/galeria/
 menus: institute
 
 images:
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1631626861/Bodas/IMG_3084.jpg.jpg
+    category: visita
+    caption: Sesión de fotos realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1631626860/Bodas/IMG_3102.jpg
+    category: visita
+    caption: Sesión de fotos realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1631626860/Bodas/IMG_3094.jpg
+    category: visita
+    caption: Sesión de fotos realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1631626859/Bodas/IMG_3090.jpg
+    category: visita
+    caption: Sesión de fotos realizada en nuestras instalaciones
+  - url: https://res.cloudinary.com/duuonteo7/image/upload/v1631626858/Bodas/IMG_3091.jpg
+    category: visita
+    caption: Sesión de fotos realizada en nuestras instalaciones
   - url: https://res.cloudinary.com/duuonteo7/image/upload/v1622745862/Yanme/AHM_0318.jpg
     category: visita
     caption: Sesión de fotos realizada en nuestras instalaciones
