@@ -25,7 +25,7 @@ items:
 
 images:
   - title: Titulo 1
-    url: https://res.cloudinary.com/duuonteo7/image/upload/v1573044286/Multiuso/Boda1.jpg
+    url: https://res.cloudinary.com/duuonteo7/image/upload/v1631626861/Bodas/IMG_3084.jpg
     image_caption: Fotos tomadas en diferentes actividades dentro de nuestro campus
   - title: Titulo 2
     url: https://res.cloudinary.com/duuonteo7/image/upload/v1602250926/Bodas/WhatsApp_Image_2020-10-09_at_10.22.43_AM.jpg
