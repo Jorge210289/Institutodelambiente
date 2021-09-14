@@ -191,9 +191,9 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 </td>
 </tr>
 <tr>
-<td style="width: 232.283px; text-align: left;"><strong>Peravia<br /></strong></td>
+<td style="width: 232.283px; text-align: left;"><strong>Ban&iacute; - Peravia<br /></strong></td>
 <td style="width: 316.367px; text-align: left;">
-<p>Escuela Vocacional<strong></strong></p>
+<p>Escuela Vocacional<br />Contacto: 809-522-7898 y 809-706-4262<br /><strong></strong></p>
 </td>
 </tr>
 </tbody>
