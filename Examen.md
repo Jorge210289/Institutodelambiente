@@ -19,6 +19,14 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p><b></b></p>
 <p style="text-align: center;"><b>Fecha: </b>23 de septiembre 2021</p>
 <p style="text-align: center;"><b>Hora: </b>09:00 a.m. a 12:00 p.m.</p>
+<p style="text-align: center;"><span style="color: #ff0000;"><b>REQUISITOS PARA TOMAR LA PRUEBA<br /></b></span></p>
+<ul>
+<li style="text-align: center;"><b>Traer consigo: Copia de c&eacute;dula</b></li>
+<li style="text-align: center;"><b>Uso obligatorio de mascarilla</b></li>
+<li style="text-align: center;"><b>Bachiller menor de 25 a&ntilde;os de edad</b></li>
+<li style="text-align: center;"><b>Presentar tarjeta vacunaci&oacute;n contra COVID-19</b></li>
+<li style="text-align: center;"><b>Llevar l&aacute;piz y lapicero</b></li>
+</ul>
 <p style="text-align: center;"></p>
 <!-- Este comentario es visible solo en el editor fuente -->
 <table class="demoTable" style="height: 646px; width: 556px; margin-left: auto; margin-right: auto; border-style: solid;">
