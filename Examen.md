@@ -204,6 +204,12 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Escuela Vocacional<br />Contacto: 809-522-7898 y 809-706-4262<br /><strong></strong></p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.283px; text-align: left;"><strong>Nagua<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
+<p>Escuela Grull&oacute;n, Avenidad Maria Trinidad Sanchez</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
