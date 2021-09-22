@@ -210,6 +210,12 @@ URL: https://institutodelambiente.milaulas.com/login/index.php
 <p>Escuela B&aacute;sica Eliseo Grull&oacute;n, AvenidadMaria Trinidad Sanchez, Pr&oacute;ximo al Banco Popular.<br />Contacto: Oscar Pablo 809-264-5419<br />Dominga Jimenez: 809-584-3586</p>
 </td>
 </tr>
+<tr>
+<td style="width: 232.283px; text-align: left;"><strong>Saman&aacute;<br /></strong></td>
+<td style="width: 316.367px; text-align: left;">
+<p>Polit&eacute;cnico Prof. Natividad Zuleyka De Acosta</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p style="text-align: center;">&nbsp;</p>
