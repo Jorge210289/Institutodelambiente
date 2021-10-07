@@ -1,5 +1,5 @@
 ---
-layout: history
+layout: landing-page
 
 title: Entrevista
 menus:
