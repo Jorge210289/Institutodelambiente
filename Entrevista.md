@@ -11,7 +11,7 @@ menus:
     weight: 4
 
 URL: https://institutodelambiente.milaulas.com/login/index.php
-published: false
+published: true
 content: |
 ---
 
