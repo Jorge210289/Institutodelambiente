@@ -11,26 +11,13 @@ menus:
     weight: 4
 
 URL: https://institutodelambiente.milaulas.com/login/index.php
-published: true
+published: false
 content: |
 ---
 
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
+<html>
 
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="PAgina%20entrevista_archivos/filelist.xml">
-<link rel=Edit-Time-Data href="PAgina%20entrevista_archivos/editdata.mso">
 
-</head>
 
 <body lang=EN-US link="#0563C1" vlink="#954F72" style='tab-interval:.5in'>
 
