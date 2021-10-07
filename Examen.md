@@ -3,7 +3,7 @@ layout: landing-page
 title: Examen Admisión
 menus:
   header:
-    title: Examen Admisión
+    title: Examen Admisiónn
     weight: 4
   footer:
     title: Examen Admisión
