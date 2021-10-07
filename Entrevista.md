@@ -28,13 +28,11 @@ content: |
 <li>A la Entrevista solo se recibir&aacute;n los bachilleres que aparecen en la lista que se maneja en las Oficinas Provinciales, La Sede del Ministerio del Ambiente, Instituto del Ambiente y en la P&aacute;gina web <span><a href="http://www.institutodelambiente.edu.do">institutodelambiente.edu.do</a></span></li>
 <li>Seguidamente, presentamos los sitios donde se realizar&aacute; la Entrevista en el territorio nacional. Se prefiere que los bachilleres acudan al sitio m&aacute;s cercano. Pero, si por alguna raz&oacute;n, les favorece realizar la entrevista en otro lugar, le dejamos la informaci&oacute;n:</li>
 </ol>
-
-<p>&nbsp;<strong>Lugares donde se realizar&aacute; la Entrevista en el territorio nacional</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633630846/Entrevista/Lugares.jpg" alt="" width="600" height="460" /></strong></p>
-<p><strong>Listado de bachilleres y lugares d&oacute;nde deben realizar su entrevista</strong></p>
-<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633632013/Entrevista/Santo_Domingo_-_Copy.jpg" alt="" width="554" height="813" /></p>
-<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633632081/Entrevista/Santiago.jpg" alt="" width="554" height="816" /></p>
-<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633632013/Entrevista/San_Francisco_-_Copy.jpg" alt="" width="554" height="629" /></p>
-<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633632013/Entrevista/Jarabacoa.jpg" alt="" width="554" height="293" /></p>
-<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633632228/Entrevista/Azua.jpg" alt="" width="554" height="816" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634715/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_001.png" alt="" width="612" height="792" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634715/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_002.png" alt="" width="612" height="792" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634714/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_003.png" alt="" width="612" height="792" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634714/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_004.png" alt="" width="612" height="792" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634714/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_005.png" alt="" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634714/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_006.png" alt="" width="612" height="792" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634714/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_007.png" alt="" width="612" height="792" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634714/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_008.png" alt="" /></p>
