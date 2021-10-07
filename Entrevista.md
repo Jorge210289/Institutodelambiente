@@ -2,15 +2,16 @@
 layout: history
 
 title: Entrevista
-description: Entrevista de Admisión.
+menus:
+  header:
+    title: Entrevista
+    weight: 4
+  footer:
+    title: Entrevista 
+    weight: 4
 
-permalink: /instituto/Mision/
-menus: institute
-
-pre_heading: Entrevista de Admisión
-heading: Personas y lugares dónde se impartirá la entrevista para selección de bachilleres
+URL: https://institutodelambiente.milaulas.com/login/index.php
 published: true
-
 content: |
 ---
 
