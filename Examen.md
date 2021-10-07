@@ -1,7 +1,6 @@
 ---
 layout: landing-page
 title: Examen Admisión
-published: false
 menus:
   header:
     title: Examen Admisión
@@ -11,6 +10,7 @@ menus:
     weight: 4
 
 URL: https://institutodelambiente.milaulas.com/login/index.php
+published: false
 
 
 
