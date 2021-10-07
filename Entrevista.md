@@ -13,6 +13,7 @@ menus:
 URL: https://institutodelambiente.milaulas.com/login/index.php
 published: true
 content: |
+
 ---
 
 <p><strong>A continuaci&oacute;n, presentamos las orientaciones de lugar, para la siguiente etapa del Proceso de Admisi&oacute;n del Instituto:</strong></p>
