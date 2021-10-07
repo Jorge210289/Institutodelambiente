@@ -1,6 +1,7 @@
 ---
 layout: landing-page
 title: Examen Admisión
+published: false
 menus:
   header:
     title: Examen Admisión
