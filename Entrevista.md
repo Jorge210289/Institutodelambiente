@@ -28,6 +28,9 @@ content: |
 <li>A la Entrevista solo se recibir&aacute;n los bachilleres que aparecen en la lista que se maneja en las Oficinas Provinciales, La Sede del Ministerio del Ambiente, Instituto del Ambiente y en la P&aacute;gina web <span><a href="http://www.institutodelambiente.edu.do">institutodelambiente.edu.do</a></span></li>
 <li>Seguidamente, presentamos los sitios donde se realizar&aacute; la Entrevista en el territorio nacional. Se prefiere que los bachilleres acudan al sitio m&aacute;s cercano. Pero, si por alguna raz&oacute;n, les favorece realizar la entrevista en otro lugar, le dejamos la informaci&oacute;n:</li>
 </ol>
+<p><strong>Lugares donde se har&aacute;n entrevistas:</strong></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633701379/Entrevista/Lugares.jpg" alt="" width="600" height="492" /></p>
+<p><strong>Listado de bachilleres que deben realizar la entrevista</strong></p>
 <p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634715/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_001.png" alt="" width="612" height="792" /></p>
 <p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634715/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_002.png" alt="" width="612" height="792" /></p>
 <p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1633634714/Entrevista/2/BACHILLERES_QUE_SE_ENTREVISTAR%C3%81N_003.png" alt="" width="612" height="792" /></p>
