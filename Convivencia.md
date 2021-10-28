@@ -15,7 +15,7 @@ published: True
 content: |
 
 ---
-<h1 style="text-align: center;">Bechilleres Seleccionados tercera etapa del proceso de admisi&oacute;n, para obtener la beca que les permitir&aacute; cursar el T&eacute;cnico Superior en Ciencias Forestales o Gesti&oacute;n Ambiental.</h1>
+<h1 style="text-align: center;">Bachilleres Seleccionados tercera etapa del proceso de admisi&oacute;n, para obtener la beca que les permitir&aacute; cursar el T&eacute;cnico Superior en Ciencias Forestales o Gesti&oacute;n Ambiental.</h1>
 <br> 
 <h2 style="text-align: center;">Semana de convivencia</h2>
  <br> 
