@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 
-title: Seleccionados paraConvivencia
+title: Seleccionados para Convivencia
 menus:
   header:
     title: Seleccionados Convivencia
