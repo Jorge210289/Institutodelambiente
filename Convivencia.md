@@ -1,24 +1,19 @@
 ---
-layout: history
+layout: landing-page
 
-title: Seleccionados Convivencia
-description: Seleccionados Convivencia
+title: Seleccionados paraConvivencia
 menus:
   header:
-    title: Convivencia
+    title: Seleccionados Convivencia
     weight: 4
   footer:
-    title: Convivencia 
+    title: Seleccionados Convivencia 
     weight: 4
 
-permalink: /instituto/Mision/
-menus: institute
-
-pre_heading: Seleccionados Convivencia
-heading: Seleccionados Convivencia
-published: true
-
+URL: https://institutodelambiente.milaulas.com/login/index.php
+published: True
 content: |
+
 ---
 <h1 style="text-align: center;">Bechilleres Seleccionados tercera etapa del proceso de admisi&oacute;n, para obtener la beca que les permitir&aacute; cursar el T&eacute;cnico Superior en Ciencias Forestales o Gesti&oacute;n Ambiental.</h1>
 <h2 style="text-align: center;">Semana de convivencia</h2>
