@@ -3,6 +3,13 @@ layout: history
 
 title: Seleccionados Convivencia
 description: Seleccionados Convivencia
+menus:
+  header:
+    title: Convivencia
+    weight: 4
+  footer:
+    title: Convivencia 
+    weight: 4
 
 permalink: /instituto/Mision/
 menus: institute
