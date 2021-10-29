@@ -32,5 +32,6 @@ content: |
 <p style="text-align: justify;"><strong>Solo recibiremos a quienes confirmen su asistencia. &iexcl;Los esperamos!</strong></p>
 <p></p>
 <h2 style="text-align: center;">A continuaci&oacute;n listado de seleccionados</h2>
-<p></p>
-
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1635515382/Convivencia%202021/1.jpg" alt="" width="536" height="720" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1635515382/Convivencia%202021/2.jpg" alt="" width="536" height="613" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1635515382/Convivencia%202021/3.jpg" alt="" width="536" height="414" /></p>
