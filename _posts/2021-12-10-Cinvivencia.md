@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Convivencia 2021
 date: 2021-12-10 00:00:01 -0600
