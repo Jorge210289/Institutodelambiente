@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 1ra Graduación Ordinaria
 date: 2022-01-28 08:00:01 -0700
@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Gradu
 <p style="text-align: justify;">Medio Ambiente grad&uacute;a 59 nuevos t&eacute;cnicos en Ciencias Forestales y Gesti&oacute;n Ambiental</p>
 <p style="text-align: justify;">Ministro Orlando Jorge Mera anuncia que los graduandos pasar&aacute;n a formar parte del personal del Ministerio de Medio Ambiente</p>
 <p style="text-align: justify;"><br />El ministro de Medio Ambiente y Recursos Naturales, Orlando Jorge Mera, encabez&oacute; este viernes el acto de graduaci&oacute;n de la primera Promoci&oacute;n de T&eacute;cnicos Superiores del Instituto T&eacute;cnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA), en un evento celebrado en la sede de la instituci&oacute;n ubicada en Jarabacoa.&nbsp;</p>
-<p style="text-align: justify;">En el evento recibieron certificados 59 nuevos t&eacute;cnicos superiores, de los cuales, 28 se graduaron en Ciencias Forestales y 31 en Gesti&oacute;n Ambiental; de estos 48 son dominicanos y 11 nacionales haitianos.</p>
+<p style="text-align: justify;">En el evento recibieron certificados 59 nuevos t&eacute;cnicos superiores, de los cuales, 31 se graduaron en Ciencias Forestales y 28 en Gesti&oacute;n Ambiental; de estos 48 son dominicanos y 11 nacionales haitianos.</p>
 <p style="text-align: justify;">Se trata de la primera graduaci&oacute;n ordinaria de la entidad tras ser reconocida como Instituto por el Ministerio de Educaci&oacute;n Superior Ciencia y Tecnolog&iacute;a (MESCyT), mediante la Resoluci&oacute;n No. 83-17. Previamente la instituci&oacute;n funcionaba como escuela y se hab&iacute;an graduado en ella 16 promociones.</p>
 <p style="text-align: justify;">En su discurso el ministro de Medio Ambiente alent&oacute; a los graduandos a trabajar en la conservaci&oacute;n y protecci&oacute;n de los recursos naturales en sus respectivos pa&iacute;ses y anunci&oacute; que estos ser&aacute;n contratados por la instituci&oacute;n.</p>
 <p style="text-align: justify;">&ldquo;Exhorto que su misi&oacute;n a partir de hoy, sea trabajar en el fomento de los recursos naturales y la protecci&oacute;n del medio ambiente en cada uno de sus lugares de origen, en ambos pa&iacute;ses de la Isla Hispaniola; ya que la biodiversidad no tiene fronteras y los problemas medioambientales son globales con soluciones locales. Es un trabajo arduo, pero sobre todo, muy gratificante&rdquo;, manifest&oacute; el titular del Ministerio de Medio Ambiente y Recursos Naturales.</p>
