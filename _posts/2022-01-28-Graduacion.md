@@ -5,7 +5,7 @@ date: 2022-01-28 08:00:01 -0700
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Graduacion/WhatsApp_Image_2022-01-28_at_3.13.28_PM_1.jpg
 ---
-<h1 style="text-align: center;">1ra Graduaci&oacute;n Ordinaria</h1>
+<h2 style="text-align: center;">1ra Graduaci&oacute;n Ordinaria</h2>
 <p style="text-align: justify;">Medio Ambiente grad&uacute;a 59 nuevos t&eacute;cnicos en Ciencias Forestales y Gesti&oacute;n Ambiental</p>
 <p style="text-align: justify;">Ministro Orlando Jorge Mera anuncia que los graduandos pasar&aacute;n a formar parte del personal del Ministerio de Medio Ambiente</p>
 <p style="text-align: justify;"><br />El ministro de Medio Ambiente y Recursos Naturales, Orlando Jorge Mera, encabez&oacute; este viernes el acto de graduaci&oacute;n de la primera Promoci&oacute;n de T&eacute;cnicos Superiores del Instituto T&eacute;cnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA), en un evento celebrado en la sede de la instituci&oacute;n ubicada en Jarabacoa.&nbsp;</p>
@@ -24,4 +24,14 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Gradu
 <p><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Graduacion/WhatsApp_Image_2022-01-28_at_3.13.28_PM_1.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="800" height="600" /></p>
 <p><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Graduacion/WhatsApp_Image_2022-01-28_at_3.13.29_PM.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="800" height="600" /></p>
 <p><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Graduacion/WhatsApp_Image_2022-01-28_at_3.20.19_PM_1.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="800" height="599" /></p>
+<p></p>
 <p><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Graduacion/WhatsApp_Image_2022-01-28_at_3.13.29_PM_2.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="800" height="1067" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/1.jpg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/2.jpg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/3.jpg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/4.jpg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/5.jpg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/6.jpg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/7.jpg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1643633163/1ra%20Graduacion/8.jpg" alt="" width="800" height="600" /></p>
+<h2><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1643633162/1ra%20Graduacion/Brochure_Digital_Kat.pdf">Descargar programa de Graduaci&oacute;n</a></h2>
