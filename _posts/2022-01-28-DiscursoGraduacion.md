@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Discursos 1ra Graduación Ordinaria
 date: 2022-01-28 08:00:05 -0800
