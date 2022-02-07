@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Acto de recibimiento 2da Promoción
 date: 2022-01-31 00:00:01 -0600
