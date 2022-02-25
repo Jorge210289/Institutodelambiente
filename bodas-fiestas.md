@@ -9,8 +9,8 @@ permalink: /servicios/bodas-fiestas/
 menus: services
 
 intro:
-  title: Cásate en la Naturaleza
-  pretitle: Una boda en el verde
+  title: Celebra con la naturaleza
+  pretitle: Una fiesta en el verde
 
 items:
   - title: Espacioso
