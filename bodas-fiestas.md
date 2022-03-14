@@ -10,7 +10,7 @@ menus: services
 
 intro:
   title: Celebra con la naturaleza
-  pretitle: Una fiesta en el verde
+  pretitle: Instagram @celebraconlanaturaleza
 
 items:
   - title: Espacioso
