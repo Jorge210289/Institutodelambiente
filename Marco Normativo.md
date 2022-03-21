@@ -7,6 +7,7 @@ description: Nuestro Marco Normativo.
 permalink: /instituto/Marco Normativo/
 menus: institute
 content: |
+
 <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1647867557/Marco%20Normativo/Ley_139-01.pdf" target="_blanc"><img src="https://us.123rf.com/450wm/123vector/123vector1710/123vector171000360/88439433-ilustraci%C3%B3n-del-icono-rojo-del-c%C3%AD<p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1647867557/Marco%20Normativo/Ley_139-01.pdf" target="_blanc"><img src="https://us.123rf.com/450wm/123vector/123vector1710/123vector171000360/88439433-ilustraci%C3%B3n-del-icono-rojo-del-c%C3%ADrculo-pdf.jpg?ver=6" alt="" width="25" height="25" />Ley de Educaci&oacute;n Superior</a></p>
 <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1647865948/Marco%20Normativo/Ley-No-64-00_1.pdf" target="_blanc"><img src="https://us.123rf.com/450wm/123vector/123vector1710/123vector171000360/88439433-ilustraci%C3%B3n-del-icono-rojo-del-c%C3%ADrculo-pdf.jpg?ver=6" alt="" width="25" height="25" />Ley General de Medio Ambiente y Recursos Naturales </a></p>
 <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1647865852/Marco%20Normativo/Ley_1-12_LEY_ORGANICA_DE_LA_ESTRATEGIA_NACIONAL_DE_DESARROLLO.pdf" target="_blanc"><img src="https://us.123rf.com/450wm/123vector/123vector1710/123vector171000360/88439433-ilustraci%C3%B3n-del-icono-rojo-del-c%C3%ADrculo-pdf.jpg?ver=6" alt="" width="25" height="25" />Estrategia Nacional de Desarrollo 2030 (END) </a></p>
