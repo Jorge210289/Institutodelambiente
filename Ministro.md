@@ -8,7 +8,7 @@ permalink: /instituto/MInistro/
 menus: institute
 
 pre_heading: Lic. Orlando Jorge Mera
-heading: Nuestro MInistro
+heading: Nuestro Ministro
 image: https://ambiente.gob.do/wp-content/uploads/2020/09/ministro_medioambiente_ojm-200x300.jpeg
 
 entries:
