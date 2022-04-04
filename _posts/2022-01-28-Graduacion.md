@@ -2,7 +2,7 @@
 layout: post
 title: 1ra Graduación Ordinaria
 date: 2022-01-28 08:00:01 -0700
-category: eventos
+category: eventos, Egresados
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1643405250/1ra%20Graduacion/WhatsApp_Image_2022-01-28_at_3.13.28_PM_1.jpg
 ---
 <h2 style="text-align: center;">1ra Graduaci&oacute;n Ordinaria</h2>
