@@ -17,5 +17,9 @@ menus:
 <p>Ent&eacute;rate de las noticias relevantes sobre nuestros egresados.</p>
 <p><a href="https://institutodelambiente.edu.do/blog/#Egresados" target="_blank" rel="noopener">Clic aqu&iacute; para m&aacute;s detalles</a></p>
 <p></p>
+<p><span style="color: #00ff00;"><strong>Ofertas de empleo</strong><br /></span></p>
+<p>Ent&eacute;rate de las vacantes disponibles para nuestros egresados.</p>
+<p><a href="https://institutodelambiente.edu.do/eventos/2022/06/05/oferta/" target="_blank" rel="noopener">Clic aqu&iacute; para m&aacute;s detalles</a></p>
+<p></p>
 <p></p>
 <p></p>
