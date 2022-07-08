@@ -6,6 +6,7 @@ description: Lic. Orlando Jorge Mera
 
 permalink: /instituto/MInistro/
 menus: institute
+published: false
 
 pre_heading: Lic. Orlando Jorge Mera
 heading: Nuestro Ministro
