@@ -2,10 +2,13 @@
 layout: landing-page
 
 title: Transparencia
-description: Transparencia
-permalink: /instituto/Transparencia/
-menus: institute
-content: |
+menus:
+  header:
+    title: Transparencia
+    weight: 4
+  footer:
+    title: Transparencia
+    weight: 4
 
 ---
 
