@@ -7,6 +7,10 @@ description: Informate sobre lo que tienes que hacer para estudiar en nuestro In
 permalink: /instituto/requisitos/
 menus: institute
 
+Dirigido:
+  title: ¿A quien va dirigido?
+  content: |
+   Jóvenes con grado de bachiller y/o bachiller técnico, menores de 27 años, interesados en cursar alguna de nuestras carreras del Técnico Superior, durante dos años.
 can_i_apply:
   title: ¿Puedo aplicar?
   content: |
