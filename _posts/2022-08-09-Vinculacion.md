@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Reunión Grupos de Interés
 date: 2022-08-09 00:00:01 -0600
