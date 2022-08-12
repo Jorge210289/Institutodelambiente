@@ -1,5 +1,5 @@
 ---
-layout: history
+layout: search
 
 title: Transparencia
 menus:
