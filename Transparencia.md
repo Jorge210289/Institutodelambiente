@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: History
 
 title: Transparencia
 menus:
