@@ -1,5 +1,5 @@
 ---
-layout: requirements
+layout: default
 
 title: Transparencia
 menus:
