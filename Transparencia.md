@@ -1,5 +1,5 @@
 ---
-layout: services
+layout: posts
 
 title: Transparencia
 menus:
