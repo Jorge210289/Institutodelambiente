@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: transparencia
 
 title: Transparencia
 menus:
