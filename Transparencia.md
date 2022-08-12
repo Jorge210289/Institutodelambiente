@@ -1,5 +1,5 @@
 ---
-layout: History
+layout: post
 
 title: Transparencia
 menus:
