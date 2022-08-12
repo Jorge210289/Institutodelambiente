@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="py-16 px-6 mx-auto max-w-2xl">
+  <div class="md:flex">
+    <main class="md:w-3/4 md:mr-8 flex flex-col mb-8 bg-white border-grey-light border-solid border">
+      <figure>
+        <picture>
+          <source data-lazy data-srcset="{{ page.image | replace: 'upload', 'upload/c_thumb,w_750,h_400,q_60' | replace: '.jpg', '.webp' }}" type="image/webp">
+          <img data-lazy data-src="{{ page.image | replace: 'upload', 'upload/c_thumb,w_750,h_400,q_60' }}" class="w-full" alt="{{ page.title }}" width="300" height="250">
+          <noscript>
+            <img src="{{ page.image | replace: 'upload', 'upload/c_thumb,w_750,h_400,q_60' }}" class="w-full" alt="{{ page.title }}" width="300" height="250">
+          </noscript>
+        </picture>
+      </figure>
+    
+      <div class="p-6">
+        <ul class="list-reset mb-4">
+          <li class="text-sm bg-green inline-block font-light px-4 py-1 uppercase text-white">{{ page.category }}</li>
+        </ul>
+    
+        <h2 class="text-black uppercase mb-3 font-medium">{{ page.title }}</h2>
+        <div class="text-content font-light">
+          {{ page.content }}
+        </div>
+        
+              </div>
+    
+      <footer class="border-t border-grey-light border-solid py-4 px-6 text-right text-grey font-light mt-auto text-sm">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+      </footer>
+    </main>
+    
+     </div>
+</div>
