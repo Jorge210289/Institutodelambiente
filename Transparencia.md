@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: services
 
 title: Transparencia
 menus:
