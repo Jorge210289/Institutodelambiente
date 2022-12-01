@@ -20,11 +20,11 @@
 }
 
 .text-content a {
-  color: config('colors.blue');
+  color: config('colors.green');
 }
 
 .text-content a:hover {
-  color: config('colors.blue-dark');
+  color: config('colors.green-dark');
 }
 
 .career-img {
