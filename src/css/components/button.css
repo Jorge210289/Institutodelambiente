@@ -4,7 +4,7 @@
 
   .button:hover,
   .button:focus {
-    @apply .bg-green-dark .text-white;
+    @apply .bg-blue-dark .text-white;
     
     outline: none;
   }
