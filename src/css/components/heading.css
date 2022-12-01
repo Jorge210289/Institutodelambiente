@@ -10,5 +10,5 @@
 
   content: '';
   
-  border-bottom: 2px solid config('colors.green');
+  border-bottom: 2px solid config('colors.blue');
 }
