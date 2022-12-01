@@ -20,7 +20,7 @@
 }
 
 .text-content a {
-  color: config('colors.green');
+  color: config('colors.blue');
 }
 
 .text-content a:hover {
