@@ -24,7 +24,7 @@
 }
 
 .text-content a:hover {
-  color: config('colors.green-dark');
+  color: config('colors.blue-dark');
 }
 
 .career-img {
