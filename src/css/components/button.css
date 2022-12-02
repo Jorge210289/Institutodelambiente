@@ -21,9 +21,9 @@
 .button-play {
   @apply .relative .block .text-green .border .border-green .w-16 .h-16 .flex .items-center .justify-center .rounded-full;
 
-  background-color: rgba(20, 20, 20, .15);
+  background-color: rgba(255, 255, 255, .15);
 
-  box-shadow: 0 0 0 4px rgba(20, 20, 20, .15);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, .15);
 }
 
   .button-play:hover,
@@ -42,7 +42,7 @@
     width: 4rem;
     height: 1px;
 
-    background-color: white;
+    background-color: blue;
   }
 
   .button-play::after {
