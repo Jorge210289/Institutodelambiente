@@ -23,5 +23,10 @@ menus:
 <li style="text-align: justify;">Gladys Mar&iacute;a Garc&iacute;a Capell&aacute;n (personal operativo).</li>
 </ul>
 <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1660308696/Marco%20Normativo/3/C%C3%93DIGO_DE_%C3%89TICA.pdf" target="_blank" rel="noopener">Descarga Aqu&iacute; nuestro c&oacute;digo</a></p>
+<p></p>
+<h2><strong>Informes de Gesti&oacute;n Institucional</strong></h2>
+<p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1674997701/Informes%20Gestion%20Institucional/Informe_Memoria_de_Gesti%C3%B3n_Institucional_2021.pdf">Descarga aqu&iacute; el Informe de Gesti&oacute;n Institucional 2021</a></p>
+<p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1674997706/Informes%20Gestion%20Institucional/Informe_de_Gesti%C3%B3n_Institucional_2022.pdf">Descarga aqu&iacute; el Informe de Gesti&oacute;n Institucional 2022</a></p>
+<p></p>
 <p style="text-align: justify;"></p>
 <p style="text-align: justify;"><strong></strong></p>
