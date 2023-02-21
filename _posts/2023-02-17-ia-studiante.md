@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dia del Estudiantes
-date: 2023-02-17 08:16:01 -0600
+date: 2023-02-18 00:00:00 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1676987226/WhatsApp_Image_2023-02-20_at_12.33.04_PM.jpg
 ---
