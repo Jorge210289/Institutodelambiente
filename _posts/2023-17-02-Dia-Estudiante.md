@@ -11,4 +11,4 @@ En el ITESMARENA, celebramos a todos nuestros estudiantes, quienes son el coraz�
 
 En este día, queremos reconocer su dedicación y esfuerzo en sus estudios, así como en todas las actividades extracurriculares que realizan para enriquecer su formación. También queremos recordarles que el camino hacia el éxito no es fácil, pero el esfuerzo, la perseverancia y la determinación les llevarán a lograr sus metas.
 
-Les deseamos éxito en todos sus proyectos y que continúen siendo una inspiración para nuestra comunidad. ¡Feliz día del estudiante!
+Les deseamos éxito en todos sus proyectos y que continúen siendo una inspiración para nuestra comunidad.. ¡Feliz día del estudiante!
