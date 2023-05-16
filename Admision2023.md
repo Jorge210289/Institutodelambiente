@@ -15,51 +15,81 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 
 ---
 
-<p>&nbsp;</p>
-<p style="text-align: justify;">&iexcl;Atenci&oacute;n a todos los bachilleres interesados en el Instituto T&eacute;cnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA)!</p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;">&iexcl;Es hora de comenzar tu camino hacia una educaci&oacute;n excepcional en un entorno natural impresionante! 🌿🎓</p>
-<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESMARENA/Convivencia/2.jpg" alt="" width="700" height="467" /></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;">Nos complace anunciar el proceso de admisi&oacute;n para la pr&oacute;xima promoci&oacute;n, y te invitamos a formar parte de esta emocionante oportunidad. Si tienes pasi&oacute;n por el medio ambiente y los recursos naturales, esta es tu ocasi&oacute;n para convertirte en un l&iacute;der en la gesti&oacute;n ambiental o las ciencias forestales.</p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"><strong>El proceso de admisi&oacute;n constar&aacute; de las siguientes etapas:</strong></p>
-<ol style="text-align: justify;">
-<li style="text-align: justify;">
-<p>Examen de Admisi&oacute;n: Marca en tu calendario el 1 de septiembre, porque ese d&iacute;a se llevar&aacute; a cabo el Examen de Admisi&oacute;n en diferentes provincias de nuestro pa&iacute;s. Este examen es la primera etapa para evaluar tus conocimientos y habilidades en &aacute;reas relevantes para nuestras carreras. &iexcl;Prep&aacute;rate y demuestra tu potencial!</p>
-</li>
-<li style="text-align: justify;">
-<p>Entrevista a Estudiantes Preseleccionados: Si tu desempe&ntilde;o en el Examen de Admisi&oacute;n cumple con los criterios de selecci&oacute;n, tendr&aacute;s la oportunidad de ser entrevistado(a) el 29 de septiembre. Esta entrevista nos permitir&aacute; conocerte mejor, descubrir tus motivaciones y determinar tu idoneidad para formar parte de nuestra comunidad acad&eacute;mica.</p>
-</li>
-<li>
-<p style="text-align: justify;">Semana de Convivencia con Bachilleres Preseleccionados: Del 30 de octubre al 3 de noviembre, te invitamos a vivir una experiencia &uacute;nica en el ITESMARENA, ubicado en Jarabacoa. Durante esta semana, tendr&aacute;s la oportunidad de interactuar con otros bachilleres preseleccionados, conocer nuestras instalaciones de vanguardia y sumergirte en el ambiente educativo inspirador que ofrecemos. &iexcl;Ser&aacute; una experiencia inolvidable!</p>
-</li>
-</ol>
-<p></p>
-<p style="text-align: justify;">Adem&aacute;s, queremos resaltar que&nbsp; de ser seleccionado/a recibir&aacute; una beca completa para cursar una de nuestras dos carreras destacadas: T&eacute;cnico Superior en Gesti&oacute;n Ambiental o T&eacute;cnico Superior en Ciencias Forestales. Imagina la posibilidad de desarrollar tus habilidades y conocimientos en un entorno que te apoya plenamente y te brinda las herramientas necesarias para alcanzar el &eacute;xito.</p>
-<p style="text-align: justify;"></p>
-<p style="text-align: center;"><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESMARENA/Convivencia/2.jpg" alt="" width="700" height="467" /></p>
-<p style="text-align: justify;">No dejes pasar esta oportunidad de estudiar en una instituci&oacute;n reconocida por su excelencia acad&eacute;mica y su compromiso con la conservaci&oacute;n del medio ambiente. &iexcl;An&iacute;mate a ser parte de nuestro proceso de admisi&oacute;n y persigue tu pasi&oacute;n por la protecci&oacute;n de nuestro entorno natural!</p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;">Mantente atento(a) a nuestras pr&oacute;ximas publicaciones para obtener m&aacute;s detalles sobre el proceso de admisi&oacute;n y c&oacute;mo puedes prepararte para el examen.</p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;">Si tienes alguna pregunta, no dudes en comunicarte con nosotros. &iexcl;Estamos emocionados de recibir a nuevos estudiantes talentosos en el ITESMARENA! 🌿🌱🌍</p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"></p>
-<p style="text-align: justify;"><strong>Requisitos para aplicar</strong></p>
-<p style="text-align: justify;">Antes de aplicar, aseg&uacute;rate que tienes la siguiente documentaci&oacute;n:</p>
-<ul>
-<li style="text-align: justify;">Tomar y aprobar las pruebas de admisi&oacute;n del Instituto y cualquier otro requerimiento del MESCyT.</li>
-<li style="text-align: justify;">Poseer un promedio de bachillerato m&iacute;nimo de 80 puntos.</li>
-<li style="text-align: justify;">Completar y entregar los siguientes documentos:.</li>
-<li style="text-align: justify;">Formulario de solicitud de admisi&oacute;n debidamente completado.</li>
-<li style="text-align: justify;">Dos fotograf&iacute;as 2 x 2 de frente y recientes.</li>
-<li style="text-align: justify;">Acta de nacimiento certificada.</li>
-<li style="text-align: justify;">Copia de c&eacute;dula de identidad y electoral o pasaporte.</li>
-</ul>
-<p style="text-align: center;"></p>
-<p></p>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admsion abierta para promoción 2024-2025</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+
+    ul {
+      margin-bottom: 20px;
+      padding-left: 20px;
+    }
+
+    li {
+      list-style-type: disc;
+      margin-bottom: 5px;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: green;
+    }
+
+    .contact-info {
+      margin-top: 20px;
+    }
+
+    .contact-info p {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Admsion abierta para promoción 2024-2025</h1>
+  
+  <p><strong>¡Atención a todos los bachilleres interesados en optener BECA COMPLETA en el ITESMARENA!</strong></p>
+  
+  <p>¡Es hora de comenzar tu camino hacia una educación excepcional en un entorno natural impresionante! 🌿🎓</p>
+  
+  <p>Nos complace anunciar el proceso de admisión para la próxima promoción, y te invitamos a formar parte de esta emocionante oportunidad. Si tienes pasión por el medio ambiente y los recursos naturales, esta es tu ocasión para convertirte en un líder en la gestión ambiental o las ciencias forestales.</p>
+  
+  <h2>Proceso de admisión</h2>
+  <ul>
+    <li>Examen de Admisión: Marca en tu calendario el 1 de septiembre, porque ese día se llevará a cabo el Examen de Admisión en diferentes provincias de nuestro país. Este examen es la primera etapa para evaluar tus conocimientos y habilidades en áreas relevantes para nuestras carreras. ¡Prepárate y demuestra tu potencial!</li>
+    <li>Entrevista a Estudiantes Preseleccionados: Si tu desempeño en el Examen de Admisión cumple con los criterios de selección, tendrás la oportunidad de ser entrevistado(a) el 29 de septiembre. Esta entrevista nos permitirá conocerte mejor, descubrir tus motivaciones y determinar tu idoneidad para formar parte de nuestra comunidad académica.</li>
+    <li>Semana de Convivencia con Bachilleres Preseleccionados: Del 30 de octubre al 3 de noviembre, te invitamos a vivir una experiencia única en el ITESMARENA, ubicado en Jarabacoa. Durante esta semana, tendrás la oportunidad de interactuar con otros bachilleres preseleccionados, conocer nuestras instalaciones de vanguardia y sumergirte en el ambiente educativo inspirador que ofrecemos. ¡Será una experiencia inolvidable!</li>
+  </ul>
+  
+  <p>Además, queremos resaltar que <span class="highlight">de ser seleccionado/a recibirás una beca completa</span> para cursar una de nuestras dos carreras destacadas: <span class="highlight">Técnico Superior en Gestión Ambiental</span> o <span class="highlight">Técnico Superior en Ciencias Forestales</span>. Imagina la posibilidad de desarrollar tus habilidades y conocimientos en un entorno que te apoya plenamente y te brinda las herramientas necesarias para alcanzar el éxito.</p>
+  <p>No dejes pasar esta oportunidad de estudiar en una institución reconocida por su excelencia académica y su compromiso con la conservación del medio ambiente. ¡Anímate a ser parte de nuestro proceso de admisión y persigue tu pasión por la protección de nuestro entorno natural!</p>
+  <div class="contact-info">
+    <p>Mantente atento(a) a nuestras próximas publicaciones para obtener más detalles sobre el proceso de admisión y cómo puedes prepararte para el examen.</p>
+</div>
+  <h2>Requisitos para aplicar</h2>
+  <ul>
+    <li>Tomar y aprobar las pruebas de admisión del Instituto y cualquier otro requerimiento del MESCyT.</li>
+    <li>Poseer un promedio de bachillerato mínimo de 80 puntos.</li>
+    <li>Completar y entregar los siguientes documentos:</li>
+  </ul>
+  <ol>
+    <li>Formulario de solicitud de admisión debidamente completado.</li>
+    <li>Dos fotografías 2 x 2 de frente y recientes.</li>
+    <li>Acta de nacimiento certificada.</li>
+    <li>Copia de cédula de identidad y electoral.</li>
+  </ol>
+</body>
+</html>
