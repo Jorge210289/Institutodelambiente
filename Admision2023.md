@@ -17,7 +17,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 
 </head>
 <body>
-  <h1>Admsion abierta para promoción 2024-2025</h1>
+  <h1>Proceso admsión abierto para promoción 2024-2025</h1>
   
   <p><strong>¡Atención a todos los bachilleres interesados en optener BECA COMPLETA en el ITESMARENA!</strong></p>
   
