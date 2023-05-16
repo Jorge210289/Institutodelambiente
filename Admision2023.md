@@ -15,48 +15,6 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 
 ---
 
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Admsion abierta para promoción 2024-2025</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-
-    h1 {
-      text-align: center;
-    }
-
-    p {
-      margin-bottom: 10px;
-    }
-
-    ul {
-      margin-bottom: 20px;
-      padding-left: 20px;
-    }
-
-    li {
-      list-style-type: disc;
-      margin-bottom: 5px;
-    }
-
-    .highlight {
-      font-weight: bold;
-      color: green;
-    }
-
-    .contact-info {
-      margin-top: 20px;
-    }
-
-    .contact-info p {
-      margin-bottom: 5px;
-    }
-  </style>
 </head>
 <body>
   <h1>Admsion abierta para promoción 2024-2025</h1>
