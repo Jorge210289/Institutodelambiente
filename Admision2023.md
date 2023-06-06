@@ -47,7 +47,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
             <li>Formulario de solicitud de admisión debidamente completado.</li>
             <li>Dos fotografías 2 x 2 de frente y recientes.</li>
             <li>Acta de nacimiento certificada.</li>
-            <li>Copia de cédula de identidad y electoral o pasaporte. Recuerda que estos requisitos adicionales solo son necesarios luego de ser seleccionado para la beca.</li>
+            <li>Copia de cédula de identidad y electoral o pasaporte. Recuerda que para tomar el examen solo debe llevar copia de tu cédula, los requisitos adicionales solo son necesarios luego de ser seleccionado para la beca.</li>
         </ol>
     </ol>
 </body>
