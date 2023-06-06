@@ -14,8 +14,6 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 
 
 ---
-
-<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -27,7 +25,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
     <p><img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070921/Convivencia/2.jpg" alt="" width="600" height="400" /></p>
     <h2>Proceso de admisión</h2>
     <ul>
-        <li>Examen de Admisión: Marca en tu calendario el 1 de septiembre, porque ese día se llevará a cabo el Examen de Admisión en diferentes provincias de nuestro país. Este examen es la primera etapa para evaluar tus conocimientos y habilidades en áreas relevantes para nuestras carreras. ¡Prepárate y demuestra tu potencial!</li>
+        <li>Examen de Admisión: Marca en tu calendario el 1 de septiembre, porque ese día se llevará a cabo el Examen de Admisión en diferentes provincias de nuestro país. Este examen es la primera etapa para evaluar tus conocimientos y habilidades en áreas relevantes para nuestras carreras. ¡Prepárate y demuestra tu potencial! Recuerda que para tomar el examen solo debes llevar una copia de tu cédula.</li>
         <li>Entrevista a Estudiantes Preseleccionados: Si tu desempeño en el Examen de Admisión cumple con los criterios de selección, tendrás la oportunidad de ser entrevistado(a) el 29 de septiembre. Esta entrevista nos permitirá conocerte mejor, descubrir tus motivaciones y determinar tu idoneidad para formar parte de nuestra comunidad académica.</li>
         <li>Semana de Convivencia con Bachilleres Preseleccionados: Del 30 de octubre al 3 de noviembre, te invitamos a vivir una experiencia única en el ITESMARENA, ubicado en Jarabacoa. Durante esta semana, tendrás la oportunidad de interactuar con otros bachilleres preseleccionados, conocer nuestras instalaciones de vanguardia y sumergirte en el ambiente educativo inspirador que ofrecemos. ¡Será una experiencia inolvidable!</li>
     </ul>
@@ -49,8 +47,9 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
             <li>Formulario de solicitud de admisión debidamente completado.</li>
             <li>Dos fotografías 2 x 2 de frente y recientes.</li>
             <li>Acta de nacimiento certificada.</li>
-            <li>Copia de cédula de identidad y electoral o pasaporte.</li>
+            <li>Copia de cédula de identidad y electoral o pasaporte. Recuerda que estos requisitos adicionales solo son necesarios luego de ser seleccionado para la beca.</li>
         </ol>
     </ol>
 </body>
 </html>
+
