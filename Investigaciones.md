@@ -9,11 +9,15 @@ menus: institute
 content: |
 
 ---
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
   <title>ITESMARENA - Difusión del Conocimiento</title>
+  <style>
+    .invisible-row {
+      display: none;
+    }
+  </style>
 </head>
 <body>
   <h1>ITESMARENA</h1>
@@ -22,6 +26,26 @@ content: |
   <p>Podrás acceder a artículos, tesis, informes y publicaciones en diversas áreas del conocimiento.</p>
 
   <table>
+    <tr class="invisible-row">
+      <th></th>
+      <td></td>
+    </tr>
+    <tr class="invisible-row">
+      <th></th>
+      <td></td>
+    </tr>
+    <tr class="invisible-row">
+      <th></th>
+      <td></td>
+    </tr>
+    <tr class="invisible-row">
+      <th></th>
+      <td></td>
+    </tr>
+    <tr class="invisible-row">
+      <th></th>
+      <td></td>
+    </tr>
     <tr>
       <th>Nombre:</th>
       <td>Sistemas Implementados con Ingeniería Verde en el Manejo de las Aguas Residuales en la República Dominicana, Caso: Municipio de Jarabacoa, año 2018</td>
