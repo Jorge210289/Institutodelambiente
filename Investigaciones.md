@@ -9,6 +9,7 @@ menus: institute
 content: |
 
 ---
+
 <html>
 <head>
   <meta charset="UTF-8">
@@ -24,6 +25,12 @@ content: |
   <p>Nos enorgullece ofrecer un espacio dedicado a la difusión del conocimiento y el avance académico.</p>
   <p>Aquí podrás explorar una amplia variedad de investigaciones desarrolladas por nuestros talentosos docentes, investigadores y estudiantes, abarcando diversas áreas de estudio y disciplinas.</p>
   <p>Podrás acceder a artículos, tesis, informes y publicaciones en diversas áreas del conocimiento.</p>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
   <table>
     <tr class="invisible-row">
@@ -61,3 +68,4 @@ content: |
   </table>
 </body>
 </html>
+
