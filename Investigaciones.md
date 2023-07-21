@@ -71,11 +71,11 @@ content: |
     </tr>
     <tr>
       <th>Nombre:</th>
-      <td>La Educación en la Nueva Modalidad</td>
+      <td>La Educación en la Nueva Normalidad</td>
     </tr>
       <tr>
       <th>Autor:</th>
-      <td>José Vásquez, Elías Gómez, Niurka CarvajalA</td>
+      <td>José Vásquez, Elías Gómez, Niurka Carvajal</td>
     </tr>
     <tr>
       <th>Enlace de descarga:</th>
