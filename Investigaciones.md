@@ -65,6 +65,22 @@ content: |
       <th>Enlace de descarga:</th>
       <td><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1689340317/Tesis_Doctoral_Jose_Vasquez.pdf">Descargar</a></td>
     </tr>
+     <tr>
+      <th></th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Nombre:</th>
+      <td>La Educación en la Nueva Modalidad</td>
+    </tr>
+      <tr>
+      <th>Autor:</th>
+      <td>José Vásquez, Elías Gómez, Niurka CarvajalA</td>
+    </tr>
+    <tr>
+      <th>Enlace de descarga:</th>
+      <td><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1689340317/Tesis_Doctoral_Jose_Vasquez.pdf](https://res.cloudinary.com/duuonteo7/image/upload/v1689942872/Art%C3%ADculo_cient%C3%ADfico_La_Educaci%C3%B3n_en_la_Nueva_Normalidad.pdf)https://res.cloudinary.com/duuonteo7/image/upload/v1689942872/Art%C3%ADculo_cient%C3%ADfico_La_Educaci%C3%B3n_en_la_Nueva_Normalidad.pdf">Descargar</a></td>
+    </tr>
   </table>
 </body>
 </html>
