@@ -43,8 +43,8 @@ entries:
   - year: 
     content: Personalidad. 
   - year: 
-    content: Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora. 
-    
-
+    content: Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora.
+  - year:
+    content: Descarga el currículum del Rector [aquí](https://res.cloudinary.com/duuonteo7/image/upload/v1690635871/CV_Jos%C3%A9_V%C3%A1squez-_Julio_2023.pdf)
 ---    
 
