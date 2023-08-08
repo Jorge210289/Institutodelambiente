@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Página Principal
 permalink: /instituto/historia3333/
 menus: institute
