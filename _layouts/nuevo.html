@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Andreas Remdt">
+
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <link rel="stylesheet" href="/css/styles.css">
+
+  <link rel="icon" type="image/png" href="/icons/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96">
+  <meta name="application-name" content="{{ site.title }}">
+  <meta name="msapplication-TileColor" content="#9dc701">
+  <meta name="msapplication-TileImage" content="/icons/mstile-144x144.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#9DC701">
+
+  <link rel="dns-prefetch" href="https://res.cloudinary.com">
+  <link rel="preconnect" href="https://res.cloudinary.com">
+</head>
+<body>
+  <noscript>
+    <p class="bg-green text-center p-4 text-white">JavaScript está deshabilitado en tu navegador. Este sitio web usa JavaScript para mejorar tu experiencia. Si no activas JavaScript, este sitio web no puede funcionar o mostrarse correctamente.</p>
+  </noscript>
+  {% include header.html %}
+  {% include navigation.html %}
+
+  {{ content }}
+
+  {% include footer.html %}
+
+  <script src="/js/modernizr.min.js" defer></script>
+  <script src="/js/observer-polyfill.min.js" defer></script>
+  <script src="/js/svgxuse.min.js" defer></script>
+  <script src="/js/jquery.min.js" defer></script>
+  <script src="/js/jquery.fancybox.min.js" defer></script>
+  <script src="/js/main.min.js" defer></script>
+  {% if page.url == "/blog/buscar/" %}
+    <script src="/js/search.min.js" defer></script>
+  {% elsif page.url == "/contactanos/" %}
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" defer></script>
+  {% endif %}
+</body>
+</html>
