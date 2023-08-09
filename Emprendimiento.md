@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: nuevo
 
 title: Emprendimiento
 description: Emprendimiento ITESMARENA
