@@ -14,7 +14,6 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 
 
 ---
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -27,6 +26,11 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
             margin: 0;
             padding: 0;
         }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
         h1, h2 {
             color: #333;
         }
@@ -35,11 +39,6 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
         }
         ul, ol {
             margin-left: 2rem;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
         }
         .image {
             text-align: center;
@@ -52,15 +51,15 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 </head>
 <body>
     <div class="container">
-        <h1>¡Atención a todos los bachilleres interesados en el ITESMARENA!</h1>
-        <p><strong>¡Es hora de comenzar tu camino hacia una educación excepcional en un entorno natural impresionante! 🌿🎓</strong></p>
         <div class="image">
             <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070919/Convivencia/3.jpg" alt="ITESMARENA" width="600" height="400" />
         </div>
-        <p>Nos complace anunciar el proceso de admisión para la próxima promoción, y te invitamos a formar parte de esta emocionante oportunidad. Si tienes pasión por el medio ambiente y los recursos naturales, esta es tu ocasión para convertirte en un líder en la gestión ambiental o las ciencias forestales.</p>
+        <h1>¡Atención a todos los bachilleres interesados en el ITESMARENA!</h1>
+        <p><strong>¡Es hora de comenzar tu camino hacia una educación excepcional en un entorno natural impresionante! 🌿🎓</strong></p>
         <div class="image">
             <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070921/Convivencia/2.jpg" alt="ITESMARENA" width="600" height="400" />
         </div>
+        <p>Nos complace anunciar el proceso de admisión para la próxima promoción, y te invitamos a formar parte de esta emocionante oportunidad. Si tienes pasión por el medio ambiente y los recursos naturales, esta es tu ocasión para convertirte en un líder en la gestión ambiental o las ciencias forestales.</p>
         <h2>Proceso de admisión</h2>
         <ul>
             <li>Examen de Admisión: Marca en tu calendario el 1 de septiembre...</li>
@@ -72,18 +71,18 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
         </div>
         <p>Además, queremos resaltar que <strong>de ser seleccionado/a recibirás una beca completa</strong> para cursar una de nuestras dos carreras destacadas: <strong>Técnico Superior en Gestión Ambiental</strong> o <strong>Técnico Superior en Ciencias Forestales</strong>. Imagina la posibilidad de desarrollar tus habilidades y conocimientos en un entorno que te apoya plenamente y te brinda las herramientas necesarias para alcanzar el éxito.</p>
         <p>No dejes pasar esta oportunidad de estudiar en una institución reconocida por su excelencia académica y su compromiso con la conservación del medio ambiente. ¡Anímate a ser parte de nuestro proceso de admisión y persigue tu pasión por la protección de nuestro entorno natural!</p>
-        <div class="contact-info">
-            <p>Mantente atento(a) a nuestras próximas publicaciones para obtener más detalles sobre el proceso de admisión y cómo puedes prepararte para el examen.</p>
+                <div class="contact-info">
             <div class="image">
                 <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070917/Convivencia/8.jpg" alt="ITESMARENA" width="600" height="400" />
             </div>
+            <p>Mantente atento(a) a nuestras próximas publicaciones para obtener más detalles sobre el proceso de admisión y cómo puedes prepararte para el examen.</p>
         </div>
-        <h2>Requisitos para aplicar</h2>
+                <h2>Requisitos para aplicar</h2>
         <ul>
             <li>Tomar y aprobar las pruebas de admisión del Instituto y cualquier otro requerimiento del MESCyT.</li>
             <li>Poseer un promedio de bachillerato mínimo de 80 puntos.</li>
         </ul>
-        <ol>
+                <ol>
             <li>Completar y entregar los siguientes documentos:</li>
             <ol type="a">
                 <li>Formulario de solicitud de admisión debidamente completado.</li>
@@ -95,4 +94,3 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
     </div>
 </body>
 </html>
-
