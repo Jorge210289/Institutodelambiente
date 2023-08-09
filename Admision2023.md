@@ -1,5 +1,4 @@
 ---
-layout: landing-page
 title: Admisión 2023
 menus:
   header:
