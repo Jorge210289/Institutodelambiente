@@ -26,7 +26,7 @@ menus: institute
   }
 </style>
 
-<div class="container d-flex justify-content-center align-items-center" style="background-image: url('https://i1.wp.com/www.parametronacional.com/wp-content/uploads/2023/06/Instituto-T%C3%A9cnico-Agroforestal.jpg?resize=955%2C593&ssl=1'); background-size: cover; background-position: center; height: 100vh;">
+<div class="container d-flex justify-content-center align-items-center" style="background-image: url('https://res.cloudinary.com/instituto-del-ambiente/image/upload/q_60/pages/parque-acuatico.jpg?resize=955%2C593&ssl=1'); background-size: cover; background-position: center; height: 100vh;">
   <div class="text-center">
     <div class="button-container">
       <a class="button" href="https://itesmarena.edu.do/indexxx/">Ir a Página principal</a>
