@@ -24,7 +24,6 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
             line-height: 1.6;
             margin: 0;
             padding: 0;
-          background-image: url('https://i.pinimg.com/originals/e8/0f/23/e80f237856cb0425825bf6a4235426f5.jpg'); /* Cambiando 
         }
         .container {
             max-width: 800px;
