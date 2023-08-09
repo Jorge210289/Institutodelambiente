@@ -29,8 +29,8 @@ menus: institute
 <div class="container d-flex justify-content-center align-items-center" style="background-image: url('https://res.cloudinary.com/duuonteo7/image/upload/v1691598507/Imagen_de_WhatsApp_2023-08-09_a_las_12.17.53.jpg?resize=955%2C593&ssl=1'); background-size: cover; background-position: center; height: 100vh;">
   <div class="text-center">
     <div class="button-container">
-      <a class="button" href="https://itesmarena.edu.do/indexxx/">Ir a Página principal</a>
-      <a class="button" href="https://itesmarena.edu.do/admision2023/">Admisión 2023</a>
+      <a class="button" href="https://itesmarena.edu.do/indexxx/">IR A PÁGINA PRINCIPAL</a>
+      <a class="button" href="https://itesmarena.edu.do/admision2023/">ADMISIÓN 2023</a>
     </div>
   </div>
 </div>
