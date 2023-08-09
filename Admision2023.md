@@ -13,6 +13,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 
 
 ---
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -46,6 +47,15 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
             max-width: 100%;
             height: auto;
         }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
@@ -75,6 +85,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
                 <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070917/Convivencia/8.jpg" alt="ITESMARENA" width="600" height="400" />
             </div>
             <p>Mantente atento(a) a nuestras próximas publicaciones para obtener más detalles sobre el proceso de admisión y cómo puedes prepararte para el examen.</p>
+            <a href="https://chat.whatsapp.com/HPr13VFTDkjAIRWtfr6Jnm" class="button">Únete al grupo de WhatsApp para recibir más información</a>
         </div>
                 <h2>Requisitos para aplicar</h2>
         <ul>
@@ -90,6 +101,9 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
                 <li>Copia de cédula de identidad y electoral o pasaporte. Recuerda que para tomar el examen solo debe llevar copia de tu cédula, los requisitos adicionales solo son necesarios luego de ser seleccionado para la beca.</li>
             </ol>
         </ol>
+        <div class="contact-info">
+            <a href="https://forms.gle/8joRQhHysuDLz8S3A" class="button">Pré-regístrate para tomar la prueba</a>
+        </div>
     </div>
 </body>
 </html>
