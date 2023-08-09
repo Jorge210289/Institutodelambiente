@@ -6,13 +6,12 @@ menus: institute
   .button-container {
     display: flex;
     flex-direction: column;
-    align-items: flex-end; /* Alineamos los botones a la derecha */
-    justify-content: flex-start; /* Alineamos los botones hacia arriba */
+    align-items: center; /* Centramos los botones horizontalmente */
+    justify-content: center; /* Centramos los botones verticalmente */
     height: 100%;
-    padding: 20px; /* Agregamos un espacio interno para separar de los bordes */
   }
   .button {
-    margin: 10px 0; /* Ajustamos el margen para separar los botones verticalmente */
+    margin: 10px 0;
     padding: 20px 10px;
     border: none;
     color: white;
