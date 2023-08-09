@@ -12,7 +12,7 @@ menus: institute
   }
   .button {
     margin: 10px 0;
-    padding: 20px 10px;
+    padding: 40px 20px;
     border: none;
     color: white;
     text-align: center;
