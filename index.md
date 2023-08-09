@@ -5,9 +5,9 @@ menus: institute
 <style>
   .button-container {
     display: flex;
-    flex-direction: row; /* Cambiamos la dirección a horizontal para poner los botones uno al lado del otro */
+    flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end; /* Cambiamos la justificación para mover los botones a la derecha */
     height: 100%;
   }
   .button {
@@ -21,7 +21,7 @@ menus: institute
     font-size: 16px;
     transition: background-color 0.3s;
     cursor: pointer;
-    width: 200px; /* Añadimos un ancho fijo para los botones */
+    width: 200px;
   }
   .button.green {
     background-color: #699B41;
@@ -38,9 +38,8 @@ menus: institute
 <div class="container d-flex justify-content-center align-items-center" style="background-image: url('https://res.cloudinary.com/duuonteo7/image/upload/v1691598507/Imagen_de_WhatsApp_2023-08-09_a_las_12.17.53.jpg?resize=955%2C593&ssl=1'); background-size: cover; background-position: center; height: 100vh;">
   <div class="text-center">
     <div class="button-container">
-      <a class="button green" href="https://itesmarena.edu.do/indexxx/">IR A PÁGINA PRINCIPAL</a>
       <a class="button white" href="https://itesmarena.edu.do/admision2023/">ADMISIÓN 2023</a>
+      <a class="button green" href="https://itesmarena.edu.do/indexxx/">IR A PÁGINA PRINCIPAL</a>
     </div>
   </div>
 </div>
-
