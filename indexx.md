@@ -11,13 +11,13 @@ menus: institute
     height: 100%;
   }
   .button {
-    margin: 10px;
-    padding: 10px 20px;
+    margin: 20px;
+    padding: 20px 10px;
     background-color: #4CAF50;
     color: white;
     text-align: center;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 10px;
     font-size: 16px;
   }
 </style>
