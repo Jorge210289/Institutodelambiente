@@ -13,7 +13,7 @@ menus: institute
   .button {
     margin: 20px;
     padding: 20px 10px;
-    background-color: #4CAF50;
+    background-color: #699B41;
     color: white;
     text-align: center;
     text-decoration: none;
