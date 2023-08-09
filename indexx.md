@@ -19,6 +19,10 @@ menus: institute
     text-decoration: none;
     border-radius: 10px;
     font-size: 16px;
+    transition: background-color 0.3s; /* Agregamos una transición suave */
+  }
+  .button:hover {
+    background-color: #2877AC; /* Cambio de color al pasar el mouse por encima */
   }
 </style>
 
@@ -26,7 +30,7 @@ menus: institute
   <div class="text-center">
     <div class="button-container">
       <a class="button" href="http://www.itesmarena.edu.do">Ir a Página principal</a>
-      <a class="button" href="https://www.itesmarena.edu.do/admision2023/)">Admisión 2023</a>
+      <a class="button" href="https://itesmarena.edu.do/admision2023/">Admisión 2023</a>
     </div>
   </div>
 </div>
