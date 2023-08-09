@@ -6,8 +6,8 @@ menus: institute
   .button-container {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Centramos los botones horizontalmente */
-    justify-content: center; /* Centramos los botones verticalmente */
+    align-items: flex-end; /* Movemos los botones un poco más a la derecha */
+    justify-content: center;
     height: 100%;
   }
   .button {
@@ -43,4 +43,5 @@ menus: institute
     </div>
   </div>
 </div>
+
 
