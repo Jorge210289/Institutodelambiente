@@ -1,6 +1,5 @@
 ---
 title: Página Principal
-permalink: /instituto/Principal/
 menus: institute
 ---
 <style>
