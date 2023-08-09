@@ -103,11 +103,11 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
         <div class="contact-info">
             <a href="https://forms.gle/8joRQhHysuDLz8S3A" class="button">Pré-regístrate para tomar la prueba</a>
         </div>
-        <div class="image">
-            <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1691588180/Lugares_de_la_prueba.jpg" alt="Lugares de la prueba en diferentes provincias" width="600" height="400" />
-        </div>
+              </div>
         <h2>Lugares dónde será impartida la prueba en las diferentes provincias</h2>
     </div>
+        <div class="image">
+            <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1691588180/Lugares_de_la_prueba.jpg" alt="Lugares de la prueba en diferentes provincias" width="600" height="400" />
 </body>
 </html>
 
