@@ -59,7 +59,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESM
 </head>
 <body>
 <p>&nbsp;</p>
-<h1 style="text-align: center;">Seleccionados a Entrevista para el 29 de septiembre:<br /><span style="color: #ff0000;"><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1694792425/Pagina_Web.pdf">Click aqu&iacute; para ver el listado</a></span></h1>  
+<h1 style="text-align: center;">Seleccionados para participar en la semana de convivencia del 30 de octubre al 3 de noviembre, en ITESMARENA, Jarabacoa:<br /><span style="color: #ff0000;"><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1696962985/Seleccionados_Convivencia_publicar.pdf">Click aqu&iacute; para ver el listado</a></span></h1>  
     <div class="container">
         <div class="image">
             <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070919/Convivencia/3.jpg" alt="ITESMARENA" width="600" height="400" />
