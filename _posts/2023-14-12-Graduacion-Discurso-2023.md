@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1702728431/Graduacion%
   <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Discurso de Graduación - ITESMARENA</title>
+  <title>Discurso del Rector del ITESMARENA en la Graduación de la 2da Promoción de Técnicos Superiores en Medio Ambiente y Recursos Naturales</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
