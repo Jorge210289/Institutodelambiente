@@ -1,53 +1,14 @@
 ---
 layout: post
 title: DISCURSO GRADUACIÓN ORDINARIA 2da PROMOCIÓN DEL TÉCNICO SUPERIOR
-14 DE DICIEMBRE, 2023
-date: 2023-12-14 08:16:02 -0600
+date: 2023-12-14 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1702728431/Graduacion%20ITESMARENA%202023/IMG-20231215-WA0015.jpg
 ---
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Discurso de Graduación ITESMARENA</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-
-        h1 {
-            text-align: center;
-            color: #4CAF50;
-        }
-
-        h2 {
-            color: #333;
-        }
-
-        p {
-            text-align: justify;
-            margin-bottom: 15px;
-        }
-
-        .signature {
-            font-style: italic;
-            margin-top: 30px;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Discurso Graduación Ordinaria</h1>
-    <h2>2da Promoción del Técnico Superior</h2>
-    <p><strong>14 de diciembre, 2023</strong></p>
-
-    <p>¡Buenos días a todos!</p>
-
-    <p style="text-align: justify;">Es un honor dirigirme a tan distinguida audiencia en este d&iacute;a tan especial. Agradecemos la presencia de los integrantes de la mesa de honor:</p>
+<p style="text-align: justify;">&iexcl;Buenos d&iacute;as a todos!</p>
+<p style="text-align: justify;">BIENVENIDOS AL ITESMARENA</p>
+<p style="text-align: justify;">Es un honor dirigirme a tan distinguida audiencia en este d&iacute;a tan especial. Agradecemos la presencia de los integrantes de la mesa de honor:</p>
 <ul style="text-align: justify;">
 <li>Miguel Ceara Hatton, Ministro de Medio Ambiente y Recursos Naturales, presidente de la Junta de Directores y Gran Canciller del ITESMARENA.</li>
 <li>Genaro Rodriguez, Viceministro Superior Ciencia y Tecnolog&iacute;a (MESCyT).</li>
@@ -71,12 +32,9 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1702728431/Graduacion%
 <p style="text-align: justify;">Hoy celebramos precisamente, no solo el fin de una etapa acad&eacute;mica, sino el comienzo de otro tramo en un viaje hacia el ma&ntilde;ana.&nbsp;</p>
 <p style="text-align: justify;">Cada uno de ustedes, ha invertido tiempo, esfuerzo y dedicaci&oacute;n para llegar a este momento. Este logro es solo el fundamento de lo que est&aacute; por venir. Enfrenten el futuro con la confianza y la preparaci&oacute;n que han adquirido a lo largo de su educaci&oacute;n.&nbsp;</p>
 <p style="text-align: justify;">Recuerden que cada d&iacute;a es una oportunidad para cultivar sus habilidades y explorar nuevas posibilidades. Mantengan viva la llama de sus sue&ntilde;os, nutran sus ambiciones con perseverancia y nunca dejen de creer en la belleza &uacute;nica que yace en sus propias aspiraciones.&nbsp;</p>
-
-    <p>¡Felicitaciones, y que este sea solo el comienzo de un viaje lleno de éxitos y realizaciones! ¡Dios les bendiga!</p>
-
-    <p>Gracias a todos por compartir la alegría de nuestra Familia ITESMARENA.</p>
-
-    <p class="signature">Dr. José Santiago Vásquez Guerra<br>Rector ITESMARENA</p>
-
-</body>
+<p style="text-align: justify;">&iexcl;Felicitaciones, y que este sea solo el comienzo de un viaje lleno de &eacute;xitos y realizaciones! &iexcl;Dios les bendiga!</p>
+<p style="text-align: justify;">Gracias a todos por compartir la alegr&iacute;a de nuestra Familia ITESMARENA.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">Dr. Jos&eacute; Santiago V&aacute;squez Guerra</p>
+<p style="text-align: justify;">Rector ITESMARENA</p>
 </html>
