@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DISCURSO GRADUACIÓN ORDINARIA 2da PROMOCIÓN DEL TÉCNICO SUPERIOR
+title: Discurso del Rector del ITESMARENA en la Graduación de la 2da Promoción de Técnicos Superiores en Medio Ambiente y Recursos Naturales
 date: 2023-12-14 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1702728431/Graduacion%20ITESMARENA%202023/IMG-20231215-WA0015.jpg
