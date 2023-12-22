@@ -6,6 +6,37 @@ category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1702728431/Graduacion%20ITESMARENA%202023/IMG-20231215-WA0015.jpg
 ---
 <html lang="es">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Discurso de Graduación - ITESMARENA</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+    p, ul {
+      text-align: justify;
+      color: #555;
+    }
+    ul {
+      margin-bottom: 20px;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    blockquote {
+      font-style: italic;
+      color: #777;
+      border-left: 2px solid #ccc;
+      padding-left: 10px;
+    }
+  </style>
+</head>
 <p style="text-align: justify;">&iexcl;Buenos d&iacute;as a todos!</p>
 <p style="text-align: justify;">BIENVENIDOS AL ITESMARENA</p>
 <p style="text-align: justify;">Es un honor dirigirme a tan distinguida audiencia en este d&iacute;a tan especial. Agradecemos la presencia de los integrantes de la mesa de honor:</p>
