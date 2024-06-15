@@ -19,17 +19,4 @@ Al recibir el reconocimiento de la mano del presidente de la República, Luis Ab
   <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1718413820/CertificadoEQ/7.jpg" alt="Imagen 7">
 </div>
 
-Lic. Igor Rodríguez Durán (Ministro Administrativo de la Presidencia) y la Lic. Faride Raful junto al Dr. José Santiago Vásquez Guerra, Rector del ITESMARENA.
-
-<style>
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-}
-.gallery img {
-  margin: 5px;
-  max-width: 100%;
-  height: auto;
-}
-</style>
 
