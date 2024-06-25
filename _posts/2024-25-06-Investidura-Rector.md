@@ -1,7 +1,7 @@
 ---
 layout: post
 title: José Santiago Vásquez Guerra reelecto como rector del Itesmarena para el período 2023 – 2027
-date: 2024-06-26 08:16:01 -0600
+date: 2024-06-25 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1719345188/250524/1.jpg
 ---
