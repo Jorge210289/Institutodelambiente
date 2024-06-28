@@ -50,7 +50,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1719535384/270624/1.jp
 </head>
 <body>
     <div class="container">
-        <h1>Reconocimiento de ITESMARENA</h1>
+        <h1>ITESMARENA Recibe Reconocimiento por su Aporte a la Educación y al Medio Ambiente en la XIV Semana Eco-Deportiva y Cultural Magisterial 2024</h1>
         <p>El Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA), recibió de parte de la Asociación Dominicana de Profesores (ADP) seccional Jarabacoa, dentro de la celebración de la XIV Semana Eco- Deportiva y Cultural Magisterial 2024, un reconocimiento por sus aportes a la educación y al medioambiente de Jarabacoa y del país, el cual fue recibido por el Dr. José Santiago Vázquez Guerra, Rector, junto al Mag. Frank Badía, secretario del Consejo Académico y La Lcda. Marielys Castellanos, encargada de Bienestar Estudiantil. Acto celebrado en Country Club de Jarabacoa, RD.</p>
         <div class="images">
             <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1719535384/270624/1.jpg" alt="Imagen 1">
