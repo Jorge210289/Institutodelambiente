@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITESMARENA Recibe Reconocimiento por su Aporte a la Educación y al Medio Ambiente en la XIV Semana Eco-Deportiva y Cultural Magisterial 2024
+title: ITESMARENA Recibe Reconocimiento por su Aporte a la Educación y al Medio Ambiente
 date: 2024-06-27 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1719535384/270624/1.jpg
@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1719535384/270624/1.jp
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reconocimiento de ITESMARENA</title>
+    <title>ITESMARENA Recibe Reconocimiento por su Aporte a la Educación y al Medio Ambiente en la XIV Semana Eco-Deportiva y Cultural Magisterial 2024</title>
     <style>
         body {
             font-family: Arial, sans-serif;
