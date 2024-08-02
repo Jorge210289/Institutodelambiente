@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITESMARENA Recibe Reconocimiento por su Aporte a la Educación y al Medio Ambiente en la XIV Semana Eco-Deportiva y Cultural Magisterial 2024
+title: Certificación Internacional en Inteligencia Artificial para Docentes en ITESMARENA
 date: 2024-08-01 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1722601506/1.jpg
