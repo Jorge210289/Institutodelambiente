@@ -5,7 +5,7 @@ date: 2024-08-01 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1722601506/1.jpg
 ---
-<El Dr. José Santiago Vázquez Guerra, Rector del Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA), recibió una certificación internacional a través de IBEC LATAM, asociada a Apple, University of Cambridge y UNICEF en Inteligencia Artificial para Docentes.
+El Dr. José Santiago Vázquez Guerra, Rector del Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA), recibió una certificación internacional a través de IBEC LATAM, asociada a Apple, University of Cambridge y UNICEF en Inteligencia Artificial para Docentes.
 
 De igual manera, la Técnico Cleidi Adelina Báez, Encargada de Movilidad Estudiantil, Docentes e Investigadores del ITESMARENA, recibió un diploma similar por su participación en el examen internacional que le permitió lograr su acreditación.
 
