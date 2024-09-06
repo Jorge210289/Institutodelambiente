@@ -24,7 +24,7 @@ tiles:
   - name: Nuestro Ministro
     description: Conóce nuestro Ministro de Medio Ambiente y Recursos Naturales
     url: /instituto/ministro/
-    thumbnail: https://res.cloudinary.com/duuonteo7/image/upload/v1658234733/Nuevo%20MInistro%20Medio%20AMbiente/292295562_610074420315228_2906968082191782405_n_1.jpg
+    thumbnail: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
   - name: El Campus
     description: 320 tareas de tierra con una gran biodiversidad...
     url: /instituto/campus/
