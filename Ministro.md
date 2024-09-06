@@ -1,13 +1,13 @@
 ---
 layout: profile  
 title: Nuestro Ministro  
-description: Miguel Ceara Hatton - Ministro de Medio Ambiente y Recursos Naturales  
+description: Paíno Henríquez - Ministro de Medio Ambiente y Recursos Naturales  
 permalink: /instituto/Ministro/  
 menus: institute  
 published: true  
 
 pre_heading: Conoce a  
-heading: Miguel Ceara Hatton  
+heading: Paíno Henríquez  
 subheading: Ministro de Medio Ambiente y Recursos Naturales  
 image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg  
 
@@ -16,7 +16,7 @@ sections:
     heading: Trayectoria Profesional  
     image: https://ambiente.gob.do/wp-content/uploads/2022/08/Miguel-Ceara-Hatton-1.jpg  
     content: >  
-      **Miguel Ceara Hatton** es el actual Ministro de Medio Ambiente y Recursos Naturales, desde el 7 de julio de 2022, designado mediante el decreto No 361-22. Anteriormente, se desempeñó como Ministro de Economía, Planificación y Desarrollo desde agosto de 2020. Ceara Hatton es economista con especialización en Macroeconomía, Desarrollo Económico, Políticas Públicas y Teoría Económica.
+      **Paíno Henríquez** es el actual Ministro de Medio Ambiente y Recursos Naturales, desde el 7 de julio de 2022, designado mediante el decreto No 361-22. Anteriormente, se desempeñó como Ministro de Economía, Planificación y Desarrollo desde agosto de 2020. Ceara Hatton es economista con especialización en Macroeconomía, Desarrollo Económico, Políticas Públicas y Teoría Económica.
 
   - type: expertise  
     heading: Áreas de Especialización  
