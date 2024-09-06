@@ -15,27 +15,31 @@ entries:
   - year: Trayectoria Profesional
     image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
     content: >
-      **Paíno Henríquez** es el actual Ministro de Medio Ambiente y Recursos Naturales. Es un servidor público, ambientalista y defensor de los recursos naturales. Lideró el histórico proceso de gestión integral de los residuos sólidos en la República Dominicana como director de DO Sostenible, logrando un impacto positivo en más de 4.5 millones de personas.
+      Ministro de Medio Ambiente y Recursos Naturales. Servidor público, ambientalista y defensor de los recursos naturales. Ha liderado el novel e histórico proceso de gestión integral de los residuos sólidos en la República Dominicana desde la dirección de DO Sostenible.
 
-  - year: Formación Académica
-    content: |
-      - **Licenciado en Leyes:** Pontificia Universidad Católica Madre y Maestra (1999)  
-      - **Máster en Derecho Comercial Internacional:** Universidad de Manchester, Inglaterra (2001)  
-      - **Diplomado en Civilización Francesa:** La Sorbona, París (2002)
+      Paíno Henríquez es licenciado en Leyes, egresado de la Pontificia Universidad Católica Madre y Maestra, en el año 1999. Luego de graduarse continuó sus estudios de posgrado en Europa, precisamente en la Universidad de Manchester, Inglaterra, en donde se recibió como máster en Derecho Comercial Internacional en 2001.
 
-  - year: Experiencia Laboral
-    content: |
-      - **Director Ejecutivo de DO Sostenible:** Fideicomiso Público-Privado para la Gestión Integral de Residuos Sólidos  
-      - **Asesor en materia legal:** Empresas e instituciones del Estado  
-      - **Asesor Jurídico Externo (honorífico):** Cámara de Diputados de la República Dominicana (2016)
+      Posteriormente, un año después y también en el viejo continente, aprobó un Diplomado de Civilización Francesa en la Sorbona de París.
+
+      A su regreso a la República Dominicana ejerció su profesión en el sector privado por más de veinticinco años.
 
   - year: Militancia Política
-    content: |
-      - Miembro del Partido Revolucionario Moderno (PRM)  
-      - Participante en la elaboración del programa de gobierno del presidente Luis Abinader
+    content: >
+      En forma simultánea comenzó su militancia política en el Partido Revolucionario Moderno. Desde su colectividad política fue parte de la Secretaría de Políticas Públicas, en donde pudo trabajar en la elaboración del programa de gobierno del presidente Luis Abinader.
 
-  - year: Logros y Reconocimientos
-    content: |
-      - Impacto en la gestión de residuos sólidos, beneficiando a más de 4.5 millones de dominicanos  
-      - Contribución a la construcción de una República Dominicana Sostenible
+  - year: Servicio Público
+    content: >
+      Su rol como servidor público se vio marcado fuertemente al ser designado, por el presidente Luis Abinader, como el primer director ejecutivo de DO Sostenible, el Fideicomiso Público-Privado para la Gestión Integral de Residuos Sólidos.
+
+      A través de esta ambiciosa iniciativa, en poco más de dos años, se logró impactar en más de 4 millones y medio de dominicanas y dominicanos. Esas obras, y el trabajo realizado, hicieron historia en materia de residuos sólidos y de políticas ambientales, pues demuestran que se ha tomado el camino de la construcción de una República Dominicana Sostenible, que vele por la salud de nuestra gente y el cuidado de los recursos ambientales.
+
+  - year: Experiencia Anterior
+    content: >
+      Previamente al ejercicio en DO Sostenible, más de una década atrás, Paíno Henríquez, efectuó su aporte en el sector público como asesor en materia legal de empresas e instituciones del Estado.
+
+      Asimismo, en el año 2016, fue asesor jurídico externo de la Cámara de Diputados de la República Dominicana, en forma honorífica.
+
+  - year: Ejercicio Profesional
+    content: >
+      En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
 ---
