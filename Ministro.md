@@ -10,7 +10,7 @@ published: true
 
 pre_heading: Miguel Ceara Hatton
 heading: Nuestro Ministro
-image: https://ambiente.gob.do/wp-content/uploads/2022/08/Miguel-Ceara-Hatton-1.jpg
+image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
 
 entries:
   - year: Bio
