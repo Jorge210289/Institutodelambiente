@@ -1,7 +1,7 @@
 ---
 layout: history
 title: Nuestro Ministro
-description: Paíno Henríquez
+description: Paíno Henríquez - Ministro de Medio Ambiente y Recursos Naturales
 permalink: /instituto/Ministro/
 menus: institute
 published: true
@@ -13,30 +13,29 @@ image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x
 
 entries:
   - year: Trayectoria Profesional
-    image: https://ambiente.gob.do/wp-content/uploads/2022/08/Miguel-Ceara-Hatton-1.jpg
+    image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
     content: >
-      **Paíno Henríquez** es el actual Ministro de Medio Ambiente y Recursos Naturales, desde el 7 de julio de 2022, designado mediante el decreto No 361-22. Anteriormente, fue Ministro de Economía, Planificación y Desarrollo (2020-2022). Economista especializado en Macroeconomía, Desarrollo Económico y Políticas Públicas.
-
-  - year: Áreas de Especialización
-    content: |
-      - Macroeconomía
-      - Desarrollo Económico
-      - Políticas Públicas Económicas y Sociales
-      - Política Internacional
-
-  - year: Experiencia Laboral
-    content: |
-      **2020-2022:** Ministro de Economía, Planificación y Desarrollo  
-      **2003-2011:** Coordinador Nacional, Oficina de Desarrollo Humano, PNUD  
-      **1996-2001:** Director Económico, Asociación de Estados del Caribe
+      **Paíno Henríquez** es el actual Ministro de Medio Ambiente y Recursos Naturales. Es un servidor público, ambientalista y defensor de los recursos naturales. Lideró el histórico proceso de gestión integral de los residuos sólidos en la República Dominicana como director de DO Sostenible, logrando un impacto positivo en más de 4.5 millones de personas.
 
   - year: Formación Académica
     content: |
-      **Universidad Nacional Autónoma de México (UNAM):** Licenciatura en Economía  
-      **Centro de Investigación y Docencia Económica (CIDE), México:** Especialización en Desarrollo y Econometría
+      - **Licenciado en Leyes:** Pontificia Universidad Católica Madre y Maestra (1999)  
+      - **Máster en Derecho Comercial Internacional:** Universidad de Manchester, Inglaterra (2001)  
+      - **Diplomado en Civilización Francesa:** La Sorbona, París (2002)
+
+  - year: Experiencia Laboral
+    content: |
+      - **Director Ejecutivo de DO Sostenible:** Fideicomiso Público-Privado para la Gestión Integral de Residuos Sólidos  
+      - **Asesor en materia legal:** Empresas e instituciones del Estado  
+      - **Asesor Jurídico Externo (honorífico):** Cámara de Diputados de la República Dominicana (2016)
+
+  - year: Militancia Política
+    content: |
+      - Miembro del Partido Revolucionario Moderno (PRM)  
+      - Participante en la elaboración del programa de gobierno del presidente Luis Abinader
 
   - year: Logros y Reconocimientos
     content: |
-      - Informe Nacional de Desarrollo Humano, PNUD  
-      - Consultor para Unicef, IICA-OEA, PNUD, y otras organizaciones internacionales.
+      - Impacto en la gestión de residuos sólidos, beneficiando a más de 4.5 millones de dominicanos  
+      - Contribución a la construcción de una República Dominicana Sostenible
 ---
