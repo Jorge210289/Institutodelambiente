@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evaluación del Plan de Mejora Institucional en ITESMARENA
-date: 2024-07-27 08:16:01 -0600
+date: 2024-10-07 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1730304998/Estaci%C3%B3n%20Meteorol%C3%B3gica/2/Impulsando_la_Excelencia-_Evaluaci%C3%B3n_del_Plan_de_Mejora_Institucional_en_ITESMARENA_Recientemente_el_Instituto_T%C3%A9cnico_de_Estudios_Superiores_en_Medio_Ambiente_y_Recursos_Naturales_ITESMARENA_recibi%C3%B3_con_entusiasmo.jpg
 ---
