@@ -14,9 +14,8 @@ menus:
 <p style="text-align: justify;">Nuestro C&oacute;digo de &Eacute;tica</p>
 <p style="text-align: justify;">Te presentamos como esta compuesto nuestro comit&eacute; de &eacute;tica:</p>
 <ul>
-<li style="text-align: justify;">Clairen Rivas (Enc. Vinculaci&oacute;n con el Medio).</li>
 <li style="text-align: justify;">Elizabeth Mart&iacute;nez Garc&iacute;a (Directora de Extensi&oacute;n y Proyectos Especiales).</li>
-<li style="text-align: justify;">Teresa Tiburcio (Directora de Registro).</li>
+<li style="text-align: justify;">Marielys Castellanos (Enc. Bienestar Estudiantil).</li>
 <li style="text-align: justify;">Yosaira Quezada V&aacute;squez (Enc Aseguramiento de la Calidad).</li>
 <li style="text-align: justify;">Jos&eacute; Adolfo Rodr&iacute;guez S&aacute;nchez (personal operativo).</li>
 <li style="text-align: justify;">Manuel Emilio G&oacute;mez Bueno (personal operativo).</li>
