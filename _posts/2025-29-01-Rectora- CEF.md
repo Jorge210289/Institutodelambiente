@@ -3,7 +3,7 @@ layout: post
 title: Visita de la Rectora del CEF Santo Domingo al ITESMARENA
 date: 2025-01-28 08:16:01 -0600
 category: eventos
-image: https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/1.jpg
+image: https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/2.jpg
 ---
 <h1>Visita de la Rectora del CEF Santo Domingo al ITESMARENA</h1>
 <h2>Una colaboración académica en ciernes</h2>
@@ -20,8 +20,8 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarecto
 
 <h3>Galería de Imágenes</h3>
 <div class="gallery">
-    <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/1.jpg" alt="Imagen 1" width="600">
-    <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/2.jpg" alt="Imagen 2" width="600">
+    <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/2.jpg" alt="Imagen 1" width="600">
+    <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/1.jpg" alt="Imagen 2" width="600">
     <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/3.jpg" alt="Imagen 3" width="600">
     <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/4.jpg" alt="Imagen 4" width="600">
     <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/5.jpg" alt="Imagen 5" width="600">
