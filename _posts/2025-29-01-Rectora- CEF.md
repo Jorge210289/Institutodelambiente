@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visita de la Rectora del CEF Santo Domingo al ITESMARENA
-date: 2025-01-29 08:16:01 -0600
+date: 2025-01-28 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1738180175/Visitarectora/2/1.jpg
 ---
