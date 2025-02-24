@@ -25,6 +25,5 @@ image: https://res.cloudinary.com/duuonteo7/image/upload/v1740410577/Convenio%20
     <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1740410577/Convenio%20UNICARIBE/5.jpg" alt="Imagen 5" style="max-width: 100%; height: auto; margin-bottom: 10px;">
     <video controls style="max-width: 100%; height: auto; margin-top: 10px;">
         <source src="https://res.cloudinary.com/duuonteo7/video/upload/v1740410608/Convenio%20UNICARIBE/6.mp4" type="video/mp4">
-        Tu navegador no soporta la etiqueta de video.
     </video>
 </div>
