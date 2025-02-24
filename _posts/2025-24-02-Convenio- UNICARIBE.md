@@ -5,9 +5,9 @@ date: 2025-02-24 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1740410577/Convenio%20UNICARIBE/1.jpg
 ---
-<p>En beneficio de la comunidad académica del municipio de Jarabacoa y del país, el Instituto Tecnológico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA) firmó un importante convenio de colaboración con la Universidad del Caribe (UNICARIBE) de España.</p>
+<p>En beneficio de la comunidad académica del municipio de Jarabacoa y del país, el Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA) firmó un importante convenio de colaboración con la Universidad del Caribe (UNICARIBE) de España.</p>
 
-<p>El rector de ITESMARENA, Dr. José Santiago Vásquez, expresó su satisfacción por este importante acuerdo, en nombre del pleno de administración y de la junta directiva de la institución, representada por el ministro de Medio Ambiente, Armando Paino Enrique; el rector subrayó que “Este convenio representa un esfuerzo conjunto para desarrollar proyectos profesionales que contribuyan a un futuro mejor”.</p>
+<p>El rector de ITESMARENA, Dr. José Santiago Vásquez, expresó su satisfacción por este importante acuerdo, en nombre del pleno de administración y de la junta directiva de la institución, representada por el ministro de Medio Ambiente, Armando Paino Henríquez; el rector subrayó que “Este convenio representa un esfuerzo conjunto para desarrollar proyectos profesionales que contribuyan a un futuro mejor”.</p>
 
 <p>Por su parte, el rector de la Universidad del Caribe, Dr. Emilio Mínguez Torres, resaltó que la alianza con instituciones de educación superior, tanto nacionales como internacionales, forma parte de los objetivos estratégicos de su institución. “Este convenio está enmarcado dentro de nuestro plan de trayectoria y consolidación académica”, subrayó.</p>
 
