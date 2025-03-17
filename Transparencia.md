@@ -28,5 +28,7 @@ menus:
 <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1674997706/Informes%20Gestion%20Institucional/Informe_de_Gesti%C3%B3n_Institucional_2022.pdf">Descarga aqu&iacute; el Informe de Gesti&oacute;n Institucional 2022</a></p>
 <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1733593289/Informe%20de%20Gesti%C3%B3n%20Institucional%202023/Informe_Gestion_2023.pdf">Descarga aqu&iacute; el Informe de Gesti&oacute;n Institucional 2023</a></p>
 <p></p>
+<p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1742224641/Informe_de_Gesti%C3%B3n_Institucional_ITESMARENA_2024_xuzqsw.pdf">Descarga aqu&iacute; el Informe de Gesti&oacute;n Institucional 2024</a></p>
+<p></p>
 <p style="text-align: justify;"></p>
 <p style="text-align: justify;"><strong></strong></p>
