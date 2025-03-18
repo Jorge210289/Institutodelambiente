@@ -6,10 +6,10 @@ description: "Listado de publicaciones científicas realizadas por el Dr. José 
 menus: 
   header:
     title: Investigaciones
-    weight: 2
+    weight: 3
   footer:
     title: Investigaciones
-    weight: 2
+    weight: 3
 
 
 pre_heading: Investigación y Ciencia
