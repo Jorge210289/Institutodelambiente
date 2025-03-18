@@ -2,8 +2,15 @@
 layout: default
 title: "Publicaciones Científicas del Dr. José Santiago Vásquez Guerra"
 description: "Listado de publicaciones científicas realizadas por el Dr. José Santiago Vásquez Guerra, Rector del ITESMARENA."
-permalink: /publicaciones/dr-jose-santiago-vasquez-guerra/
-menus: publications
+
+menus: 
+  header:
+    title: Investigaciones
+    weight: 3
+  footer:
+    title: Investigaciones
+    weight: 3
+
 
 pre_heading: Investigación y Ciencia
 heading: Publicaciones Científicas del Dr. José Santiago Vásquez Guerra
