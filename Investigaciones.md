@@ -1,39 +1,28 @@
 ---
-layout: landing-page
+layout: default
+title: "Publicaciones Científicas del Dr. José Santiago Vásquez Guerra"
+description: "Listado de publicaciones científicas realizadas por el Dr. José Santiago Vásquez Guerra, Rector del ITESMARENA."
+permalink: /publicaciones/dr-jose-santiago-vasquez-guerra/
+menus: publications
 
-title: Investigaciones
-description: Investigaciones realizadas
+pre_heading: Investigación y Ciencia
+heading: Publicaciones Científicas del Dr. José Santiago Vásquez Guerra
 
-permalink: /instituto/Investigaciones/
-menus: institute
-content: |
-
+entries:
+  - year: 2022
+    content: "La Educación Ambiental en la Nueva Normalidad. CLIIC, Colombia. Revista SYNERGIA LATINA ISBN 2665-2862."
+  - year: 2019
+    content: "Manejo de las aguas residuales con sistemas ecológicos sostenibles y su estudio para la implementación en la República Dominicana, caso: municipio de Jarabacoa, Universidad Británica de Columbia, Vancouver, Canadá."
+  - year: 2018
+    content: "Evaluación de los Sistemas con ingeniería verde para el manejo de aguas residuales, CAJAE. La Habana, Cuba."
+  - year: 2010
+    content: "La Sociedad Ecológica de UCATECI como herramienta para la docencia-Extensión, Revista de la Pontificia Universidad Católica Madre y Maestra - PUCMM."
+  - year: 2003
+    content: "Effect of Accumulated Temperature on Yield and Quality of Watermelon Seeds (Citrullus vulgaris M.)."
+  - year: 2003
+    content: "Melon Hybrid Seed Production and Screening test for Fusarium Wilt."
+  - year: 2003
+    content: "Effect of temperature and Packaging on Freshness of Pak-choi (Brassica capestris) and Okra (Abelmoschus esculentus L.)."
+  - year: 2002
+    content: "Tesis de maestría: Calidad de las aguas de Arroyo Cercado, Jarabacoa, República Dominicana."
 ---
-
-<html>
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
-  <h1>ITESMARENA</h1>
-  <p>Nos enorgullece ofrecer un espacio dedicado a la difusión del conocimiento y el avance académico.</p>
-  <p>Aquí podrás explorar una amplia variedad de investigaciones desarrolladas por nuestros talentosos docentes, investigadores y estudiantes, abarcando diversas áreas de estudio y disciplinas.</p>
-  <p>Podrás acceder a artículos, tesis, informes y publicaciones en diversas áreas del conocimiento.</p>
-
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 45%; margin: 10px; padding: 10px; border: 1px solid #ccc; display: flex; flex-direction: column; align-items: center;">
-      <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1637009921/Tesis%20Doctoral%20Jose%20Vasquez/%C3%ADndice.jpg" alt="Imagen Destacada 1" style="width: 600px; height: 600px; margin-bottom: 10px;">
-      <h2>Nombre: Sistemas Implementados con Ingeniería Verde en el Manejo de las Aguas Residuales en la República Dominicana, Caso: Municipio de Jarabacoa, año 2018</h2>
-      <p><strong>Autor:</strong> José Vásquez - Rector ITESMARENA</p>
-      <p><strong>Enlace de descarga:</strong> <a href="https://res.cloudinary.com/duuonteo7/image/upload/v1689340317/Tesis_Doctoral_Jose_Vasquez.pdf">Descargar</a></p>
-    </div>
-    <div style="width: 45%; margin: 10px; padding: 10px; border: 1px solid #ccc; display: flex; flex-direction: column; align-items: center;">
-      <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1644239236/Bienvenida%202da%20promocion/273264668_482549006610047_8736875821686182935_n.jpg" alt="Imagen Destacada 2" style="width: 600px; height: 600px; margin-bottom: 10px;">
-      <h2>Nombre: La Educación en la Nueva Normalidad</h2>
-      <p><strong>Autor:</strong> José Vásquez, Elías Gómez, Niurka Carvajal</p>
-      <p><strong>Enlace de descarga:</strong> <a href="https://res.cloudinary.com/duuonteo7/image/upload/v1689942872/Art%C3%ADculo_cient%C3%ADfico_La_Educaci%C3%B3n_en_la_Nueva_Normalidad.pdf">Descargar</a></p>
-    </div>
-  </div>
-</body>
-</html>
-
