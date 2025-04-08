@@ -3,7 +3,7 @@ layout: landing-page
 title: AULA VIRTUAL
 menus:
   header:
-    title: Aula Virtual
+    title: Aula_Virtual
     weight: 4
   footer:
     title: Aula Virual
