@@ -3,7 +3,7 @@ layout: requirements
 title: Admisión 2025
 menus:
   header:
-    title: Admisión 2025
+    title: Admisión_2025
     weight: 4
   footer:
     title: Admisión 2025
