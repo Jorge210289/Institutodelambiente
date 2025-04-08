@@ -3,7 +3,7 @@
 
   <ul class="md:flex list-reset">
     {% for item in site.menus.header %}
-      <li class="md:flex md:items-center md:relative{% if forloop.last %} md:ml-auto{% else %} md:px-3{% endif %}">
+      <li class="md:flex md:items-center md:relative{% if forloop.last %} md:ml-auto{% else %} md:px-5{% endif %}">
         {% unless forloop.last %}
           <a href="{{ item.url }}" title="Ir a {{ item.title }}" class="flex items-center py-2 md:border-transparent md:border-b-2 text-grey-darker md:text-white md:h-13 hover:text-green{% if page.url == item.url %} font-medium text-green md:border-green{% endif %}">{{ item.title }}</a>
         {% else %}
