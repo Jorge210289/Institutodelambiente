@@ -1,11 +1,16 @@
 ---
 layout: requirements
+title: Admisión 2025
+menus:
+  header:
+    title: Admisión 2025
+    weight: 4
+  footer:
+    title: Admisión 2025
+    weight: 4
 
-title: Becas Técnicas en Medio Ambiente
-description: Convocatoria nacional para estudiar Técnico Superior en Gestión Ambiental o Ciencias Forestales con beca completa.
-
-permalink: /becas-2025/
-menus: main
+URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Image_2025-04-08_at_8.13.29_AM_ozg8cx.jpg
+---
 
 Dirigido:
   title: ¿A quién va dirigido?
@@ -16,17 +21,13 @@ can_i_apply:
   title: ¿Puedo aplicar?
   content: |
     ¡Claro que sí! Esta es tu oportunidad de estudiar en el Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA), con el respaldo del Ministerio de Medio Ambiente.
-
     Si cumples con los requisitos y participas en el proceso de admisión, podrías recibir una beca completa para cursar una de las siguientes carreras:
-
     - Técnico Superior en Gestión Ambiental
     - Técnico Superior en Ciencias Forestales
-
 how_to_apply:
   title: ¿Cómo puedo aplicar?
   content: |
     Debes prepararte para participar en el proceso de admisión que se llevará a cabo en varias etapas entre septiembre y octubre de 2025.
-
     A continuación, te explicamos el proceso completo y los documentos que necesitas tener listos. Si tienes dudas, puedes [escribirnos](/contactenos/) y con gusto te orientamos.
 
 process:
