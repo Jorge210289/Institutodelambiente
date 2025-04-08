@@ -1,115 +1,51 @@
 ---
-title: Admisión 2023
-menus:
-  header:
-    title: Admisión 2023
-    weight: 4
-  footer:
-    title: Admisión 2023
-    weight: 4
+layout: weddings
 
-URL: https://res.cloudinary.com/duuonteo7/image/upload/v1684261699/Fotos%20ITESMARENA/Convivencia/6.jpg
+title: Becas Técnicas en Medio Ambiente
+description: Convocatoria nacional de becas para estudiar técnico superior en gestión ambiental y ciencias forestales.
 
+permalink: /becas/medioambiente/
 
+menus: services
+
+intro:
+  title: "¡Aplica ahora!"
+  pretitle: "Beca del Ministerio de Medio Ambiente e ITESMARENA"
+
+items:
+  - title: "Carreras disponibles"
+    icon: diploma
+    content: "Puedes aplicar a una de las siguientes carreras técnicas de dos años: Técnico Superior en Gestión Ambiental o Técnico Superior en Ciencias Forestales."
+  - title: "Requisitos"
+    icon: checklist
+    content: "Tener hasta 27 años de edad, llevar lápiz, borrador, lapicero y calculadora (no celular), y presentar fotocopia de la cédula de identidad, aunque seas menor de edad."
+  - title: "Proceso de admisión"
+    icon: steps
+    content: "Consta de tres etapas: examen de admisión (5 de septiembre 2025), entrevista (26 de septiembre 2025) y convivencia + POMA en Jarabacoa (27 al 31 de octubre 2025)."
+  - title: "Inicio del programa"
+    icon: calendar
+    content: "La matrícula e inicio del programa será el 12 de enero de 2026 en el Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA)."
+
+images:
+  - title: "Convocatoria oficial"
+    url: /assets/images/1CD1D138-10EC-4CCB-A725-918F997722B7.jpeg
+    image_caption: "Imagen oficial de la convocatoria a becas 2025 del Ministerio de Medio Ambiente e ITESMARENA."
+
+others:
+  title: "Próximas actualizaciones"
+  intro: "Aquí publicaremos información importante a medida que avance el proceso de selección, como listas de preseleccionados y otras noticias relevantes."
+
+  items:
+    - title: "Lista de preseleccionados (próximamente)"
+      icon: user-check
+      content: "Publicaremos aquí los nombres de los aspirantes que pasen a la entrevista tras el examen del 5 de septiembre."
+    - title: "Detalles de la convivencia"
+      icon: tent
+      content: "Información logística sobre transporte, alojamiento y agenda para la convivencia en Jarabacoa."
+    - title: "Resultados finales"
+      icon: medal
+      content: "Lista oficial de seleccionados para iniciar el programa el 12 de enero de 2026."
 
 ---
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ITESMARENA - Proceso de Admisión</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        p {
-            margin-bottom: 1rem;
-        }
-        ul, ol {
-            margin-left: 2rem;
-        }
-        .image {
-            text-align: center;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #007BFF;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-<p>&nbsp;</p>
-<h1 style="text-align: center;">Seleccionados para participar en la semana de convivencia del 30 de octubre al 3 de noviembre, en ITESMARENA, Jarabacoa:<br /><span style="color: #ff0000;"><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1696962985/Seleccionados_Convivencia_publicar.pdf">Click aqu&iacute; para ver el listado</a></span></h1>  
-    <div class="container">
-        <div class="image">
-            <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070919/Convivencia/3.jpg" alt="ITESMARENA" width="600" height="400" />
-        </div>
-        <h1>¡Atención a todos los bachilleres interesados en el ITESMARENA!</h1>
-        <p><strong>¡Es hora de comenzar tu camino hacia una educación excepcional en un entorno natural impresionante! 🌿🎓</strong></p>
-        <div class="image">
-            <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070921/Convivencia/2.jpg" alt="ITESMARENA" width="600" height="400" />
-        </div>
-        <p>Nos complace anunciar el proceso de admisión para la próxima promoción, y te invitamos a formar parte de esta emocionante oportunidad. Si tienes pasión por el medio ambiente y los recursos naturales, esta es tu ocasión para convertirte en un líder en la gestión ambiental o las ciencias forestales.</p>
-        <h2>Proceso de admisión</h2>
-        <ul>
-            <li>Examen de Admisión: Marca en tu calendario el 1 de septiembre...</li>
-            <li>Entrevista a Estudiantes Preseleccionados: Si tu desempeño en el Examen de Admisión cumple con los criterios de selección...</li>
-            <li>Semana de Convivencia con Bachilleres Preseleccionados: Del 30 de octubre al 3 de noviembre...</li>
-        </ul>
-        <div class="image">
-            <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070919/Convivencia/1.jpg" alt="ITESMARENA" width="600" height="400" />
-        </div>
-        <p>Además, queremos resaltar que <strong>de ser seleccionado/a recibirás una beca completa</strong> para cursar una de nuestras dos carreras destacadas: <strong>Técnico Superior en Gestión Ambiental</strong> o <strong>Técnico Superior en Ciencias Forestales</strong>. Imagina la posibilidad de desarrollar tus habilidades y conocimientos en un entorno que te apoya plenamente y te brinda las herramientas necesarias para alcanzar el éxito.</p>
-        <p>No dejes pasar esta oportunidad de estudiar en una institución reconocida por su excelencia académica y su compromiso con la conservación del medio ambiente. ¡Anímate a ser parte de nuestro proceso de admisión y persigue tu pasión por la protección de nuestro entorno natural!</p>
-                <div class="contact-info">
-            <div class="image">
-                <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1562070917/Convivencia/8.jpg" alt="ITESMARENA" width="600" height="400" />
-            </div>
-            <p>Mantente atento(a) a nuestras próximas publicaciones para obtener más detalles sobre el proceso de admisión y cómo puedes prepararte para el examen.</p>
-            <a href="https://chat.whatsapp.com/HPr13VFTDkjAIRWtfr6Jnm" class="button">Únete al grupo de WhatsApp para recibir más información</a>
-        </div>
-                <h2>Requisitos para aplicar</h2>
-        <ul>
-            <li>Tomar y aprobar las pruebas de admisión del Instituto y cualquier otro requerimiento del MESCyT.</li>
-            <li>Poseer un promedio de bachillerato mínimo de 80 puntos.</li>
-        </ul>
-                <ol>
-            <li>Completar y entregar los siguientes documentos:</li>
-            <ol type="a">
-                <li>Formulario de solicitud de admisión debidamente completado.</li>
-                <li>Dos fotografías 2 x 2 de frente y recientes.</li>
-                <li>Acta de nacimiento certificada.</li>
-                <li>Copia de cédula de identidad y electoral o pasaporte. Recuerda que para tomar el examen solo debe llevar copia de tu cédula, los requisitos adicionales solo son necesarios luego de ser seleccionado para la beca.</li>
-            </ol>
-        </ol>
-        <div class="contact-info">
-            <a href="https://forms.gle/8joRQhHysuDLz8S3A" class="button">Pré-regístrate para tomar la prueba</a>
-        </div>
-              </div>
-        <h2>Lugares dónde será impartida la prueba en las diferentes provincias</h2>
-    </div>
-        <div class="image">
-            <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1691588180/Lugares_de_la_prueba.jpg" alt="Lugares de la prueba en diferentes provincias" width="600" height="400" />
-</body>
-</html>
 
+¿Te interesa estudiar una carrera técnica enfocada en la conservación del medio ambiente? ¡Esta es tu oportunidad! Aplica a una beca 100% gratuita con apoyo del Gobierno de la República Dominicana. Para más información, escribe a [info@itesmarena.edu.do](mailto:info@itesmarena.edu.do) o visita [itesmarena.edu.do](https://itesmarena.edu.do).
