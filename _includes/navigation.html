@@ -1,9 +1,9 @@
 <nav class="fixed bg-grey-lighter md:bg-black-transparent py-6 px-8 pin-t pin-l md:p-0 h-full z-10 md:max-w-2xl md:mx-auto -mb-13 top-navigation md:relative">
   <h2 class="md:hidden text-grey-darker mb-6 font-light">Navegación</h2>
 
-  <ul class="md:flex md:space-x-6 list-reset">
+  <ul class="md:flex  list-reset">
     {% for item in site.menus.header %}
-      <li class="md:flex md:items-center md:relative{% if forloop.last %} md:ml-auto{% else %} {% endif %}">
+      <li class="md:flex md:items-center md:relative{% if forloop.last %} md:ml-auto{% md:px-6 else %} {% endif %}">
         {% unless forloop.last %}
           <a href="{{ item.url }}" title="Ir a {{ item.title }}" class="flex items-center py-2 md:border-transparent md:border-b-2 text-grey-darker md:text-white md:h-13 hover:text-green{% if page.url == item.url %} font-medium text-green md:border-green{% endif %}">{{ item.title }}</a>
         {% else %}
