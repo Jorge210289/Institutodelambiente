@@ -8,9 +8,8 @@ menus:
   footer:
     title: Admisión 2025
     weight: 4
-
 URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Image_2025-04-08_at_8.13.29_AM_ozg8cx.jpg
----
+
 
 Dirigido:
   title: ¿A quién va dirigido?
