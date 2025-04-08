@@ -1,7 +1,7 @@
 <nav class="fixed bg-grey-lighter md:bg-black-transparent py-6 px-8 pin-t pin-l md:p-0 h-full z-10 md:max-w-2xl md:mx-auto -mb-13 top-navigation md:relative">
   <h2 class="md:hidden text-grey-darker mb-6 font-light">Navegación</h2>
 
-  <ul class="md:flex list-reset">
+  <ul class="md:flex list-reset text-sm md:text-base">
     {% for item in site.menus.header %}
       <li class="md:flex md:items-center md:relative{% if forloop.last %} md:ml-auto{% else %} md:px-6{% endif %}">
         {% unless forloop.last %}
@@ -15,7 +15,7 @@
             <use xlink:href="/icons/symbol-defs.svg#arrow-down"></use>
           </svg>
 
-          <ul class="md:hidden md:absolute md:bg-green md:pin-l list-reset">
+          <ul class="md:hidden md:absolute md:bg-green md:pin-l list-reset text-sm md:text-base">
             {% for item in item.children %}
               <li>
                 <a href="{{ item.url }}" title="Ir a {{ item.title }}" class="text-grey-darker md:text-grey-lighter block hover:text-green md:hover:text-white md:hover:bg-green-dark px-6 py-2 md:py-3 whitespace-no-wrap{% if subitem.url == page.url %} text-green{% endif %}">{{ item.title }}</a>
