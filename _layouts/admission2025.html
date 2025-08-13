@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="admission-page">
+
+  <h1>{{ page.title }}</h1>
+
+  <section id="dirigido">
+    <h2>{{ page.Dirigido.title }}</h2>
+    <p>{{ page.Dirigido.content | markdownify }}</p>
+  </section>
+
+  <section id="can-i-apply">
+    <h2>{{ page.can_i_apply.title }}</h2>
+    <div>{{ page.can_i_apply.content | markdownify }}</div>
+  </section>
+
+  {% if page.videos %}
+  <section id="videos">
+    <h2>{{ page.videos.title }}</h2>
+    <div>{{ page.videos.content | markdownify }}</div>
+  </section>
+  {% endif %}
+
+  <section id="how-to-apply">
+    <h2>{{ page.how_to_apply.title }}</h2>
+    <div>{{ page.how_to_apply.content | markdownify }}</div>
+  </section>
+
+  <section id="process">
+    <h2>{{ page.process.title }}</h2>
+    <ul>
+      {% for step in page.process.items %}
+      <li>{{ step }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section id="requirements">
+    <h2>{{ page.requirements.title }}</h2>
+    <p>{{ page.requirements.content }}</p>
+    <ul>
+      {% for req in page.requirements.items %}
+      <li>{{ req }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  {% if page.pensum %}
+  <section id="pensum">
+    <h2>{{ page.pensum.title }}</h2>
+    <div>{{ page.pensum.content | markdownify }}</div>
+  </section>
+  {% endif %}
+
+</div>
+
+<style>
+.admission-page {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+#admission-page video {
+  display: block;
+  margin: 20px auto;
+}
+</style>
