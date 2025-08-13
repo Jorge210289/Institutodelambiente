@@ -22,13 +22,6 @@ can_i_apply:
     Si cumples con los requisitos y participas en el proceso de admisión, podrías recibir una beca completa para cursar una de las siguientes carreras:
     - Técnico Superior en Gestión Ambiental
     - Técnico Superior en Ciencias Forestales
-    **Convocatoria de Beca**
-    - **Carreras disponibles:** Técnico Superior en Gestión Ambiental y Técnico Superior en Ciencias Forestales.
-    - **Requisitos:**
-      - Fotocopia de la cédula de identidad (aplica para menores de edad).
-      - Límite de edad: hasta 27 años.
-    - **Examen de admisión:** 5 de septiembre de 2025, de 9:30 a. m. a 11:00 a. m.
-    - **Materiales requeridos:** lápiz, borrador, lapicero y calculadora (no se admiten celulares).
 
 videos:
   title: Conoce más
@@ -88,3 +81,4 @@ pensum:
     - Incluye asignaturas como Silvicultura, Inventario Forestal, Manejo Forestal Sostenible, Agroforestería y Prácticas Profesionales.
     - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf)
 ---
+
