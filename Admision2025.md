@@ -1,5 +1,5 @@
 ---
-layout: requirements
+layout: admission2025
 title: Admisión 2025
 menus:
   header:
@@ -9,7 +9,6 @@ menus:
     title: Admisión 2025
     weight: 4
 URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Image_2025-04-08_at_8.13.29_AM_ozg8cx.jpg
-
 
 Dirigido:
   title: ¿A quién va dirigido?
@@ -58,7 +57,6 @@ process:
     - Semana de convivencia y evaluación POMA en el campus del Instituto, del 27 al 31 de octubre de 2025.
     - Notificación de resultados finales y entrega de becas.
     - Inicio de clases: 12 de enero de 2026 en ITESMARENA, Jarabacoa.
-  footnotes: []
 
 requirements:
   title: Requisitos para aplicar
@@ -90,7 +88,3 @@ pensum:
     - Incluye asignaturas como Silvicultura, Inventario Forestal, Manejo Forestal Sostenible, Agroforestería y Prácticas Profesionales.
     - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf)
 ---
-
-¿Te imaginas estudiar en un entorno natural, rodeado de montañas y bosques, mientras te preparas para ser un profesional del medio ambiente? Con nuestras becas, ¡es posible!  
-Consulta aquí frecuentemente para más actualizaciones, incluyendo la publicación de listas de preseleccionados y otros anuncios importantes.
-
