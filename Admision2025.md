@@ -134,7 +134,7 @@ menus:
       </ul>
     </div>
     <div class="card">
-      <h3>Después de que se le informe que su ebca ha sido aprobada</h3>
+      <h3>Después de que se le informe que su beca ha sido aprobada</h3>
       <ul>
         <li>Promedio mínimo de 80 puntos.</li>
         <li>Formulario de solicitud.</li>
@@ -174,6 +174,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
