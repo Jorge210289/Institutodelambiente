@@ -21,9 +21,6 @@ menus:
       background-color: #f4f8f7;
       color: #333;
     }
-    header h1 {
-      font-size: 2.5rem;
-    }
     section {
       padding: 40px 10%;
     }
@@ -182,6 +179,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
