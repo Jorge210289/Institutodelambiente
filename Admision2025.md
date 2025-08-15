@@ -67,7 +67,8 @@ requirements:
     - Récord de notas oficial de bachillerato.
     - Certificado médico reciente.
     - Una carta de recomendación de una entidad reconocida en tu comunidad.
-   pensum:
+
+pensum:
   title: Planes de Estudio
   content: |
     <h3>Técnico Superior en Gestión Ambiental</h3>
@@ -84,6 +85,7 @@ requirements:
     </ul>
     <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf" target="_blank">Ver pensum completo en PDF</a></p>
 ---
+
 
 
 
