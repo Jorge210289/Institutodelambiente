@@ -1,5 +1,5 @@
 ---
-layout: admission
+layout: requirements
 title: Admisión 2025
 menus:
   header:
@@ -182,6 +182,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
