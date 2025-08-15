@@ -70,8 +70,7 @@ requirements:
 
 pensum:
   title: Planes de Estudio
-    - title: Técnico Superior en Gestión Ambiental
-      content: Técnico Superior en Gestión Ambiental
+  content: Técnico Superior en Gestión Ambiental
   items:
     - (Información resumida del documento oficial)_
     - 6 cuatrimestres, total 99 créditos y 3,120 horas.
@@ -84,6 +83,7 @@ pensum:
     - Incluye asignaturas como Silvicultura, Inventario Forestal, Manejo Forestal Sostenible, Agroforestería y Prácticas Profesionales.
     - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf)
 ---
+
 
 
 
