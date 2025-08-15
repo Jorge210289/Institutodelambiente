@@ -49,7 +49,7 @@ process:
     - Entrevista personal con el Comité de becas el 26 de septiembre de 2025.
     - Semana de convivencia y evaluación POMA en el campus del Instituto, del 27 al 31 de octubre de 2025.
     - Notificación de resultados finales y entrega de becas.
-    - Inicio de clases: 12 de enero de 2026 en ITESMARENA, Jarabacoa.
+    - Inicio de clases 12 de enero de 2026 en ITESMARENA, Jarabacoa.
 
 requirements:
   title: Requisitos para aplicar
@@ -85,6 +85,7 @@ pensum:
     </ul>
     <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf" target="_blank">Ver pensum completo en PDF</a></p>
 ---
+
 
 
 
