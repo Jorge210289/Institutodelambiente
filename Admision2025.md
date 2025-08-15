@@ -76,13 +76,14 @@ pensum:
     - 6 cuatrimestres, total 99 créditos y 3,120 horas.
     - Incluye asignaturas como Gestión Ambiental, Biodiversidad, Ecoturismo, Evaluación de Impacto Ambiental y Prácticas Profesionales.
     - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091133/Admision%202025/Gestion.pdf)
-    - title: Técnico Superior en Ciencias Forestales
-      content: Técnico Superior en Ciencias Forestales
+  title: Técnico Superior en Ciencias Forestales
+  content: Técnico Superior en Ciencias Forestales
   items:
     - 6 cuatrimestres, total 100 créditos y 3,150 horas.
     - Incluye asignaturas como Silvicultura, Inventario Forestal, Manejo Forestal Sostenible, Agroforestería y Prácticas Profesionales.
     - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf)
 ---
+
 
 
 
