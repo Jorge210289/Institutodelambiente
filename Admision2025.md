@@ -64,6 +64,23 @@ menus:
       border-radius: 8px;
       box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
     }
+    .card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+  transition: background 0.3s, color 0.3s;
+}
+
+.card:hover {
+  background: #006b4f; /* o el color que quieras */
+  color: #000; /* texto negro */
+}
+
+.card:hover ul li {
+  background: rgba(255, 255, 255, 0.2); /* ajusta si quieres que las listas sigan visibles */
+}
+
   </style>
 </head>
 <body>
@@ -165,6 +182,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
