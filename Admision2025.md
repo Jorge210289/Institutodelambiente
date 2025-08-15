@@ -128,7 +128,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Imag
   <h2>Requisitos</h2>
   <div class="cards">
     <div class="card">
-      <h3>Antes del proceso</h3>
+      <h3>Para tomar la prueba de admisión</h3>
       <ul>
         <li>Ser bachiller y tener hasta 27 años.</li>
         <li>Asistir al examen con lápiz, borrador, lapicero y calculadora.</li>
@@ -136,7 +136,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Imag
       </ul>
     </div>
     <div class="card">
-      <h3>Después de la aprobación</h3>
+      <h3>Después de que se le informe que su ebca ha sido aprobada</h3>
       <ul>
         <li>Promedio mínimo de 80 puntos.</li>
         <li>Formulario de solicitud.</li>
@@ -176,6 +176,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Imag
 
 </body>
 </html>
+
 
 
 
