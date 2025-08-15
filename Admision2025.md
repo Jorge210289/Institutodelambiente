@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 title: Admisión 2025
 menus:
   header:
@@ -174,6 +174,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
