@@ -67,20 +67,24 @@ requirements:
     - Récord de notas oficial de bachillerato.
     - Certificado médico reciente.
     - Una carta de recomendación de una entidad reconocida en tu comunidad.
-    title: Planes de Estudio
-  content: Técnico Superior en Gestión Ambiental
-  items:
-    - (Información resumida del documento oficial)_
-    - 6 cuatrimestres, total 99 créditos y 3,120 horas.
-    - Incluye asignaturas como Gestión Ambiental, Biodiversidad, Ecoturismo, Evaluación de Impacto Ambiental y Prácticas Profesionales.
-    - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091133/Admision%202025/Gestion.pdf)
-  title: Técnico Superior en Ciencias Forestales
-  content: Técnico Superior en Ciencias Forestales
-  items:
-    - 6 cuatrimestres, total 100 créditos y 3,150 horas.
-    - Incluye asignaturas como Silvicultura, Inventario Forestal, Manejo Forestal Sostenible, Agroforestería y Prácticas Profesionales.
-    - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf)
+   pensum:
+  title: Planes de Estudio
+  content: |
+    <h3>Técnico Superior en Gestión Ambiental</h3>
+    <p><em>(Información resumida del documento oficial)</em></p>
+    <ul>
+      <li>6 cuatrimestres, total 99 créditos y 3,120 horas.</li>
+      <li>Incluye asignaturas como Gestión Ambiental, Biodiversidad, Ecoturismo, Evaluación de Impacto Ambiental y Prácticas Profesionales.</li>
+    </ul>
+    <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1755091133/Admision%202025/Gestion.pdf" target="_blank">Ver pensum completo en PDF</a></p>
+    <h3>Técnico Superior en Ciencias Forestales</h3>
+    <ul>
+      <li>6 cuatrimestres, total 100 créditos y 3,150 horas.</li>
+      <li>Incluye asignaturas como Silvicultura, Inventario Forestal, Manejo Forestal Sostenible, Agroforestería y Prácticas Profesionales.</li>
+    </ul>
+    <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf" target="_blank">Ver pensum completo en PDF</a></p>
 ---
+
 
 
 
