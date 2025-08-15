@@ -1,5 +1,5 @@
 ---
-layout: admission2025
+layout: default
 title: Admisión 2025
 menus:
   header:
@@ -10,7 +10,6 @@ menus:
     weight: 4
 URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Image_2025-04-08_at_8.13.29_AM_ozg8cx.jpg
 ---
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -176,6 +175,7 @@ URL: https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Imag
 
 </body>
 </html>
+
 
 
 
