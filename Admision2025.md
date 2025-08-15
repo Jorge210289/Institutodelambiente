@@ -67,9 +67,7 @@ requirements:
     - Récord de notas oficial de bachillerato.
     - Certificado médico reciente.
     - Una carta de recomendación de una entidad reconocida en tu comunidad.
-
-pensum:
-  title: Planes de Estudio
+    title: Planes de Estudio
   content: Técnico Superior en Gestión Ambiental
   items:
     - (Información resumida del documento oficial)_
@@ -83,6 +81,7 @@ pensum:
     - Incluye asignaturas como Silvicultura, Inventario Forestal, Manejo Forestal Sostenible, Agroforestería y Prácticas Profesionales.
     - [Ver pensum completo en PDF](https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf)
 ---
+
 
 
 
