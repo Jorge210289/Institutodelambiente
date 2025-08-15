@@ -58,6 +58,8 @@ requirements:
     - Ser bachiller y tener hasta 27 años de edad.
     - Asistir al examen con lápiz, borrador, lapicero y calculadora (no celular).
     - Presentar copia de cédula o acta de nacimiento, incluso si eres menor de edad.
+  content: "Despues de que se le informe que su beca ha sido aprobado debe presentar los siguientes documentos:"
+  items:
     - Poseer un promedio de bachillerato mínimo de 80 puntos.
     - Formulario de solicitud de admisión debidamente completado.
     - Dos fotografías 2 x 2 de frente y recientes.
@@ -85,6 +87,7 @@ pensum:
     </ul>
     <p><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1755091141/Admision%202025/CIENCIAS.pdf" target="_blank">Ver pensum completo en PDF</a></p>
 ---
+
 
 
 
