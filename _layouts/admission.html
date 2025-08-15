@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  {% if page.URL %}
+  <link rel="icon" href="{{ page.URL }}">
+  {% endif %}
+  <style>
+    /* Barra de menú */
+    nav {
+      background-color: #006b4f; /* tu color original */
+      color: white;
+      padding: 10px 5%;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-right: 15px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* Resto de tu CSS */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f8f7;
+      color: #333;
+    }
+    header h1 {
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 40px 10%;
+    }
+    section h2 {
+      color: #006b4f;
+      border-bottom: 2px solid #006b4f;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      background: #e5f5f0;
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 5px;
+    }
+    a {
+      color: #007b55;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+      transition: background 0.3s, color 0.3s;
+    }
+    .card:hover {
+      background: #006b4f;
+      color: #000;
+    }
+    .card:hover ul li {
+      background: rgba(255, 255, 255, 0.2);
+    }
+    video {
+      max-width: 100%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/">Inicio</a>
+  <a href="/admisiones/">Admisión 2025</a>
+  <a href="/contactenos/">Contáctanos</a>
+</nav>
+
+{{ content }}
+
+</body>
+</html>
