@@ -21,15 +21,6 @@ menus:
       background-color: #f4f8f7;
       color: #333;
     }
-    header {
-      background: url('https://res.cloudinary.com/duuonteo7/image/upload/v1744114436/WhatsApp_Image_2025-04-08_at_8.13.29_AM_ozg8cx.jpg') center/cover no-repeat;
-      height: 300px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-      text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
-    }
     header h1 {
       font-size: 2.5rem;
     }
@@ -174,6 +165,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
