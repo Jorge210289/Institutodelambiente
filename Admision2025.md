@@ -18,7 +18,6 @@ menus:
     body {
       font-family: Arial, sans-serif;
       margin: 0;
-      background-color: #f4f8f7;
       color: #333;
     }
     section {
@@ -179,6 +178,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
