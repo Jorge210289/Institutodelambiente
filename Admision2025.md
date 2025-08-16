@@ -56,7 +56,7 @@ menus:
       gap: 20px;
     }
     .card {
-      background: white;
+      background: black;
       padding: 20px;
       border-radius: 8px;
       box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
@@ -179,6 +179,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
