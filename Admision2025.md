@@ -34,7 +34,6 @@ menus:
       padding-left: 0;
     }
     ul li {
-      background: #e5f5f0;
       margin: 5px 0;
       padding: 10px;
       border-radius: 5px;
@@ -179,6 +178,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
