@@ -82,7 +82,7 @@ menus:
 <body>
 
 <header>
-  <h1>Admisión 2025</h1>
+  <h1>Proceso Admisión 2025</h1>
 </header>
 
 <section>
@@ -178,6 +178,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
