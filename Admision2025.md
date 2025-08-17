@@ -33,10 +33,10 @@ menus:
       list-style: none;
       padding-left: 0;
     }
-    ul li {
+   /* ul li 
       margin: 5px 0;
       padding: 10px;
-      border-radius: 5px;
+      border-radius: 5px; */
     }
     video {
       max-width: 100%;
@@ -178,6 +178,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
