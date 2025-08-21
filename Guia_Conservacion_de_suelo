@@ -3,13 +3,6 @@ layout: landing-page
 permalink: /Investigaciones/Guia_Conservacion_de_suelo/
 menus: Investigaciones
 title: Guía de Conservación de suelo
-menus:
-  header:
-    title: Conservación de Suelo
-    weight: 5
-  footer:
-    title: Conservación de Suelo
-    weight: 5
 ---
 <html lang="es">
 <head>
