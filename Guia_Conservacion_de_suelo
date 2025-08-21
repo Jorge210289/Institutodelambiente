@@ -4,156 +4,73 @@ permalink: /Investigaciones/Guia_Conservacion_de_suelo/
 menus: Investigaciones
 title: Guía de Conservación de suelo
 ---
-<html lang="es">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Guía de Conservación de Suelo</title>
-  <meta name="description" content="Guía práctica y técnica sobre conservación de suelo: erosión, sistemas agronómicos, culturales y mecánicos, y obras de conservación." />
-  <style>
-    :root{
-      --bg:#f4f8f7;
-      --fg:#233;
-      --muted:#3a5550;
-      --brand:#006b4f;
-      --brand-ink:#075f49;
-      --card:#fff;
-      --shadow:0 6px 16px rgba(0,0,0,.08);
-      --radius:14px;
-      --maxw:1100px;
-    }
-    html,body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Helvetica,Arial,sans-serif;line-height:1.55}
-    a{color:var(--brand);text-decoration:none}
-    a:hover{text-decoration:underline}
-    header.hero{
-      background:linear-gradient(180deg,#e9f3f0,transparent 60%), var(--bg);
-      padding:64px 20px 24px; text-align:center; border-bottom:1px solid #dbe7e3;
-    }
-    .wrap{max-width:var(--maxw);margin:0 auto}
-    .hero h1{margin:0 0 10px; font-size:clamp(1.6rem,2.8vw,2.4rem); color:var(--brand)}
-    .hero p.sub{margin:6px 0 0; color:#456; font-size:1rem}
-    .meta{margin-top:10px; font-size:.95rem; color:#567}
-    /* Nav */
-    .topnav{
-      position:sticky; top:0; z-index:50; backdrop-filter:saturate(1.2) blur(6px);
-      background:rgba(244,248,247,.85); border-bottom:1px solid #dbe7e3;
-    }
-    .topnav .wrap{display:flex; gap:16px; overflow:auto; padding:8px 12px}
-    .topnav a{white-space:nowrap; padding:10px 12px; border-radius:999px; border:1px solid #d5e5e1; background:#fff}
-    .topnav a:hover{background:#eef6f3}
-    /* Sections */
-    section{padding:44px 20px}
-    section .wrap > h2{
-      color:var(--brand); font-size:clamp(1.25rem,2.2vw,1.6rem); margin:0 0 14px;
-      border-bottom:2px solid var(--brand); padding-bottom:6px
-    }
-    .lead{font-size:1.05rem; color:#2b3b3a; margin-top:6px}
-    .grid{display:grid; gap:16px}
-    @media (min-width:900px){ .grid-2{grid-template-columns:1fr 1fr} .grid-3{grid-template-columns:repeat(3,1fr)} }
-    .card{
-      background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow);
-      padding:18px 18px 16px; border:1px solid #e5efe9;
-      transition:transform .2s ease, box-shadow .2s ease
-    }
-    .card:hover{transform:translateY(-2px); box-shadow:0 10px 22px rgba(0,0,0,.1)}
-    .card h3{margin:.2rem 0 .4rem; color:var(--brand-ink); font-size:1.05rem}
-    ul{margin:.2rem 0 .6rem 1.1rem}
-    li{margin:.25rem 0}
-    .note{background:#eef6f3; border:1px dashed #b8d5cd; padding:10px 12px; border-radius:10px; font-size:.95rem}
-    .table{
-      width:100%; border-collapse:collapse; overflow:auto; display:block
-    }
-    .table th,.table td{border:1px solid #e0ece8; padding:10px 12px; vertical-align:top; background:#fff}
-    .table th{background:#f1f7f5; text-align:left; color:#2f4e49}
-    .kbd{font-variant-numeric:tabular-nums}
-    .foot{font-size:.92rem; color:#587; margin-top:6px}
-    footer{padding:36px 20px; border-top:1px solid #dbe7e3; color:#456}
-  </style>
-</head>
-<body>
-  <header class="hero">
-    <div class="wrap">
-      <h1>Guía de Conservación de Suelo</h1>
-      <p class="sub">Introducción, erosión, sistemas de conservación y obras principales para manejo de escorrentía.</p>
-      <p class="meta"><strong>Autor:</strong> Mag. Frank Badía</p>
+<header class="hero">
+  <div class="wrap">
+    <h1>Guía de Conservación de Suelo</h1>
+    <p class="sub">Introducción, erosión, sistemas de conservación y obras principales para manejo de escorrentía.</p>
+    <p class="meta"><strong>Autor:</strong> Mag. Frank Badía</p>
+  </div>
+</header>
+
+<nav class="topnav" aria-label="Índice de la guía">
+  <div class="wrap">
+    <a href="#intro">Introducción</a>
+    <a href="#erosion">Erosión</a>
+    <a href="#factores">Factores</a>
+    <a href="#conservacion">Conservación</a>
+    <a href="#sistemas">Sistemas</a>
+    <a href="#proyecto">Proyecto</a>
+    <a href="#equipamiento">Equipos y materiales</a>
+    <a href="#levantamiento">Levantamiento y mediciones</a>
+    <a href="#pasos">Pasos del sistema</a>
+    <a href="#barreras">Barreras</a>
+    <a href="#plantacion">Sistemas de plantación</a>
+    <a href="#agroforesteria">Agroforestería</a>
+    <a href="#obras">Obras</a>
+    <a href="#bibliografia">Apoyo</a>
+  </div>
+</nav>
+
+<section id="intro">
+  <div class="wrap">
+    <h2>Introducción</h2>
+    <p class="lead">La conservación de suelo es el conjunto de prácticas y técnicas orientadas a mantener o mejorar la salud del suelo, especialmente en áreas propensas a la degradación.</p>
+  </div>
+</section>
+
+<section id="erosion">
+  <div class="wrap">
+    <h2>Erosión: causas y consecuencias</h2>
+    <div class="card">
+      <h3>Causas</h3>
+      <ul>
+        <li>Agricultura y labranza inadecuada.</li>
+        <li>Urbanismo y cambios de uso de suelo.</li>
+        <li>Incendios y deforestación.</li>
+        <li>Ganadería sin manejo conservacionista.</li>
+      </ul>
     </div>
-  </header>
-  <!-- Navegación -->
-  <nav class="topnav" aria-label="Índice de la guía">
-    <div class="wrap">
-      <a href="#intro">Introducción</a>
-      <a href="#erosion">Erosión</a>
-      <a href="#factores">Factores</a>
-      <a href="#conservacion">Conservación</a>
-      <a href="#sistemas">Sistemas</a>
-      <a href="#proyecto">Proyecto</a>
-      <a href="#equipamiento">Equipos y materiales</a>
-      <a href="#levantamiento">Levantamiento y mediciones</a>
-      <a href="#pasos">Pasos del sistema</a>
-      <a href="#barreras">Barreras</a>
-      <a href="#plantacion">Sistemas de plantación</a>
-      <a href="#agroforesteria">Agroforestería</a>
-      <a href="#obras">Obras de conservación</a>
-      <a href="#bibliografia">Material de apoyo</a>
+    <div class="card">
+      <h3>Consecuencias</h3>
+      <ul>
+        <li>Pérdida de horizontes, materia orgánica y nutrientes.</li>
+        <li>Contaminación y sedimentación de cuerpos de agua.</li>
+        <li>Disminución de la productividad y de la infiltración.</li>
+      </ul>
     </div>
-  </nav>
-  <!-- Introducción -->
-  <section id="intro">
-    <div class="wrap">
-      <h2>Introducción</h2>
-      <p class="lead">La conservación de suelo es el conjunto de prácticas y técnicas orientadas a mantener o mejorar la salud del suelo, especialmente en áreas propensas a la degradación.</p>
-      <div class="card">
-        <h3>Objetivo general</h3>
-        <ul>
-          <li>Reconocer la erosión como fenómeno de deterioro del suelo e implementar estrategias para prevenirla, reducirla y remediar sus efectos.</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-  <!-- Erosión -->
-  <section id="erosion">
-    <div class="wrap">
-      <h2>Erosión: causas y consecuencias</h2>
-      <div class="grid grid-2">
-        <div class="card">
-          <h3>Causas frecuentes</h3>
-          <ul>
-            <li>Agricultura y labranza inadecuada.</li>
-            <li>Urbanismo y cambios de uso de suelo.</li>
-            <li>Incendios y deforestación.</li>
-            <li>Ganadería sin manejo conservacionista.</li>
-          </ul>
-        </div>
-        <div class="card">
-          <h3>Consecuencias</h3>
-          <ul>
-            <li>Pérdida de horizontes, materia orgánica y nutrientes.</li>
-            <li>Contaminación y sedimentación de cuerpos de agua.</li>
-            <li>Disminución de la productividad y de la infiltración.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Factores -->
-  <section id="factores">
-    <div class="wrap">
-      <h2>Factores que inciden en la erosión</h2>
-      <div class="grid grid-3">
-        <div class="card">
-          <h3>Pendiente</h3>
-          <p>Grado e <em>longitud</em> de la pendiente determinan la energía de la escorrentía.</p>
-        </div>
-        <div class="card">
-          <h3>Lluvia</h3>
-          <p>Intensidad y frecuencia incrementan la energía cinética del agua.</p>
-        </div>
-        <div class="card">
-          <h3>Cobertura</h3>
-          <p>Cobertura vegetal y residuos protegen el suelo y reducen el impacto.</p>
-        </div>
-      </div>
-    </div>
+  </div>
+</section>
+
+<section id="factores">
+  <div class="wrap">
+    <h2>Factores que inciden en la erosión</h2>
+    <ul>
+      <li><strong>Pendiente:</strong> grado y longitud determinan la energía de la escorrentía.</li>
+      <li><strong>Lluvia:</strong> intensidad y frecuencia incrementan la erosión.</li>
+      <li><strong>Cobertura:</strong> la vegetación protege el suelo del impacto directo.</li>
+    </ul>
+  </div>
+</section>
   </section>
   <!-- Conservación (conceptos clave) -->
   <section id="conservacion">
