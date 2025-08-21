@@ -1,5 +1,5 @@
 ---
-layout: htmlcss
+layout: landing-page
 title: Admisión 2025
 menus:
   header:
@@ -181,6 +181,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
