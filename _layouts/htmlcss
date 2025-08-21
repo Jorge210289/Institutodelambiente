@@ -1,112 +1,66 @@
 ---
-# Layout: HTML + CSS genérico
+layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} - ITESMARENA</title>
+<section class="py-16 px-6 mx-auto max-w-2xl text-center">
+  <p class="mb-3 text-xl sm:text-2xl font-serif text-green">{{ page.about.pretitle }}</p>
+  <h2 class="mb-6 text-4xl md:text-5xl leading-tight text-black">{{ page.about.title }}</h2>
 
-  <!-- CSS global del sitio -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-
-  <!-- CSS específico de la página -->
-  <style>
-    /* Fuente y fondo general */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background-color: #f4f8f7;
-      color: #333;
-    }
-
-    /* Encabezados de sección */
-    h1, h2, h3 {
-      margin-top: 1.5em;
-    }
-
-    h2 {
-      color: #006b4f;
-      border-bottom: 2px solid #006b4f;
-      padding-bottom: 5px;
-    }
-
-    /* Listas */
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-
-    ul li {
-      background: #e5f5f0;
-      margin: 5px 0;
-      padding: 10px;
-      border-radius: 5px;
-    }
-
-    /* Enlaces */
-    a {
-      color: #007b55;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-
-    /* Videos responsivos */
-    video {
-      max-width: 100%;
-      margin-top: 20px;
-    }
-
-    /* Tarjetas para secciones de contenido */
-    .cards {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-      margin-top: 20px;
-    }
-
-    .card {
-      background: white;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
-      transition: background 0.3s, color 0.3s;
-    }
-
-    .card:hover {
-      background: #006b4f;
-      color: #000;
-    }
-
-    .card:hover ul li {
-      background: rgba(255, 255, 255, 0.2);
-    }
-
-    /* Main */
-    main {
-      padding: 2rem 1rem;
-      max-width: 1200px;
-      margin: 0 auto;
-    }
-  </style>
-</head>
-
-<body>
-
-  <!-- Encabezado y menú -->
-  {% include header.html %}
-
-  <!-- Contenido principal -->
-  <main>
+  <div class="mb-12 mx-auto max-w-lg">
     {{ content }}
-  </main>
+  </div>
 
-  <!-- Pie de página -->
-  {% include footer.html %}
+  <div class="md:flex md:-mx-4">
+    {% for tile in page.tiles %}
+      <a href="{{ tile.url }}" class="md:w-1/3 md:mx-4 card transition">
+        <figure>
+          <picture>
+            <source data-lazy data-srcset="{{ tile.thumbnail | replace: 'upload', 'upload/c_scale,q_60,w_550' | replace: '.jpg', '.webp' }}" type="image/webp">
+            <img data-lazy data-src="{{ tile.thumbnail | replace: 'upload', 'upload/c_scale,q_60,w_550' }}" class="w-full" alt="{{ tile.name }}" width="300" height="250">
+            <noscript>
+              <img src="{{ tile.thumbnail | replace: 'upload', 'upload/c_scale,q_60,w_550' }}" class="w-full" alt="{{ tile.name }}" width="300" height="250">
+            </noscript>
+          </picture>
+          <figcaption class="px-4 py-3">
+            <h3 class="mb-2 text-xl font-medium text-black">{{ tile.name }}</h3>
+            <p class="font-light">{{ tile.description }}</p>
+          </figcaption>
+        </figure>
+      </a>
+    {% endfor %}
+  </div>
+</section>
 
-</body>
-</html>
+
+
+<section class="py-16 px-6 relative z-0 lg:tabs" data-lazy data-class="bg-tree">
+  <div class="flex justify-center mb-8">
+    <h2 class="px-6 py-2 text-4xl text-green bg-white shadow-md">Carreras</h2>
+  </div>
+
+  <div class="mx-auto max-w-2xl md:flex">
+    <div class="hidden lg:flex flex-col items-end flex-1 mx-6 mb-0">
+      {% for career in site.careers %}
+        <button type="button" class="text-left bg-white uppercase px-6 py-8 font-medium text-grey-darkest {% unless forloop.last %}sm:mb-1{% endunless %} w-full md:w-4/5 flex items-center" data-action="tab" data-target="{{ career.title | slugify | cgi_escape }}">{{ career.title }}</button>
+      {% endfor %}
+    </div>
+
+    <div class="flex flex-1 flex-wrap -mx-2 lg:-mx-0">
+      {% for career in site.careers %}
+        <div class="px-2 lg:px-0 mb-4 lg:mb-0 sm:w-1/2 lg:w-full lg:hidden" data-tab="{{ career.title | slugify | cgi_escape }}">
+          <article class="lg:flex bg-white shadow-md h-full">
+            <div style="background-image: url('{{ career.thumbnail | replace: 'upload', 'upload/c_scale,q_60,w_550' }}');" class="bg-cover flex-no-shrink lg:w-48 h-48 lg:h-auto"></div>
+            <div class="py-4 px-6">
+              <h2 class="mb-2 text-black font-medium" data-action="colorize">{{ career.title }}</h2>
+              <p class="font-light">{{ career.description }}</p>
+              <a href="{{ career.url }}" class="button mt-4">Más detalles</a>
+            </div>
+          </article>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+
+
