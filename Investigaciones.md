@@ -5,7 +5,13 @@ menus: Investigaciones
 title: "Publicaciones Científicas del Dr. José Santiago Vásquez Guerra"
 description: "Listado de publicaciones científicas realizadas por el Dr. José Santiago Vásquez Guerra, Rector del ITESMARENA."
 
-
+menus: 
+  header:
+    title: Investigaciones
+    weight: 3
+  footer:
+    title: Investigaciones
+    weight: 3
 
 
 pre_heading: Investigación y Ciencia
@@ -29,6 +35,7 @@ entries:
   - year: 2002
     content: "Tesis de maestría: Calidad de las aguas de Arroyo Cercado, Jarabacoa, República Dominicana."
 ---
+
 
 
 
