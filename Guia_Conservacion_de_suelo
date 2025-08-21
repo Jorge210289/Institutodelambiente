@@ -71,7 +71,6 @@ title: Guía de Conservación de suelo
   </style>
 </head>
 <body>
-
   <header class="hero">
     <div class="wrap">
       <h1>Guía de Conservación de Suelo</h1>
@@ -79,7 +78,6 @@ title: Guía de Conservación de suelo
       <p class="meta"><strong>Autor:</strong> Mag. Frank Badía</p>
     </div>
   </header>
-
   <!-- Navegación -->
   <nav class="topnav" aria-label="Índice de la guía">
     <div class="wrap">
@@ -99,7 +97,6 @@ title: Guía de Conservación de suelo
       <a href="#bibliografia">Material de apoyo</a>
     </div>
   </nav>
-
   <!-- Introducción -->
   <section id="intro">
     <div class="wrap">
@@ -113,7 +110,6 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Erosión -->
   <section id="erosion">
     <div class="wrap">
@@ -139,7 +135,6 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Factores -->
   <section id="factores">
     <div class="wrap">
@@ -160,7 +155,6 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Conservación (conceptos clave) -->
   <section id="conservacion">
     <div class="wrap">
@@ -187,7 +181,6 @@ title: Guía de Conservación de suelo
       <p class="note">La energía cinética del agua de escorrentía es el enemigo principal. Todas las prácticas buscan reducirla y controlarla.</p>
     </div>
   </section>
-
   <!-- Sistemas -->
   <section id="sistemas">
     <div class="wrap">
@@ -227,7 +220,6 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Proyecto -->
   <section id="proyecto">
     <div class="wrap">
@@ -257,7 +249,6 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Equipos y materiales -->
   <section id="equipamiento">
     <div class="wrap">
@@ -279,7 +270,6 @@ title: Guía de Conservación de suelo
       <p class="foot">Ajustar la lista según disponibilidad local y el diseño de obra.</p>
     </div>
   </section>
-
   <!-- Levantamiento -->
   <section id="levantamiento">
     <div class="wrap">
@@ -295,7 +285,6 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Pasos -->
   <section id="pasos">
     <div class="wrap">
@@ -313,7 +302,6 @@ title: Guía de Conservación de suelo
       <p class="note">Las barreras usadas como soporte de otras estructuras pueden alinearse a 0° (curva a nivel) o según el grado de inclinación requerido por la obra.</p>
     </div>
   </section>
-
   <!-- Barreras -->
   <section id="barreras">
     <div class="wrap">
@@ -345,7 +333,6 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Plantación -->
   <section id="plantacion">
     <div class="wrap">
@@ -364,7 +351,6 @@ title: Guía de Conservación de suelo
       <p class="note">La plantación en fajas intercaladas mejora filtración, retención y disipación de escorrentía sin sacrificar el objetivo productivo.</p>
     </div>
   </section>
-
   <!-- Agroforestería -->
   <section id="agroforesteria">
     <div class="wrap">
@@ -392,12 +378,10 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <!-- Obras de conservación -->
   <section id="obras">
     <div class="wrap">
       <h2>Obras de conservación</h2>
-
       <div class="grid grid-2">
         <div class="card">
           <h3>Acequia de ladera</h3>
@@ -408,7 +392,6 @@ title: Guía de Conservación de suelo
           <p>Captura y evacúa aguas de escorrentía hacia drenajes naturales protegidos. Requiere diseño que transforme energía no controlada en energía controlada.</p>
         </div>
       </div>
-
       <div class="grid grid-2">
         <div class="card">
           <h3>Terrazas de banco (andenes)</h3>
@@ -424,7 +407,6 @@ title: Guía de Conservación de suelo
           </ul>
         </div>
       </div>
-
       <div class="grid grid-2">
         <div class="card">
           <h3>Trinchos</h3>
@@ -435,11 +417,9 @@ title: Guía de Conservación de suelo
           <p>Reducen erosión y velocidad del agua en cárcavas, ayudan a restablecer vegetación. Mejor desempeño cuando se construyen en serie y combinadas con otras medidas.</p>
         </div>
       </div>
-
       <p class="note">Para dimensionamiento específico, completar diagnóstico y consultar tablas guía de espaciamiento y capacidad según pendiente, tipo de suelo y régimen de lluvias.</p>
     </div>
   </section>
-
   <!-- Material de apoyo -->
   <section id="bibliografia">
     <div class="wrap">
@@ -474,13 +454,11 @@ title: Guía de Conservación de suelo
       </div>
     </div>
   </section>
-
   <footer>
     <div class="wrap">
       <p>© <span id="y"></span> Guía de Conservación de Suelo — Uso académico.</p>
     </div>
   </footer>
-
   <script>
     // Año dinámico
     document.getElementById('y').textContent = new Date().getFullYear();
