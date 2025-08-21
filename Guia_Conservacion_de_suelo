@@ -69,17 +69,14 @@ menus:
   </style>
 </head>
 <body>
-
 <header>
   <h1>Guía de Conservación de Suelo</h1>
   <p>Basada en la presentación del Mag. Frank Badía</p>
 </header>
-
 <section>
   <h2>Introducción</h2>
   <p>La conservación de suelo es el conjunto de prácticas y técnicas orientadas a mantener o mejorar la salud del suelo, especialmente en áreas propensas a la degradación.</p>
 </section>
-
 <section>
   <h2>Erosión: causas y consecuencias</h2>
   <div class="cards">
@@ -102,7 +99,6 @@ menus:
     </div>
   </div>
 </section>
-
 <section>
   <h2>Factores que inciden en la erosión</h2>
   <ul>
@@ -111,7 +107,6 @@ menus:
     <li><strong>Cobertura:</strong> vegetación y residuos</li>
   </ul>
 </section>
-
 <section>
   <h2>Conceptos clave</h2>
   <div class="cards">
@@ -134,7 +129,6 @@ menus:
     </div>
   </div>
 </section>
-
 <section>
   <h2>Sistemas de Conservación</h2>
   <div class="cards">
@@ -165,7 +159,6 @@ menus:
     </div>
   </div>
 </section>
-
 <section>
   <h2>Proyecto de Conservación</h2>
   <div class="cards">
@@ -183,7 +176,6 @@ menus:
     </div>
   </div>
 </section>
-
 <section>
   <h2>Barreras vivas y muertas</h2>
   <div class="cards">
@@ -197,12 +189,10 @@ menus:
     </div>
   </div>
 </section>
-
 <section>
   <h2>Agroforestería</h2>
   <p>Asociación de especies agrícolas, árboles y animales con el árbol como elemento común. Ejemplos: cacao bajo sombra, cortinas rompeviento, sistemas agrosilvopastoriles.</p>
 </section>
-
 <section>
   <h2>Obras de conservación</h2>
   <ul>
@@ -214,7 +204,6 @@ menus:
     <li>Presas de sedimentación</li>
   </ul>
 </section>
-
 <section>
   <h2>Material de apoyo</h2>
   <ul>
@@ -224,6 +213,5 @@ menus:
     <li>Documentales y videos sobre erosión y agroforestería</li>
   </ul>
 </section>
-
 </body>
 </html>
