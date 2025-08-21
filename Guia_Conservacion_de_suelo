@@ -3,109 +3,124 @@ layout: landing-page
 permalink: /Investigaciones/Guia_Conservacion_de_suelo/
 menus: Investigaciones
 title: Guía de Conservación de suelo
+menus:
+  header:
+    title: Conservación de Suelo
+    weight: 5
+  footer:
+    title: Conservación de Suelo
+    weight: 5
 ---
-<style>
-:root{
-  --bg:#f4f8f7; --fg:#233; --brand:#006b4f; --brand-ink:#075f49;
-  --card:#fff; --shadow:0 4px 12px rgba(0,0,0,.08); --radius:12px; --maxw:1100px;
-}
-body{background:var(--bg);color:var(--fg);font-family:Arial,Helvetica,sans-serif;line-height:1.55}
-a{color:var(--brand);text-decoration:none}
-a:hover{text-decoration:underline}
-.wrap{max-width:var(--maxw);margin:0 auto}
-.hero{background:#eef6f3;padding:60px 20px 30px;text-align:center}
-.hero h1{margin:0;color:var(--brand)}
-.hero .sub{color:#456}
-.hero .meta{color:#567;margin-top:6px}
-.topnav{position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid #ccc}
-.topnav .wrap{display:flex;flex-wrap:wrap;gap:8px;padding:10px}
-.topnav a{padding:6px 12px;border-radius:8px;background:#f4f8f7}
-.topnav a:hover{background:#dbe7e3}
-section{padding:40px 20px}
-section h2{color:var(--brand);border-bottom:2px solid var(--brand);padding-bottom:5px;margin-bottom:14px}
-.card{background:var(--card);padding:16px;border-radius:var(--radius);box-shadow:var(--shadow);margin:12px 0}
-.card h3{margin-top:0;color:var(--brand-ink)}
-.note{background:#eef6f3;border:1px dashed #aac;padding:10px;border-radius:8px;font-size:.95rem}
-ul{margin:0 0 1em 1.2em}
-</style>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guía de Conservación de Suelo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f8f7;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      background: #eef6f3;
+      padding: 50px 20px 30px;
+    }
+    header h1 {
+      margin: 0;
+      color: #006b4f;
+    }
+    header p {
+      color: #456;
+    }
+    section {
+      padding: 40px 10%;
+    }
+    section h2 {
+      color: #006b4f;
+      border-bottom: 2px solid #006b4f;
+      padding-bottom: 5px;
+      margin-bottom: 15px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    }
+    .note {
+      background: #eef6f3;
+      border-left: 4px solid #006b4f;
+      padding: 10px 15px;
+      margin-top: 15px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
 
-<header class="hero">
-  <div class="wrap">
-    <h1>Guía de Conservación de Suelo</h1>
-    <p class="sub">Introducción, erosión, sistemas de conservación y obras principales para manejo de escorrentía.</p>
-    <p class="meta"><strong>Autor:</strong> Mag. Frank Badía</p>
-  </div>
+<header>
+  <h1>Guía de Conservación de Suelo</h1>
+  <p>Basada en la presentación del Mag. Frank Badía</p>
 </header>
 
-<nav class="topnav" aria-label="Índice de la guía">
-  <div class="wrap">
-    <a href="#intro">Introducción</a>
-    <a href="#erosion">Erosión</a>
-    <a href="#factores">Factores</a>
-    <a href="#conservacion">Conservación</a>
-    <a href="#sistemas">Sistemas</a>
-    <a href="#proyecto">Proyecto</a>
-    <a href="#equipos">Equipos</a>
-    <a href="#levantamiento">Levantamiento</a>
-    <a href="#pasos">Pasos</a>
-    <a href="#barreras">Barreras</a>
-    <a href="#plantacion">Plantación</a>
-    <a href="#agroforesteria">Agroforestería</a>
-    <a href="#obras">Obras</a>
-    <a href="#bibliografia">Bibliografía</a>
-  </div>
-</nav>
-
-<section id="intro">
-  <div class="wrap">
-    <h2>Introducción</h2>
-    <p>La conservación de suelo es el conjunto de prácticas y técnicas orientadas a mantener o mejorar la salud del suelo, especialmente en áreas propensas a la degradación.</p>
-  </div>
+<section>
+  <h2>Introducción</h2>
+  <p>La conservación de suelo es el conjunto de prácticas y técnicas orientadas a mantener o mejorar la salud del suelo, especialmente en áreas propensas a la degradación.</p>
 </section>
 
-<section id="erosion">
-  <div class="wrap">
-    <h2>Erosión: causas y consecuencias</h2>
+<section>
+  <h2>Erosión: causas y consecuencias</h2>
+  <div class="cards">
     <div class="card">
       <h3>Causas</h3>
       <ul>
         <li>Agricultura y labranza inadecuada</li>
-        <li>Urbanismo y cambios de uso de suelo</li>
+        <li>Urbanismo</li>
         <li>Incendios y deforestación</li>
-        <li>Ganadería sin manejo conservacionista</li>
+        <li>Ganadería extensiva</li>
       </ul>
     </div>
     <div class="card">
       <h3>Consecuencias</h3>
       <ul>
-        <li>Pérdida de horizontes, materia orgánica y nutrientes</li>
-        <li>Contaminación y sedimentación de cuerpos de agua</li>
-        <li>Disminución de la productividad</li>
+        <li>Pérdida de materia orgánica y nutrientes</li>
+        <li>Contaminación de cuerpos de agua</li>
+        <li>Disminución de la productividad del suelo</li>
       </ul>
     </div>
   </div>
 </section>
 
-<section id="factores">
-  <div class="wrap">
-    <h2>Factores que inciden en la erosión</h2>
-    <ul>
-      <li><strong>Pendiente:</strong> grado y longitud determinan la energía de la escorrentía</li>
-      <li><strong>Lluvia:</strong> intensidad y frecuencia incrementan la erosión</li>
-      <li><strong>Cobertura:</strong> la vegetación protege el suelo del impacto directo</li>
-    </ul>
-  </div>
+<section>
+  <h2>Factores que inciden en la erosión</h2>
+  <ul>
+    <li><strong>Pendiente:</strong> grado y longitud</li>
+    <li><strong>Lluvia:</strong> intensidad y frecuencia</li>
+    <li><strong>Cobertura:</strong> vegetación y residuos</li>
+  </ul>
 </section>
 
-<section id="conservacion">
-  <div class="wrap">
-    <h2>Conservación de suelo: conceptos clave</h2>
+<section>
+  <h2>Conceptos clave</h2>
+  <div class="cards">
     <div class="card">
       <h3>Enfoque integral</h3>
       <ul>
         <li>Línea madre y línea guía</li>
-        <li>Reducción de pendientes efectivas</li>
-        <li>Implementación integrada: agronómica, cultural y mecánica</li>
+        <li>Reducción de pendientes</li>
+        <li>Implementación agronómica, cultural y mecánica</li>
       </ul>
     </div>
     <div class="card">
@@ -120,147 +135,95 @@ ul{margin:0 0 1em 1.2em}
   </div>
 </section>
 
-<section id="sistemas">
-  <div class="wrap">
-    <h2>Sistemas de conservación</h2>
+<section>
+  <h2>Sistemas de Conservación</h2>
+  <div class="cards">
     <div class="card">
-      <h3>Agronómico</h3>
+      <h3>Agronómicos</h3>
       <ul>
         <li>Selección de semillas</li>
-        <li>Uso de fertilizantes y abonos orgánicos</li>
-        <li>Riego y programación</li>
-        <li>Labores culturales</li>
+        <li>Uso de abonos orgánicos</li>
+        <li>Labores culturales y control de malezas</li>
       </ul>
     </div>
     <div class="card">
-      <h3>Cultural</h3>
+      <h3>Culturales</h3>
       <ul>
         <li>Sistemas de plantación (tresbolillo, contorno)</li>
         <li>Barreras vivas y muertas</li>
-        <li>Labranza de conservación</li>
         <li>Agroforestería</li>
       </ul>
     </div>
     <div class="card">
-      <h3>Mecánico</h3>
+      <h3>Mecánicos</h3>
       <ul>
-        <li>Acequias de ladera</li>
-        <li>Canales de desviación</li>
+        <li>Acequias y canales</li>
         <li>Terrazas</li>
         <li>Zanjas de infiltración</li>
-        <li>Trinchos y diques</li>
+        <li>Trinchos</li>
       </ul>
     </div>
   </div>
 </section>
 
-<section id="proyecto">
-  <div class="wrap">
-    <h2>Proyecto de conservación de suelo</h2>
+<section>
+  <h2>Proyecto de Conservación</h2>
+  <div class="cards">
     <div class="card">
       <h3>Diagnóstico</h3>
-      <p>Descripción de las condiciones del terreno y sus componentes.</p>
+      <p>Descripción del terreno y sus condiciones actuales.</p>
     </div>
     <div class="card">
       <h3>Planificación</h3>
       <p>Definición de sistemas, recursos, cronograma y obras.</p>
     </div>
     <div class="card">
-      <h3>Ejecución y evaluación</h3>
-      <p>Implementación de actividades y monitoreo constante.</p>
+      <h3>Ejecución y Evaluación</h3>
+      <p>Implementación de actividades y monitoreo continuo.</p>
     </div>
   </div>
 </section>
 
-<section id="equipos">
-  <div class="wrap">
-    <h2>Equipos, herramientas y materiales</h2>
-    <ul>
-      <li><strong>Equipo:</strong> nivel Abney, GPS, cinta métrica...</li>
-      <li><strong>Herramientas:</strong> martillo, soga, pala, pico...</li>
-      <li><strong>Materiales:</strong> estacas, plantas, abono, agua destilada...</li>
-    </ul>
-  </div>
-</section>
-
-<section id="levantamiento">
-  <div class="wrap">
-    <h2>Levantamiento y mediciones</h2>
-    <ul>
-      <li>Pendiente e inclinación</li>
-      <li>Cobertura del suelo</li>
-      <li>pH y materia orgánica</li>
-      <li>Textura y drenaje</li>
-    </ul>
-  </div>
-</section>
-
-<section id="pasos">
-  <div class="wrap">
-    <h2>Pasos para establecer un sistema</h2>
-    <ol>
-      <li>Medir pendiente</li>
-      <li>Establecer tipo de suelo</li>
-      <li>Definir cobertura vegetal</li>
-      <li>Considerar clima</li>
-      <li>Definir plantación</li>
-      <li>Decidir tipo de conservación</li>
-      <li>Consultar tablas de referencia</li>
-      <li>Definir vertimiento de agua</li>
-    </ol>
-  </div>
-</section>
-
-<section id="barreras">
-  <div class="wrap">
-    <h2>Barreras vivas y muertas</h2>
+<section>
+  <h2>Barreras vivas y muertas</h2>
+  <div class="cards">
     <div class="card">
       <h3>Barreras vivas</h3>
-      <p>Filas de plantas permanentes (ej. leucaena, guandul, vetiver).</p>
+      <p>Filas de plantas como leucaena, guandul o vetiver que reducen la velocidad del agua y retienen suelo.</p>
     </div>
     <div class="card">
       <h3>Barreras muertas</h3>
-      <p>Muros de piedra u otros materiales que reducen velocidad del agua.</p>
+      <p>Muros de piedra u otros materiales locales que frenan la escorrentía y retienen el suelo.</p>
     </div>
   </div>
 </section>
 
-<section id="plantacion">
-  <div class="wrap">
-    <h2>Sistemas de plantación</h2>
-    <p>Incluye sistemas a contorno, tresbolillo y en fajas, para reducir la erosión y mejorar la infiltración.</p>
-  </div>
+<section>
+  <h2>Agroforestería</h2>
+  <p>Asociación de especies agrícolas, árboles y animales con el árbol como elemento común. Ejemplos: cacao bajo sombra, cortinas rompeviento, sistemas agrosilvopastoriles.</p>
 </section>
 
-<section id="agroforesteria">
-  <div class="wrap">
-    <h2>Agroforestería</h2>
-    <p>Asociación de especies vegetales y animales con el árbol como elemento común (ej. cacao bajo sombra, cercas vivas, sistemas agrosilvopastoriles).</p>
-  </div>
+<section>
+  <h2>Obras de conservación</h2>
+  <ul>
+    <li>Acequias de ladera</li>
+    <li>Canales de desviación</li>
+    <li>Terrazas de banco</li>
+    <li>Zanjas de infiltración</li>
+    <li>Trinchos</li>
+    <li>Presas de sedimentación</li>
+  </ul>
 </section>
 
-<section id="obras">
-  <div class="wrap">
-    <h2>Obras de conservación</h2>
-    <ul>
-      <li>Acequias de ladera</li>
-      <li>Canales de desviación</li>
-      <li>Terrazas de banco</li>
-      <li>Zanjas de infiltración</li>
-      <li>Trinchos</li>
-      <li>Presas de sedimentación</li>
-    </ul>
-  </div>
+<section>
+  <h2>Material de apoyo</h2>
+  <ul>
+    <li>Manual de Conservación de Suelos – Cooperación Suiza</li>
+    <li>Guía de prácticas en laderas – Robins & Burgoa</li>
+    <li>Ministerio de Agricultura y Riego, Perú</li>
+    <li>Documentales y videos sobre erosión y agroforestería</li>
+  </ul>
 </section>
 
-<section id="bibliografia">
-  <div class="wrap">
-    <h2>Material de apoyo</h2>
-    <ul>
-      <li>Manual de conservación de suelos, Cooperación Suiza</li>
-      <li>Guía de prácticas en laderas, Robins & Burgoa</li>
-      <li>Ministerio de Agricultura y Riego, Perú</li>
-      <li>Documentales y videos de erosión, terrazas y agroforestería</li>
-    </ul>
-  </div>
-</section>
+</body>
+</html>
