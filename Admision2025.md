@@ -33,11 +33,6 @@ menus:
       list-style: none;
       padding-left: 0;
     }
-   /* ul li 
-      margin: 5px 0;
-      padding: 10px;
-      border-radius: 5px; */
-    }
     video {
       max-width: 100%;
       margin-top: 20px;
@@ -55,28 +50,30 @@ menus:
       gap: 20px;
     }
     .card {
-      background: black;
+      background: white;
       padding: 20px;
       border-radius: 8px;
       box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+      transition: background 0.3s, color 0.3s;
     }
-    .card {
-  background: white;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
-  transition: background 0.3s, color 0.3s;
-}
-
-.card:hover {
-  background: #006b4f; /* o el color que quieras */
-  color: #000; /* texto negro */
-}
-
-.card:hover ul li {
-  background: rgba(255, 255, 255, 0.2); /* ajusta si quieres que las listas sigan visibles */
-}
-
+    .card:hover {
+      background: #006b4f;
+      color: #000;
+    }
+    .card:hover ul li {
+      background: rgba(255, 255, 255, 0.2);
+    }
+    /* Nueva sección imagen */
+    .image-section {
+      text-align: center;
+      padding: 40px 10%;
+    }
+    .image-section img {
+      max-width: 90%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+    }
   </style>
 </head>
 <body>
@@ -176,8 +173,16 @@ menus:
   </div>
 </section>
 
+<!-- Nueva sección de la imagen -->
+<section class="image-section">
+  <h2>Lugares donde se impartirá el examen de admisión por regiones</h2>
+  <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1755793408/Admision%202025/WhatsApp_Image_2025-08-21_at_12.18.43_PM.jpg" alt="Lugares examen admisión">
+</section>
+
 </body>
 </html>
+
+
 
 
 
