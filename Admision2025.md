@@ -63,7 +63,7 @@ menus:
       transition: background 0.3s, color 0.3s;
     }
     .card:hover {
-      background: #006b4f;
+      background: #ffffff;
       color: #000;
     }
     .card:hover ul li {
@@ -225,6 +225,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
