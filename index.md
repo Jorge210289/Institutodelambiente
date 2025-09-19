@@ -13,7 +13,7 @@ menus: institute
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
-      background: #ffffff; /* Azul oscuro */
+      background: #003366;; /* Azul oscuro */
       color: #ffffff;
       display: flex;
       justify-content: center;
@@ -123,6 +123,7 @@ menus: institute
   </div>
 </body>
 </html>
+
 
 
 
