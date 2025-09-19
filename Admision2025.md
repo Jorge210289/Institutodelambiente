@@ -124,7 +124,7 @@ menus:
 <section class="highlight">
   <h2>¡Ya pasamos la primera etapa de Examen de Admisión!</h2>
   <p>Ahora pasamos a la entrevista.<br> Conoce los bachilleres que avanzan a esta fase.</p>
-  <a href="entrevista.html" class="btn">Más información sobre la entrevista</a>
+  <a href="https://itesmarena.edu.do/entrevista2025/" class="btn">Más información sobre la entrevista</a>
 </section>
 
 <section>
@@ -226,6 +226,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
