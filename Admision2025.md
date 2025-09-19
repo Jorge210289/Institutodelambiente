@@ -117,7 +117,7 @@ menus:
 <body>
 
 <header>
-<h1 style="color: red;">Proceso Admisión 2025</h1>
+<h1 style="color: red;">PROCESO ADMISIÓN 2025</h1>
 </header>
 
 <!-- NUEVA SECCIÓN DESTACADA -->
@@ -226,6 +226,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
