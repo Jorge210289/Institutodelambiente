@@ -21,6 +21,12 @@ menus:
       background-color: #f4f8f7;
       color: #333;
     }
+    header {
+      text-align: center;
+      padding: 20px;
+      background: #006b4f;
+      color: white;
+    }
     section {
       padding: 40px 10%;
     }
@@ -74,6 +80,37 @@ menus:
       border-radius: 8px;
       box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
     }
+    /* Sección destacada */
+    .highlight {
+      background: linear-gradient(135deg, #006b4f, #009e74);
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+      border-radius: 0 0 20px 20px;
+      box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+    }
+    .highlight h2 {
+      font-size: 2rem;
+      margin-bottom: 15px;
+    }
+    .highlight p {
+      font-size: 1.2rem;
+      margin-bottom: 25px;
+    }
+    .highlight .btn {
+      display: inline-block;
+      padding: 12px 30px;
+      background: white;
+      color: #006b4f;
+      font-weight: bold;
+      border-radius: 30px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .highlight .btn:hover {
+      background: #004f39;
+      color: white;
+    }
   </style>
 </head>
 <body>
@@ -81,6 +118,13 @@ menus:
 <header>
   <h1>Proceso Admisión 2025</h1>
 </header>
+
+<!-- NUEVA SECCIÓN DESTACADA -->
+<section class="highlight">
+  <h2>¡Ya pasamos la primera etapa de Examen de Admisión!</h2>
+  <p>Ahora pasamos a la entrevista.<br> Conoce los bachilleres que avanzan a esta fase.</p>
+  <a href="entrevista.html" class="btn">Más información sobre la entrevista</a>
+</section>
 
 <section>
   <h2>¿A quién va dirigido?</h2>
@@ -181,6 +225,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
