@@ -13,18 +13,37 @@ menus: institute
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
-      background: #003366; /* Azul oscuro como la imagen */
+      background: #003366; /* Azul oscuro */
       color: #ffffff;
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      min-height: 100vh;
       text-align: center;
     }
     /* Contenedor central */
     .container {
-      max-width: 800px;
+      max-width: 900px;
       padding: 20px;
+    }
+    /* Aviso destacado */
+    .highlight {
+      background: #e63946; /* Rojo llamativo */
+      padding: 25px 20px;
+      border-radius: 12px;
+      margin-bottom: 40px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+      animation: fadeIn 1.2s ease-in-out;
+    }
+    .highlight h1 {
+      font-size: 2rem;
+      margin-bottom: 15px;
+      color: #ffffff;
+    }
+    .highlight p {
+      font-size: 1.2rem;
+      color: #ffeaea;
+      margin-bottom: 20px;
     }
     /* Títulos */
     h1 {
@@ -35,7 +54,7 @@ menus: institute
       font-size: 1.5rem;
       font-weight: normal;
       margin-bottom: 40px;
-      color: #d0e7ff; /* Azul claro para contraste */
+      color: #d0e7ff; /* Azul claro */
     }
     /* Botones */
     .btn {
@@ -49,7 +68,7 @@ menus: institute
       transition: 0.3s ease;
     }
     .btn-primary {
-      background: #e63946; /* Rojo acorde a la imagen */
+      background: #e63946; /* Rojo */
       color: #ffffff;
     }
     .btn-primary:hover {
@@ -62,8 +81,19 @@ menus: institute
     .btn-secondary:hover {
       background: #14518a;
     }
+    /* Animación */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
     /* Responsivo */
     @media (max-width: 600px) {
+      .highlight h1 {
+        font-size: 1.6rem;
+      }
+      .highlight p {
+        font-size: 1rem;
+      }
       h1 {
         font-size: 2rem;
       }
@@ -79,6 +109,13 @@ menus: institute
 </head>
 <body>
   <div class="container">
+    <!-- Texto destacado -->
+    <div class="highlight">
+      <h1>¡Ya pasamos la primera Etapa de Examen de Admisión!</h1>
+      <p>Ahora pasamos a la <strong>entrevista</strong>. Conoce los Bachilleres que avanzan a esta fase.</p>
+      <a href="https://itesmarena.edu.do/entrevista2025/" class="btn btn-primary">Más información sobre la entrevista</a>
+    </div>
+    <!-- Contenido principal -->
     <h1>Bienvenidos a ITESMARENA</h1>
     <h2>Llamado de Admisión 2025</h2>
     <a href="https://itesmarena.edu.do/indexxx/" class="btn btn-primary">Ir a página principal</a>
@@ -86,4 +123,5 @@ menus: institute
   </div>
 </body>
 </html>
+
 
