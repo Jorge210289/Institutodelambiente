@@ -63,7 +63,7 @@ menus:
       transition: background 0.3s, color 0.3s;
     }
     .card:hover {
-      background: #ffffff;
+      background: #006b4f;
       color: #000;
     }
     .card:hover ul li {
@@ -92,6 +92,7 @@ menus:
     .highlight h2 {
       font-size: 2rem;
       margin-bottom: 15px;
+      color: white; /* Forzado a blanco */
     }
     .highlight p {
       font-size: 1.2rem;
@@ -225,6 +226,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
