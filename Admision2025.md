@@ -122,6 +122,7 @@ menus:
 
 <!-- NUEVA SECCIÓN DESTACADA -->
 <section class="highlight">
+  <h1 style="color: red;">Proceso Admisión 2025</h1>
   <h2>¡Ya pasamos la primera etapa de Examen de Admisión!</h2>
   <p>Ahora pasamos a la entrevista.<br> Conoce los bachilleres que avanzan a esta fase.</p>
   <a href="https://itesmarena.edu.do/entrevista2025/" class="btn">Más información sobre la entrevista</a>
@@ -226,6 +227,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
