@@ -1,11 +1,6 @@
 ---
 layout: landing-page
 title: Entrevista 2025
-menus:
-  header:
-    title: Entrevista_2025
-    footer:
-    title: Entrevista 2025
 ---
 <html lang="es">
 <head>
