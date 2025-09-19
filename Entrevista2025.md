@@ -17,7 +17,7 @@ title: Entrevista 2025
     header {
       text-align: center;
       padding: 20px;
-      background: #006b4f;
+      background: #ffff;
       color: white;
     }
     section {
