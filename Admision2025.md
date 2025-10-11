@@ -123,7 +123,7 @@ menus:
 <!-- NUEVA SECCIÓN DESTACADA -->
 <section class="highlight">
   <h2>¡Ya pasamos la Segunda etapa de Entrevista!</h2>
-  <p>Ahora pasamos a la Semana deCOnvivencia.<br> Conoce los bachilleres que avanzan a esta fase.</p>
+  <p>Ahora pasamos a la Semana de Convivencia.<br> Conoce los bachilleres que avanzan a esta fase.</p>
   <a href="https://itesmarena.edu.do/convivencia2025/" class="btn">Más información sobre la Semana de Convivencia</a>
 </section>
 
@@ -226,6 +226,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
