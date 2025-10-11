@@ -111,9 +111,9 @@ menus: institute
   <div class="container">
     <!-- Texto destacado -->
     <div class="highlight">
-      <h1>¡Ya pasamos la primera Etapa de Examen de Admisión!</h1>
-      <p>Ahora pasamos a la <strong>entrevista</strong>. Conoce los Bachilleres que avanzan a esta fase.</p>
-      <a href="https://itesmarena.edu.do/entrevista2025/" class="btn btn-primary">Más información sobre la entrevista</a>
+      <h1>¡Ya pasamos la Segunda Etapa de Entrevista!</h1>
+      <p>Ahora pasamos a la <strong>Semana de Convivencia</strong>. Conoce los Bachilleres que avanzan a esta fase.</p>
+      <a href="https://itesmarena.edu.do/convivencia2025/" class="btn btn-primary">Más información sobre la entrevista</a>
     </div>
     <!-- Contenido principal -->
     <h1>Bienvenidos a ITESMARENA</h1>
@@ -123,6 +123,7 @@ menus: institute
   </div>
 </body>
 </html>
+
 
 
 
