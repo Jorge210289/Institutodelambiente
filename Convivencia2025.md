@@ -120,8 +120,8 @@ title: Convivencia 2025
       <li>Enseres personales(pasta dental, jabón,  papeld e baño, medicinas personales, etc)</li>
       <li>Ropa y calzado para clases, trabajo de acmpo y deporte</li>
       <li>Botella de agua</li>
-      <liLapiz, Lapiceros, Cuaderno</li>
-      <li>Losq ue haya tomado la prueba POMA traerla impresa, los que no la hayan omado deberán tomarla en el ITESMARENA</li>
+      <li>Lapiz, Lapiceros, Cuaderno</li>
+      <li>Los que haya tomado la prueba POMA traerla impresa, los que no la hayan omado deberán tomarla en el ITESMARENA</li>
       <li>Cédula</li>
       <li>Copia de Récord de nota</li>
     </ul>
