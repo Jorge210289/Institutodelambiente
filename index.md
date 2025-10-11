@@ -113,7 +113,7 @@ menus: institute
     <div class="highlight">
       <h1>¡Ya pasamos la Segunda Etapa de Entrevista!</h1>
       <p>Ahora pasamos a la <strong>Semana de Convivencia</strong>. Conoce los Bachilleres que avanzan a esta fase.</p>
-      <a href="https://itesmarena.edu.do/convivencia2025/" class="btn btn-primary">Más información sobre la entrevista</a>
+      <a href="https://itesmarena.edu.do/convivencia2025/" class="btn btn-primary">Más información sobre la Semana de Convivencia</a>
     </div>
     <!-- Contenido principal -->
     <h1>Bienvenidos a ITESMARENA</h1>
@@ -123,6 +123,7 @@ menus: institute
   </div>
 </body>
 </html>
+
 
 
 
