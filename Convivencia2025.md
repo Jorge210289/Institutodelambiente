@@ -112,20 +112,21 @@ title: Convivencia 2025
     <h1>Proceso de Convivencia- Admisión 2025</h1>
     <p><strong>Fecha:</strong> Lunes 27 de Octubre 2025</p>
     <p><strong>Hora:</strong> 2:00 PM</p>
+    <p><strong>La convivencia es toda la semana</strong> Iniciando el 27 de octubre 2025/p>
     <p>Los bachilleres deberán presentarse con:</p>
     <ul>
       <li>Ropa de cama apropiada para cama tamaño Twin</li>
       <li>Toalla</li>
       <li>Gorra</li>
-      <li>Enseres personales(pasta dental, jabón,  papeld e baño, medicinas personales, etc)</li>
-      <li>Ropa y calzado para clases, trabajo de acmpo y deporte</li>
+      <li>Enseres personales(pasta dental, jabón,  papel de baño, medicinas personales, etc)</li>
+      <li>Ropa y calzado para clases, trabajo de campo y deporte</li>
       <li>Botella de agua</li>
-      <li>Lapiz, Lapiceros, Cuaderno</li>
-      <li>Los que haya tomado la prueba POMA traerla impresa, los que no la hayan omado deberán tomarla en el ITESMARENA</li>
+      <li>Lápiz, Lapiceros, Cuaderno</li>
+      <li>Los que hayan tomado la prueba POMA traerla impresa, los que no la hayan tomado deberán tomarla en el ITESMARENA</li>
       <li>Cédula</li>
       <li>Copia de Récord de nota</li>
     </ul>
-    <h2>Lugar donde se llevará a cabo la SEMANA DE CONVIVENCIA</h2>
+    <h2>Lugar dónde se llevará a cabo la SEMANA DE CONVIVENCIA</h2>
     <ul>
       <li><strong>ITESMARENA - Jarabacoa:</strong> Carretera al Salto de Jimenoa Km. 1.5, frente al Campo de Golf. Tel: 829.679.2049</li>
     </ul>
