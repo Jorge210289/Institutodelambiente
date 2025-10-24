@@ -1,140 +1,94 @@
 <!-- _includes/popup.html -->
-<div id="popup-overlay" class="popup-overlay" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="popup-title">
-  <div class="popup" role="document">
-    <button id="popup-close" class="popup-close" aria-label="Cerrar anuncio">&times;</button>
-    <h2 id="popup-title" class="visually-hidden">Aviso</h2>
-    <img src="{{ '/assets/images/popup.jpg' | relative_url }}" alt="Imagen de anuncio" id="popup-image" />
-    <div class="popup-actions">
-      <label style="font-size:0.9rem;">
-        <input type="checkbox" id="popup-dont-show"> No mostrar otra vez
-      </label>
-    </div>
+<div id="popup-overlay" class="popup-overlay" aria-hidden="true" role="dialog">
+  <div class="popup">
+    <button id="popup-close" class="popup-close" aria-label="Cerrar">&times;</button>
+    <img src="{{ '/assets/images/popup.jpg' | relative_url }}" alt="Anuncio" />
   </div>
 </div>
 
 <style>
-  .popup-overlay{
+  /* Fondo del popup */
+  .popup-overlay {
     position: fixed;
-    inset: 0;
-    display: none; /* se mostrará por JS */
+    inset: 0; /* top:0; left:0; right:0; bottom:0 */
+    background: rgba(0,0,0,0.6);
+    display: none; /* se mostrará con JS */
     justify-content: center;
     align-items: center;
-    background: rgba(0,0,0,0.6);
     z-index: 9999;
     padding: 1rem;
   }
-  .popup{
+
+  /* Contenedor del popup */
+  .popup {
+    position: relative; /* necesario para que el botón se posicione dentro */
     background: #fff;
-    max-width: 900px;
-    width: 100%;
     border-radius: 6px;
-    box-shadow: 0 8px 30px rgba(0,0,0,.4);
-    position: relative;
-    padding: 0;
+    max-width: 600px;
+    width: 90%;
+    box-shadow: 0 4px 25px rgba(0,0,0,0.4);
     overflow: hidden;
   }
-  .popup img{
-    display:block;
-    width:100%;
-    height:auto;
-  }
-  .popup-close{
-    position: absolute;
-    top: 8px;
-    right: 8px;
-    background: transparent;
-    border: none;
-    font-size: 28px;
-    line-height: 1;
-    cursor: pointer;
-  }
-  .popup-actions{
-    padding: 0.5rem 1rem 1rem;
-    text-align: right;
+
+  /* Imagen dentro del popup */
+  .popup img {
+    display: block;
+    width: 100%;
+    height: auto;
   }
 
-  /* pantalla pequeña: popup casi pantalla */
+  /* Botón cerrar */
+  .popup-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(0,0,0,0.6);
+    border: none;
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 1;
+    padding: 4px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    z-index: 999;
+  }
+
+  /* Responsive para pantallas pequeñas */
   @media (max-width: 600px){
-    .popup{
+    .popup {
       max-width: 95%;
     }
   }
 
-  /* accesibilidad: ocultar título visual pero disponible para lectores */
-  .visually-hidden{
-    position: absolute !important;
-    height: 1px; width: 1px;
-    overflow: hidden;
-    clip: rect(1px, 1px, 1px, 1px);
-    white-space: nowrap;
+  /* Elimina margen del body para evitar scroll inesperado */
+  body {
+    margin: 0;
   }
 </style>
 
 <script>
-(function(){
-  var overlay = document.getElementById('popup-overlay');
-  var closeBtn = document.getElementById('popup-close');
-  var checkbox = document.getElementById('popup-dont-show');
-  var localKey = 'popup_shown_v1'; // cambia versión si actualizas contenido
+  document.addEventListener("DOMContentLoaded", function() {
+    const overlay = document.getElementById("popup-overlay");
+    const closeBtn = document.getElementById("popup-close");
 
-  function showPopup() {
-    overlay.style.display = 'flex';
-    overlay.setAttribute('aria-hidden', 'false');
-    // poner foco en el botón para accesibilidad
-    closeBtn.focus();
-    // bloquear scroll del body
-    document.body.style.overflow = 'hidden';
-  }
-
-  function hidePopup() {
-    overlay.style.display = 'none';
-    overlay.setAttribute('aria-hidden', 'true');
-    document.body.style.overflow = '';
-  }
-
-  // Cerrar con botón
-  closeBtn.addEventListener('click', function(){
-    if (checkbox.checked) {
-      try { localStorage.setItem(localKey, '1'); } catch(e){}
+    function showPopup() {
+      overlay.style.display = "flex";
+      document.body.style.overflow = "hidden"; // bloquear scroll
     }
-    hidePopup();
-  });
 
-  // Cerrar con clic fuera del contenido (overlay)
-  overlay.addEventListener('click', function(e){
-    if (e.target === overlay) {
-      if (checkbox.checked) {
-        try { localStorage.setItem(localKey, '1'); } catch(e){}
-      }
-      hidePopup();
+    function closePopup() {
+      overlay.style.display = "none";
+      document.body.style.overflow = ""; // restaurar scroll
     }
-  });
 
-  // Cerrar con tecla ESC
-  document.addEventListener('keydown', function(e){
-    if (e.key === 'Escape' || e.key === 'Esc') {
-      if (overlay.style.display === 'flex') {
-        if (checkbox.checked) {
-          try { localStorage.setItem(localKey, '1'); } catch(e){}
-        }
-        hidePopup();
-      }
-    }
-  });
+    // Eventos de cierre
+    closeBtn.addEventListener("click", closePopup);
+    overlay.addEventListener("click", function(e) {
+      if (e.target === overlay) closePopup();
+    });
 
-  // Mostrar automáticamente al cargar (solo si no guardado en localStorage)
-  window.addEventListener('load', function(){
-    try {
-      var shown = localStorage.getItem(localKey);
-      if (!shown) {
-        // opción: retrasar la aparición (en ms). Cambia 0 por 800 para 0.8s.
-        var delay = 0;
-        setTimeout(showPopup, delay);
-      }
-    } catch(e){
-      // si localStorage falla, mostrar de todas maneras
-      showPopup();
-    }
+    // Aparece al cargar
+    showPopup();
   });
-})();
 </script>
