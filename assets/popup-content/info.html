@@ -1,7 +1,6 @@
 <!-- assets/popup-content/info.html -->
 
 <style>
-  /* Paleta de la bandera dominicana */
   :root {
     --color-primario: #0033A0; /* Azul bandera dominicana */
     --color-secundario: #C8102E; /* Rojo bandera dominicana */
@@ -11,8 +10,13 @@
     font-family: Arial, sans-serif;
     color: #333;
     line-height: 1.6;
+    padding: 1rem;
+    box-sizing: border-box;
+    max-height: 75vh; /* altura máxima de la ventana */
+    overflow-y: auto; /* scroll si el contenido es largo */
   }
 
+  /* Título principal */
   .popup-info h1 {
     color: var(--color-primario);
     font-size: 1.8rem;
@@ -21,22 +25,27 @@
     text-transform: uppercase;
   }
 
+  /* Subtítulos / destacados */
   .popup-info h2 {
     color: var(--color-secundario);
     font-size: 1.2rem;
     margin-top: 1rem;
   }
 
+  /* Párrafos */
   .popup-info p {
     margin: 0.7rem 0;
     font-size: 1rem;
   }
 
+  /* Enlaces */
   .popup-info a {
     color: var(--color-primario);
     text-decoration: underline;
+    word-break: break-word;
   }
 
+  /* Frase final */
   .popup-info .frase-final {
     color: var(--color-secundario);
     font-weight: bold;
@@ -46,6 +55,7 @@
     text-align: center;
   }
 
+  /* Listas */
   .popup-info ul {
     margin: 0.7rem 0 0.7rem 1.5rem;
     padding: 0;
@@ -53,6 +63,23 @@
 
   .popup-info li {
     margin-bottom: 0.5rem;
+  }
+
+  /* Ajustes para pantallas pequeñas */
+  @media (max-width: 600px) {
+    .popup-info {
+      font-size: 0.95rem;
+      max-height: 70vh;
+      padding: 0.8rem;
+    }
+
+    .popup-info h1 {
+      font-size: 1.5rem;
+    }
+
+    .popup-info h2 {
+      font-size: 1.1rem;
+    }
   }
 </style>
 
@@ -69,3 +96,4 @@
 
   <span class="frase-final">“Vaya despacio, así no tropieza” - Dr. José S. Vásquez G. (Investigador y catedrático universitario Dominicano), 2025.</span>
 </div>
+
