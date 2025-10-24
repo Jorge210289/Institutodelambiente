@@ -1,0 +1,140 @@
+<!-- _includes/popup.html -->
+<div id="popup-overlay" class="popup-overlay" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="popup-title">
+  <div class="popup" role="document">
+    <button id="popup-close" class="popup-close" aria-label="Cerrar anuncio">&times;</button>
+    <h2 id="popup-title" class="visually-hidden">Aviso</h2>
+    <img src="{{ '/assets/images/popup.jpg' | relative_url }}" alt="Imagen de anuncio" id="popup-image" />
+    <div class="popup-actions">
+      <label style="font-size:0.9rem;">
+        <input type="checkbox" id="popup-dont-show"> No mostrar otra vez
+      </label>
+    </div>
+  </div>
+</div>
+
+<style>
+  .popup-overlay{
+    position: fixed;
+    inset: 0;
+    display: none; /* se mostrará por JS */
+    justify-content: center;
+    align-items: center;
+    background: rgba(0,0,0,0.6);
+    z-index: 9999;
+    padding: 1rem;
+  }
+  .popup{
+    background: #fff;
+    max-width: 900px;
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 8px 30px rgba(0,0,0,.4);
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+  }
+  .popup img{
+    display:block;
+    width:100%;
+    height:auto;
+  }
+  .popup-close{
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: transparent;
+    border: none;
+    font-size: 28px;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .popup-actions{
+    padding: 0.5rem 1rem 1rem;
+    text-align: right;
+  }
+
+  /* pantalla pequeña: popup casi pantalla */
+  @media (max-width: 600px){
+    .popup{
+      max-width: 95%;
+    }
+  }
+
+  /* accesibilidad: ocultar título visual pero disponible para lectores */
+  .visually-hidden{
+    position: absolute !important;
+    height: 1px; width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+    white-space: nowrap;
+  }
+</style>
+
+<script>
+(function(){
+  var overlay = document.getElementById('popup-overlay');
+  var closeBtn = document.getElementById('popup-close');
+  var checkbox = document.getElementById('popup-dont-show');
+  var localKey = 'popup_shown_v1'; // cambia versión si actualizas contenido
+
+  function showPopup() {
+    overlay.style.display = 'flex';
+    overlay.setAttribute('aria-hidden', 'false');
+    // poner foco en el botón para accesibilidad
+    closeBtn.focus();
+    // bloquear scroll del body
+    document.body.style.overflow = 'hidden';
+  }
+
+  function hidePopup() {
+    overlay.style.display = 'none';
+    overlay.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+  }
+
+  // Cerrar con botón
+  closeBtn.addEventListener('click', function(){
+    if (checkbox.checked) {
+      try { localStorage.setItem(localKey, '1'); } catch(e){}
+    }
+    hidePopup();
+  });
+
+  // Cerrar con clic fuera del contenido (overlay)
+  overlay.addEventListener('click', function(e){
+    if (e.target === overlay) {
+      if (checkbox.checked) {
+        try { localStorage.setItem(localKey, '1'); } catch(e){}
+      }
+      hidePopup();
+    }
+  });
+
+  // Cerrar con tecla ESC
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'Escape' || e.key === 'Esc') {
+      if (overlay.style.display === 'flex') {
+        if (checkbox.checked) {
+          try { localStorage.setItem(localKey, '1'); } catch(e){}
+        }
+        hidePopup();
+      }
+    }
+  });
+
+  // Mostrar automáticamente al cargar (solo si no guardado en localStorage)
+  window.addEventListener('load', function(){
+    try {
+      var shown = localStorage.getItem(localKey);
+      if (!shown) {
+        // opción: retrasar la aparición (en ms). Cambia 0 por 800 para 0.8s.
+        var delay = 0;
+        setTimeout(showPopup, delay);
+      }
+    } catch(e){
+      // si localStorage falla, mostrar de todas maneras
+      showPopup();
+    }
+  });
+})();
+</script>
