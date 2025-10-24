@@ -110,9 +110,9 @@ title: Convivencia 2025
 <body>
   <div class="container">
     <h1>Proceso de Convivencia- Admisión 2025</h1>
-    <p><strong>Fecha:</strong> Lunes 27 de Octubre 2025</p>
+    <p><strong>Fecha:</strong> Del Lunes 03 al viernes 07 de Noviembre 2025</p>
     <p><strong>Hora:</strong> 2:00 PM</p>
-    <p><strong>La convivencia es toda la semana</strong> Iniciando el 27 de octubre 2025</p>
+    <p><strong>La convivencia es toda la semana</strong> Iniciando el 03 de noviembre 2025</p>
     <p>Los bachilleres deberán presentarse con:</p>
     <ul>
       <li>Ropa de cama apropiada para cama tamaño Twin</li>
