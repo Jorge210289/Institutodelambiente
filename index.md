@@ -109,7 +109,6 @@ menus: institute
 </head>
 <body>
     <!-- tu contenido -->
- <!-- {% include popup.html %} -->
   <div class="container">
     <!-- Texto destacado -->
     <div class="highlight">
@@ -125,3 +124,4 @@ menus: institute
   </div>
 </body>
 </html>
+
