@@ -123,6 +123,5 @@ title: Convivencia 2025
        style="border-radius:10px;border:1px solid #e6e9ee;">
       </section>
         </div>
-
 </body>
 </html>
