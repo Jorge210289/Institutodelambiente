@@ -125,16 +125,3 @@ menus: institute
   </div>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
