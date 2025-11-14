@@ -17,12 +17,6 @@ title: Convivencia 2025
       color: #333;
       line-height: 1.6;
     }
-    header {
-      background: linear-gradient(90deg, #002B7F, #CE1126);
-      color: white;
-      padding: 25px 20px;
-      text-align: center;
-    }
     .container {
       max-width: 900px;
       margin: 40px auto;
@@ -119,5 +113,17 @@ title: Convivencia 2025
 
   <p class="firma">Atentamente,<br><br>Dirección de Admisiones y Registro<br>ITESMARENA</p>
 </div>
+	       <div class="container">
+	               <h1>Listado oficial de seleccionados</h1>	
+                    <div class="content-box">
+              <section id="modular">
+      		<embed src="_posts/Seleccionados2026.pdf" 
+       type="application/pdf" 
+       width="100%" 
+       height="800px" 
+       style="border-radius:10px;border:1px solid #e6e9ee;">
+      </section>
+        </div>
+
 </body>
 </html>
