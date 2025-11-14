@@ -114,7 +114,7 @@ menus: institute
     <!-- Texto destacado -->
     <div class="highlight">
       <h1>¡ATENCION!</h1>
-      <p>Ya tenemos seleccionados los bachilleres de la  <strong>Promocion 2026/strong>. Conoce los Bachilleres que avanzan a esta fase.</p>
+      <p>Ya tenemos seleccionados los bachilleres de la  <strong> Promocion 2026 </strong>. Conoce los Bachilleres que avanzan a esta fase</p>
       <a href="https://itesmarena.edu.do/seleccionados2026/" class="btn btn-primary">Más información sobre la Semana de Convivencia</a>
     </div>
     <!-- Contenido principal -->
@@ -125,6 +125,7 @@ menus: institute
   </div>
 </body>
 </html>
+
 
 
 
