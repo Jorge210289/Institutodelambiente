@@ -122,7 +122,7 @@ menus:
 
 <!-- NUEVA SECCIÓN DESTACADA -->
 <section class="highlight">
-  <h2>¡Ya tenemos seleccionados los bachilleres de la Promocion 2026!</h2>
+  <h2>¡Ya tenemos seleccionados los bachilleres de la Promoción 2026!</h2>
   <p>Conoce los bachilleres que avanzan a esta fase.</p>
   <a href="https://itesmarena.edu.do/seleccionados2026/" class="btn">Más información sobre los seleccionados</a>
 </section>
@@ -226,6 +226,7 @@ menus:
 
 </body>
 </html>
+
 
 
 
