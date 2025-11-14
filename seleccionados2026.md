@@ -58,7 +58,7 @@ title: Seleccionados Promoción 2026
 <body>
 
 <header>
-  <h1>Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA)</h1>
+  <h1>Seleccionados Promoción 2026 (ITESMARENA)</h1>
 </header>
 
 <div class="container">
