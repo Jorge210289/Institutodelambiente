@@ -17,14 +17,12 @@ title: Convivencia 2025
       color: #333;
       line-height: 1.6;
     }
-
     header {
       background: linear-gradient(90deg, #002B7F, #CE1126);
       color: white;
       padding: 25px 20px;
       text-align: center;
     }
-
     .container {
       max-width: 900px;
       margin: 40px auto;
@@ -33,27 +31,22 @@ title: Convivencia 2025
       border-radius: 10px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
-
     h1, h2, h3 {
       color: #002B7F;
       font-weight: bold;
     }
-
     .fecha-lugar {
       text-align: right;
       font-style: italic;
       margin-bottom: 30px;
       color: #444;
     }
-
     ul {
       padding-left: 20px;
     }
-
     ul li {
       margin-bottom: 10px;
     }
-
     .nota {
       background: #fff3cd;
       border-left: 5px solid #CE1126;
@@ -61,7 +54,6 @@ title: Convivencia 2025
       margin: 20px 0;
       border-radius: 5px;
     }
-
     .firma {
       margin-top: 40px;
       font-weight: bold;
