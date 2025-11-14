@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: Convivencia 2025
+title: Seleccionados Promoción 2026
 ---
 <html lang="es">
 <head>
