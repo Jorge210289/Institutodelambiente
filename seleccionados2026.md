@@ -2,7 +2,6 @@
 layout: landing-page
 title: Convivencia 2025
 ---
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -116,8 +115,8 @@ title: Convivencia 2025
 	       <div class="container">
 	               <h1>Listado oficial de seleccionados</h1>	
                     <div class="content-box">
-              <section id="modular">
-      		<embed src="_posts/Seleccionados2026.pdf" 
+              <section>
+      		<embed src="https://res.cloudinary.com/duuonteo7/image/upload/v1763143219/Admision%202025/Seleccionados2026.pdf" 
        type="application/pdf" 
        width="100%" 
        height="800px" 
