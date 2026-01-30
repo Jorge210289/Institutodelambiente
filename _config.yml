@@ -2,6 +2,7 @@
 title: ITESMARENA
 subtitle: Estudios Superiores en Medio Ambiente y Recursos Naturales
 url: http://institutodelambiente.edu.do
+baseurl: ""
 
 # SASS
 sass:
