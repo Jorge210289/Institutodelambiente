@@ -29,3 +29,17 @@ exclude:
   - package-lock.json
   - src
   - tailwind.js
+
+  menus:
+  header:
+    - title: Inicio
+      url: /
+    - title: Instituto
+      url: /instituto/
+    - title: Carreras
+      url: /carreras/
+    - title: Admisiones
+      url: /Admision2025/
+    - title: Contacto
+      url: /contactanos/
+
