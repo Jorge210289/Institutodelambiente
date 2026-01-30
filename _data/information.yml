@@ -1,5 +1,17 @@
 phone: 829-679-2049 y 809-200-4300 ext.8302
-address: Carretera al Salto Jimenoa<br>41000 Jarabacoa, La Vega
+address: >
+  Carretera al Salto Jimenoa<br>
+  41000 Jarabacoa, La Vega<br><br>
+
+  <iframe
+    src="https://www.google.com/maps?q=Carretera+al+Salto+Jimenoa+Jarabacoa&output=embed"
+    width="100%"
+    height="250"
+    style="border:0;"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+
 email: info@itesmarena.edu.do
 
 social:
