@@ -30,7 +30,7 @@ exclude:
   - src
   - tailwind.js
 
-  menus:
+menus:
   header:
     - title: Inicio
       url: /
@@ -42,4 +42,3 @@ exclude:
       url: /Admision2025/
     - title: Contacto
       url: /contactanos/
-
