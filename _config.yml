@@ -36,9 +36,20 @@ menus:
       url: /
     - title: Instituto
       url: /instituto/
+      children:
+        - title: Historia
+          url: /historia/
+        - title: Misión
+          url: /Mision/
+        - title: Rector
+          url: /Rector/
     - title: Carreras
       url: /carreras/
     - title: Admisiones
       url: /Admision2025/
+    - title: Aula Virtual
+      url: /Aula-Virtual/
     - title: Contacto
       url: /contactanos/
+    - title: Postúlate
+      url: /Admision2025/
