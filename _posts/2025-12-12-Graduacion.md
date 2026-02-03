@@ -5,7 +5,6 @@ date: 2025-12-12 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg
 ---
-<h1>III  Graduación Ordinaria</h1>
 <h2>III GRADUACIÓN ORDINARIA DE TÉCNICOS SUPERIORES EN CIENCIAS FORESTALES Y GESTIÓN AMBIENTAL</h2>
 
 <p>En un mundo que enfrenta desafíos ambientales sin precedentes, la educación se convierte en la herramienta más poderosa para transformar realidades. ITESMARENA, fiel a su misión de formar líderes comprometidos con la sostenibilidad, celebra con orgullo la culminación de un ciclo académico que marca el inicio de nuevas esperanzas para la conservación y el desarrollo responsable de nuestros recursos naturales. Esta graduación no solo representa un logro académico, sino también un compromiso con el planeta y las generaciones futuras.</p>
@@ -51,5 +50,6 @@ Este acto reafirma el compromiso del ITESMARENA con la formación de profesional
 <div class="gallery">
     <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg" alt="Imagen 1" width="600">
 </div>
+
 
 
