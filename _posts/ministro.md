@@ -11,7 +11,7 @@ category: eventos
 <h3>Ministro de Medio Ambiente Sr. Armando Paíno Henríquez Dájer </h3>
  <p>Muy buenas tardes.</p>
 
-  <p>
+ <p>
         Es para mí un honor acompañarles en esta III Graduación Ordinaria del Instituto de Estudios Superiores en Medio
         Ambiente y Recursos Naturales, ITESMARENA, una institución que se ha convertido en un referente nacional en la
         formación de profesionales comprometidos con la sostenibilidad, la gestión responsable de nuestros recursos y la
@@ -88,6 +88,7 @@ category: eventos
 <div class="gallery">
     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1770124649/ministro_mgjuvs.jpg" alt="Imagen 1" width="600">
 </div>
+
 
 
 
