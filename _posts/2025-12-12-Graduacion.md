@@ -1,7 +1,7 @@
 ---
 layout: post
 title: III Graduación Ordinaria
-date: 2025-12-12 08:16:01 -0600
+date: 2025-12-10 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg
 ---
@@ -50,6 +50,7 @@ Este acto reafirma el compromiso del ITESMARENA con la formación de profesional
 <div class="gallery">
     <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg" alt="Imagen 1" width="600">
 </div>
+
 
 
 
