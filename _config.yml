@@ -39,8 +39,8 @@ menus:
       children:
         - title: Historia
           url: /instituto/historia/
-        - title: Misión
-          url: /Mision/
+        - title: Ejes Transversales
+          url: /instituto/Mision/
         - title: Rector
           url: /Rector/
     - title: Carreras
