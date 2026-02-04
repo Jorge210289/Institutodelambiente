@@ -38,7 +38,7 @@ menus:
       url: /instituto/
       children:
         - title: Historia
-          url: /historia/
+          url: /instituto/historia/
         - title: Misión
           url: /Mision/
         - title: Rector
