@@ -4,7 +4,7 @@ layout: history
 title: Nuestra  Misión
 description: Nuestra Misión.
 
-permalink: /instituto/Misio/
+permalink: /instituto/Mision/
 menus: institute
 
 pre_heading: 50 años de experiencia
@@ -23,3 +23,4 @@ entries:
 - year: Valores
   content: Excelencia Académica, Responsabilidad Social Ambiental, Integridad, Equidad. 
 ---
+
