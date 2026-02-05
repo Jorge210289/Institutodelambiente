@@ -43,7 +43,7 @@ menus:
           url: /instituto/Mision/
         - title: Rector
           url: /instituto/Mision/
-        - title: VIDA
+    
     - title: Carreras
       url: /instituto/carreras/
     - title: Admisiones
