@@ -7,10 +7,9 @@ description: Nuestro Rector.
 permalink: /instituto/Mision/
 menus: institute
 
-image: https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg
-
 pre_heading: José Santiago Vásquez Guerra
 heading: Nuestro Rector
+image: https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg
 
 content: |
 
@@ -80,6 +79,7 @@ content: |
 
 
 ---
+
 
 
 
