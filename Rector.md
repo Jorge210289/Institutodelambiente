@@ -10,7 +10,7 @@ menus: institute
 pre_heading: José Santiago Vásquez Guerra
 heading: Nuestro Rector
 
-content:|
+content: |
 
  José Santiago Vásquez Guerra
 
@@ -73,6 +73,7 @@ Personalidad
 Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora mucho el aprendizaje y la honestidad, así como también la creatividad y el desafío. Trabaja con facilidad las tecnologías de la información (TIC). Puede hablar, leer y escribir bien español e Inglés. Habla un poco de japonés.
 
 ---
+
 
 
 
