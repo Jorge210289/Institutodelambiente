@@ -7,6 +7,8 @@ description: Nuestro Rector.
 permalink: /instituto/Mision/
 menus: institute
 
+image: https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg
+
 pre_heading: José Santiago Vásquez Guerra
 heading: Nuestro Rector
 
@@ -73,6 +75,7 @@ content: |
   Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora mucho el aprendizaje y la honestidad, así como también la creatividad y el desafío. Trabaja con facilidad las tecnologías de la información (TIC). Puede hablar,    leer y escribir bien español e Inglés. Habla un poco de japonés.
 
 ---
+
 
 
 
