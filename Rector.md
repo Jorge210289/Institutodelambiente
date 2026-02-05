@@ -14,7 +14,7 @@ content: |
 
  José Santiago Vásquez Guerra
 
- Nacido el día 6 de enero del 1964, en la ciudad de La Vega, República Dominicana. Hijo de padres dominicanos, casado con la Lcda. Elisa Altagracia Abreu, educadora, con quien ha procreado tres hijos, Hosseini, Nelissa y Óscar José.
+Nacido el día 6 de enero del 1964, en la ciudad de La Vega, República Dominicana. Hijo de padres dominicanos, casado con la Lcda. Elisa Altagracia Abreu, educadora, con quien ha procreado tres hijos, Hosseini, Nelissa y Óscar José.
 
 Estudios universitarios
 
@@ -73,6 +73,7 @@ Personalidad
 Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora mucho el aprendizaje y la honestidad, así como también la creatividad y el desafío. Trabaja con facilidad las tecnologías de la información (TIC). Puede hablar, leer y escribir bien español e Inglés. Habla un poco de japonés.
 
 ---
+
 
 
 
