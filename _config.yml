@@ -42,7 +42,7 @@ menus:
         - title: Ejes Transversales
           url: /instituto/Mision/
         - title: Rector
-          url: /instituto/Rector/
+          url: /instituto/Mision/
     - title: Carreras
       url: /instituto/carreras/
     - title: Admisiones
