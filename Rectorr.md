@@ -47,9 +47,7 @@ entries:
   - year:
     content: Descarga el currículum del Rector [aquí] (https://res.cloudinary.com/duuonteo7/image/upload/v1690635871/CV_Jos%C3%A9_V%C3%A1squez-_Julio_2023.pdf)
 
-    <div class="gallery">
-    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1770130093/ministro_fmnerk.jpg" alt="Imagen 1" width="600">
-    </div>
+  
 
 ---    
 
