@@ -49,7 +49,7 @@ entries:
 
     <div class="gallery">
     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1770130093/ministro_fmnerk.jpg" alt="Imagen 1" width="600">
-</div>
+    </div>
 
 ---    
 
