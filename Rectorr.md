@@ -9,7 +9,16 @@ menus: institute
 
 pre_heading: José Santiago Vásquez Guerra
 heading: Nuestro Rector
-image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1770642439/Captura_de_pantalla_2026-02-09_090710_xdwva7.png
+
+entries:
+  - year:
+    content: >
+      <div style="text-align:center; margin: 20px 0;">
+        <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1770642439/Captura_de_pantalla_2026-02-09_090710_xdwva7.png"
+             alt="José Santiago Vásquez Guerra"
+             style="max-width: 350px; width: 100%; height:auto; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.2);">
+      </div>
+
 
 entries:
   - year: Bio
