@@ -15,7 +15,7 @@ entries:
   - year: Bio
     content: Nacido el día 6 de enero del 1964, en la ciudad de La Vega, República Dominicana. Hijo de padres dominicanos, casado con la Lcda. Elisa Altagracia Abreu, educadora, con quien ha procreado tres hijos, Hosseini, Nelissa y Óscar José.
   - year: 
-    content: Estudios Universitarios
+    content: Estudios Universitarios 222222222
   - year: 
     content: Posee Doctorado en desarrollo sostenible, título obtenido en la Universidad UNICEPES, Michoacán, México, año 2017. En 2011 Técnico en Produción Limpia en la Universidad INTEC. Técnico en Responsabilidad Social Empresarial en la Universidad de Buenos Aires, Argentina, año 2009. Magister en Manejo de Recursos Naturales en la Universidad Nacional Pedro Henríquez Ureña (UNPHU), año 2002. Se graduó de ingeniero agrónomo en la Universidad Católica del Cibao-UCATECI en el año 1997.
   - year: 
