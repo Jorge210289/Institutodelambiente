@@ -15,7 +15,7 @@ entries:
   - year: Bio
     content: Nacido el día 6 de enero del 1964, en la ciudad de La Vega, República Dominicana. Hijo de padres dominicanos, casado con la Lcda. Elisa Altagracia Abreu, educadora, con quien ha procreado tres hijos, Hosseini, Nelissa y Óscar José.
   - year: 
-    content: Estudios Universitarios 222222222
+    content: Estudios Universitarios 
   - year: 
     content: Posee Doctorado en desarrollo sostenible, título obtenido en la Universidad UNICEPES, Michoacán, México, año 2017. En 2011 Técnico en Produción Limpia en la Universidad INTEC. Técnico en Responsabilidad Social Empresarial en la Universidad de Buenos Aires, Argentina, año 2009. Magister en Manejo de Recursos Naturales en la Universidad Nacional Pedro Henríquez Ureña (UNPHU), año 2002. Se graduó de ingeniero agrónomo en la Universidad Católica del Cibao-UCATECI en el año 1997.
   - year: 
@@ -45,6 +45,6 @@ entries:
   - year: 
     content: Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora.
   - year:
-    content: Descarga el currículum del Rector [aquí](https://res.cloudinary.com/duuonteo7/image/upload/v1690635871/CV_Jos%C3%A9_V%C3%A1squez-_Julio_2023.pdf)
+    content: Descarga el currículum del Rector [aquí] (https://res.cloudinary.com/duuonteo7/image/upload/v1690635871/CV_Jos%C3%A9_V%C3%A1squez-_Julio_2023.pdf)
 ---    
 
