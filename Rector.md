@@ -17,7 +17,7 @@ content: |
   
   Nacido el día 6 de enero del 1964, en la ciudad de La Vega, República Dominicana. Hijo de padres dominicanos, casado con la Lcda. Elisa Altagracia Abreu, educadora, con quien ha procreado tres hijos, Hosseini, Nelissa y Óscar José.
   
-  Estudios universitarios
+  Estudios universitarios 2222222
   
   Doctarado en desarrollo sostenible, título obtenido en la Universidad UNICEPES, Michoacán, México, año 2017.
   Técnico en Produción Limpia en la Universidad INTEC, año 2011.
@@ -79,6 +79,7 @@ content: |
 
 
 ---
+
 
 
 
