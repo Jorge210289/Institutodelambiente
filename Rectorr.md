@@ -34,7 +34,14 @@ entries:
   - year:
     content: Rector Instituto del Ambiente.
   - year:
-    content: En la Universidad Católica del Cibao-UCATECI, desempeñó las siguientes posiciones: Director del Departamento de Proyectos, Director del Departamento de Recursos Naturales, Director del Departamento de Servicios Generales, Vicerrector Interino de Desarrollo y Extensión, Director del Departamento de Extensión Social Universitaria, Director Ejecutivo Sociedad Ecológica Ucateciana, Coordinador de la Unidad Estratégica Agroempresarial. Docente universitario, impartiendo asignaturas como Anteproyecto de Tesis, Ecología y Medio Ambiente, English I, II, III, IV & English for business.
+    content: >
+      En la Universidad Católica del Cibao-UCATECI, desempeñó las siguientes posiciones:
+      Director del Departamento de Proyectos, Director del Departamento de Recursos Naturales,
+      Director del Departamento de Servicios Generales, Vicerrector Interino de Desarrollo y Extensión,
+      Director del Departamento de Extensión Social Universitaria, Director Ejecutivo Sociedad Ecológica Ucateciana,
+      Coordinador de la Unidad Estratégica Agroempresarial. Docente universitario, impartiendo asignaturas como
+      Anteproyecto de Tesis, Ecología y Medio Ambiente, English I, II, III, IV & English for business.
+
   - year:
     content: También.
   - year:
