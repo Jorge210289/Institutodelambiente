@@ -46,6 +46,6 @@ entries:
     content: Persona sociable con habilidades para trabajar en grupo, buen animador de los demás. Pensador y que valora.
   - year:
     content: Descarga el currículum del Rector [aquí] (https://res.cloudinary.com/duuonteo7/image/upload/v1690635871/CV_Jos%C3%A9_V%C3%A1squez-_Julio_2023.pdf)
-image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1770642439/Captura_de_pantalla_2026-02-09_090710_xdwva7.png
+
 ---    
 
