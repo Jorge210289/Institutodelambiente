@@ -49,7 +49,7 @@ menus:
     - title: Admisiones
       url: /Admision2025/
     - title: Aula Virtual
-      url: /Aula-Virtual/
+      url: https://institutodelambiente.milaulas.com/login/index.php
     - title: Contacto
       url: /contactanos/
     - title: NOTICIAS
