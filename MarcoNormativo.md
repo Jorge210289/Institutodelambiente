@@ -4,7 +4,7 @@ layout: landing-page
 title: Marco Normativo
 description: Nuestro Marco Normativo.
 
-permalink: /instituto/Mision/Marco Normativo/
+permalink: /instituto/Mision/MarcoNormativo/
 menus: institute
 Position: 9
 published: false
@@ -43,3 +43,4 @@ content: |
 <p style="text-align: left;"><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1647868072/Marco%20Normativo/REGLAMENTO-T_90CNICO-AMBIENTAL-CALIDAD-DEL-AIRE.12.09.2017.pdf" target="_blanc"><img src="https://us.123rf.com/450wm/123vector/123vector1710/123vector171000360/88439433-ilustraci%C3%B3n-del-icono-rojo-del-c%C3%ADrculo-pdf.jpg?ver=6" alt="" width="25" height="25" />Normas Ambientales De Calidad Del Aire Y Control De Emisiones.</a></p>
 <p style="text-align: left;"><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1647871823/Marco%20Normativo/Control_Miner%C3%ADa_Met%C3%A1lica.pdf" target="_blanc"><img src="https://us.123rf.com/450wm/123vector/123vector1710/123vector171000360/88439433-ilustraci%C3%B3n-del-icono-rojo-del-c%C3%ADrculo-pdf.jpg?ver=6" alt="" width="25" height="25" />Control de la Mineria met&aacute;lica</a></p>
 <p style="text-align: left;"><a href="https://res.cloudinary.com/duuonteo7/image/upload/v1647865851/Marco%20Normativo/Miner%C3%ADa_no_m%C3%A9talica_2009-131.pdf" target="_blanc"><img src="https://us.123rf.com/450wm/123vector/123vector1710/123vector171000360/88439433-ilustraci%C3%B3n-del-icono-rojo-del-c%C3%ADrculo-pdf.jpg?ver=6" alt="" width="25" height="25" />Miner&iacute;a no met&aacute;lica</a></p>
+
