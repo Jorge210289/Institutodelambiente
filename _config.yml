@@ -1,7 +1,7 @@
 # Base Variables
 title: ITESMARENA
-subtitle: Estudios Superiores en Medio Ambiente y Recursos Naturales
-url: http://itesmarena.edu.do
+subtitle: "Estudios Superiores en Medio Ambiente y Recursos Naturales"
+url: "http://itesmarena.edu.do"
 baseurl: ""
 
 # SASS
@@ -34,6 +34,7 @@ menus:
   header:
     - title: Inicio
       url: /
+
     - title: Instituto
       url: /instituto/
       children:
@@ -42,7 +43,7 @@ menus:
         - title: Ejes Transversales
           url: /instituto/Mision/
         - title: Campus
-          url: /instituto/campus/          
+          url: /instituto/campus/
         - title: Ministro
           url: /instituto/Ministro/
         - title: Rector
@@ -51,18 +52,18 @@ menus:
           url: /instituto/docentes/
         - title: Egresados
           url: /egresados/
-        - title: Emprendmiento
+        - title: Emprendimiento
           url: /instituto/Emprendimiento/
         - title: Marco Normativo
           url: /instituto/Mision/MarcoNormativo/
 
-   - title: Transparencia
+    - title: Transparencia
       url: /transparencia/
       children:
         - title: Transparencia
           url: /transparencia/
 
-     - title: Investigaciones
+    - title: Investigaciones
       url: /Investigaciones/Rector/
       children:
         - title: Investigaciones Rector
@@ -70,23 +71,25 @@ menus:
 
     - title: Carreras
       url: /instituto/carreras/
+
     - title: Admisiones
       url: /Admision2025/
-      
-     - title: Servicios
+
+    - title: Servicios
       url: /servicios/
       children:
         - title: Servicios
           url: /servicios/
         - title: Turismo Educativo
           url: /servicios/turismo-educativo/
-         - title: Bodas-Cumpleaños-Fiestas
+        - title: Bodas-Cumpleaños-Fiestas
           url: /servicios/bodas-fiestas/
-      
+
     - title: Aula Virtual
-      url: https://institutodelambiente.milaulas.com/login/index.php
+      url: "https://institutodelambiente.milaulas.com/login/index.php"
+
     - title: Contacto
       url: /contactanos/
-    - title: NOTICIAS
+
+    - title: Noticias
       url: /blog/
-      
