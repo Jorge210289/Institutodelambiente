@@ -54,8 +54,6 @@ menus:
           url: /egresados/
         - title: Emprendimiento
           url: /instituto/Emprendimiento/
-        - title: Marco Normativo
-          url: /instituto/Mision/MarcoNormativo/
 
     - title: Transparencia
       url: /transparencia/
