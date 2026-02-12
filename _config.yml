@@ -71,7 +71,11 @@ menus:
       url: /instituto/carreras/
 
     - title: Admisiones
-      url: /Admision2025/
+      children:
+        - title: Requisitos de Admisión
+          url: /instituto/requisitos/
+        - title: Admisión 2025
+          url: /Admision2025/
 
     - title: Servicios
       url: /servicios/
