@@ -9,12 +9,12 @@ published: true
 pre_heading: Conoce a
 heading: Paíno Henríquez
 subheading: Ministro de Medio Ambiente y Recursos Naturales
+image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
 
-
-entries: 
- - year: Trayectoria Profesional
- -  content: >
-    
+entries:
+  - year: Trayectoria Profesional
+    image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
+    content: >
       <div class="justify-text">
       Ministro de Medio Ambiente y Recursos Naturales. Servidor público, ambientalista y defensor de los recursos naturales. Ha liderado el novel e histórico proceso de gestión integral de los residuos sólidos en la República Dominicana desde la dirección de DO Sostenible.
 
@@ -53,8 +53,6 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
-
-
 
 
 
