@@ -9,9 +9,14 @@ published: true
 pre_heading: Conoce a
 heading: Paíno Henríquez
 subheading: Ministro de Medio Ambiente y Recursos Naturales
-image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
+
 
 entries:
+     <div style="text-align:center; margin: 20px 0;">
+        <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1771349444/Foto-np-18_ytvw1h.png"
+             alt="Paíno Henríquez"
+             style="max-width:350px; width:100%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,.2);">
+      </div>
   - year: Trayectoria Profesional
     image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1771349444/Foto-np-18_ytvw1h.png
     content: >
@@ -53,6 +58,7 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
 
