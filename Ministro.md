@@ -16,12 +16,10 @@ entries:
     image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
     content: >
       <div class="justify-text">
-
-     <div style="text-align:center; margin: 20px 0;">
         <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1770642439/Captura_de_pantalla_2026-02-09_090710_xdwva7.png"
              alt="José Santiago Vásquez Guerra"
              style="max-width: 350px; width: 100%; height:auto; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.2);">
-      </div>
+      
 
       Ministro de Medio Ambiente y Recursos Naturales. Servidor público, ambientalista y defensor de los recursos naturales. Ha liderado el novel e histórico proceso de gestión integral de los residuos sólidos en la República Dominicana desde la dirección de DO Sostenible.
 
@@ -60,6 +58,7 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
 
