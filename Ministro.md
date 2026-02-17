@@ -15,10 +15,10 @@ entries:
   - year: Trayectoria Profesional
     image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
     content: >
-      <div class="justify-text">
-       <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1771349444/Foto-np-18_ytvw1h.png"
-             alt="José Santiago Vásquez Guerra"
-             style="max-width: 350px; width: 100%; height:auto; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.2);">
+     <div class="justify-text">
+     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1771349444/Foto-np-18_ytvw1h.png"
+     alt="José Santiago Vásquez Guerra"
+     style="max-width: 350px; width: 100%; height:auto; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.2);">
     Ministro de Medio Ambiente y Recursos Naturales. Servidor público, ambientalista y defensor de los recursos naturales. Ha liderado el novel e histórico proceso de gestión integral de los residuos sólidos en la República Dominicana desde la dirección de DO Sostenible.
 
       Paíno Henríquez es licenciado en Leyes, egresado de la Pontificia Universidad Católica Madre y Maestra, en el año 1999. Luego de graduarse continuó sus estudios de posgrado en Europa, precisamente en la Universidad de Manchester, Inglaterra, en donde se recibió como máster en Derecho Comercial Internacional en 2001.
@@ -56,6 +56,7 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
 
