@@ -11,8 +11,7 @@ heading: Paíno Henríquez
 subheading: Ministro de Medio Ambiente y Recursos Naturales
 
 
-entries:
-  
+entries: 
   - year: Trayectoria Profesional
     
     content: >
@@ -59,6 +58,7 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
 
