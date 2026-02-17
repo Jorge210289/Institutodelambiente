@@ -12,8 +12,6 @@ subheading: Ministro de Medio Ambiente y Recursos Naturales
 image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
 
 entries:
- 
-  
   - year: Trayectoria Profesional
 
      <div style="text-align:center; margin: 20px 0;">
@@ -61,5 +59,6 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
