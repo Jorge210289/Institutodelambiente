@@ -13,7 +13,6 @@ subheading: Ministro de Medio Ambiente y Recursos Naturales
 
 entries: 
  - year: Trayectoria Profesional
-    
     content: >
     
       <div class="justify-text">
@@ -54,6 +53,7 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
 
