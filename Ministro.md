@@ -15,7 +15,7 @@ entries:
 
 - year: Trayectoria Profesional
   content: 
- - year: Trayectoria Profesional
+- year: Trayectoria Profesional
    image:https://res.cloudinary.com/dzirbfcv9/image/upload/v1771349444/Foto-np-18_ytvw1h.png
     content: >
       <div class="justify-text">
@@ -56,6 +56,7 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
 
