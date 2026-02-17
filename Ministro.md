@@ -16,7 +16,7 @@ entries:
     image: https://ambiente.gob.do/app/uploads/2024/08/Paino-Henriquez-Ministro-824x1030.jpg
     content: >
      <div style="text-align:center; margin:20px 0;">
-      <img src="https://tulink.com/foto.jpg"
+      <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1771349444/Foto-np-18_ytvw1h.png"
            alt="Paíno Henríquez"
            style="max-width:350px; width:100%; height:auto; border-radius:12px;">
     </div>
@@ -58,6 +58,7 @@ entries:
       En lo que refiere al ejercicio de su profesión, su labor ha estado enfocada en el derecho corporativo y la resolución de conflictos empresariales.
       </div>
 ---
+
 
 
 
