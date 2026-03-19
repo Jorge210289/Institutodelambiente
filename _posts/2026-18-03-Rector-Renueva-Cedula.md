@@ -1,6 +1,6 @@
 ---
 layout: post
-title: III Graduación Ordinaria
+title: Rector del ITESMARENA renueva su cédula de identidad
 date: 2025-12-10 08:16:01 -0600
 category: eventos
 image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1773943923/IMG_7228_gmwlsb.jpg
