@@ -6,7 +6,7 @@ category: eventos
 image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1773943923/IMG_7228_gmwlsb.jpg
 ---
 
-<h2>Rector del ITESMARENA renueva su cédula de identidad y llama a la ciudadanía a sumarse al proceso de actualización</h2>
+
 
   <p>
     El rector del Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA),
