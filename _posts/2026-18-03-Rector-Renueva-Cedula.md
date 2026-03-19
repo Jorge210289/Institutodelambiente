@@ -43,7 +43,7 @@ image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1773943923/IMG_7228_gm
     de la cédula de identidad, asumiéndolo como un deber cívico y como una oportunidad de ser parte de los avances
     que impulsan una sociedad más organizada, segura y preparada para el futuro.
   </p>
-</article>
+
 
 
 <h3>Galería de Imágenes</h3>
