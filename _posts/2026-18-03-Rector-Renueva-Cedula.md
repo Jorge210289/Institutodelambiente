@@ -3,7 +3,7 @@ layout: post
 title: III Graduación Ordinaria
 date: 2025-12-10 08:16:01 -0600
 category: eventos
-image: https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg
+image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1773943923/IMG_7228_gmwlsb.jpg
 ---
 
 <h2>Rector del ITESMARENA renueva su cédula de identidad y llama a la ciudadanía a sumarse al proceso de actualización</h2>
