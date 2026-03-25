@@ -48,5 +48,5 @@ image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1773943923/IMG_7228_gm
 
 <h3>Galería de Imágenes</h3>
 <div class="gallery">
-    <img src="https://res.cloudinary.com/duuonteo7/image/upload/v1769611731/3ra%20graduacion%20itesmarena/WhatsApp_Image_2026-01-28_at_10.24.15_AM.jpg" alt="Imagen 1" width="600">
+    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1773943923/IMG_7228_gmwlsb.jpg" alt="Imagen 1" width="600">
 </div>
