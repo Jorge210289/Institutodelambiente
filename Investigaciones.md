@@ -12,6 +12,8 @@ menus:
   footer:
     title: Investigaciones
     weight: 3
+    title: Investigaciones
+    weight: 3
 
 
 pre_heading: Investigación y Ciencia
