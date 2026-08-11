@@ -66,6 +66,8 @@ menus:
       children:
         - title: Investigaciones Rector
           url: /Investigaciones/Rector/
+        - title: Guía Conservación de suelo
+          url: /investigaciones/guia_conservacion_de_suelo/
 
     - title: Carreras
       url: /instituto/carreras/
