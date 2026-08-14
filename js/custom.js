@@ -3,8 +3,10 @@ document.addEventListener("DOMContentLoaded", function () {
     for (var i = 0; i < links.length; i++) {
         if (links[i].hostname != window.location.hostname) {
             console.log(links[i]);
-            links[i].target = '_blank';
-            links[i].rel = 'noopener noreferrer';
+            if(links.title == "Ir a Guía Conservación de suelo"){
+                links[i].target = '_blank';
+                links[i].rel = 'noopener noreferrer';
+            }
         }
     }
 });
