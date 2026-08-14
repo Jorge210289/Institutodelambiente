@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
             if(links[i].title == "Ir a Guía Conservación de suelo"){
                 links[i].target = '_blank';
                 links[i].rel = 'noopener noreferrer';
+                
             }
         }
     }
