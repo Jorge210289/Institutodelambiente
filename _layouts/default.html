@@ -7,7 +7,7 @@ layout: null
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="...{{ page.description }}">
+    <meta name="description" content="{{ page.description }}">
     <meta name="author" content="Andreas Remdt">
     
 
@@ -67,5 +67,6 @@ layout: null
     {% elsif page.url == "/contactanos/" %}
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvasE3DqVJKzmtB5xXkYfFtQkQ7kxEhZM&callback=initMap" defer></script>
     {% endif %}
+    <script src="/js/custom.js" defer></script>
   </body>
 </html>
