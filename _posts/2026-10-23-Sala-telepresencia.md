@@ -3,7 +3,7 @@ layout: post
 title: ITESMARENA fortalece la formación de técnicos superiores con moderna Sala de Telepresencia
 date: 2026-10-23 11:00:00 -0400
 category: eventos
-image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2956_uujxat.jpg
+image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1792772153/Altice_Inaugurates_ITESMARENA_Telepresence_Classroom_fz838c.png
 ---
 
 <p>
