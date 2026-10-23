@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: ITESMARENA fortalece la formación de técnicos superiores con moderna Sala de Telepresencia
