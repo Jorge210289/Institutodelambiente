@@ -65,4 +65,5 @@ image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2956_uu
 <h3>Galería de Imágenes</h3>
 <div class="gallery">
     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2956_uujxat.jpg" alt="Imagen 1" width="600">
+    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2957_bwz56b.jpg" alt="Imagen 1" width="600"> 
 </div>
