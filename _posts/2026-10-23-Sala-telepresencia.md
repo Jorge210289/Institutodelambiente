@@ -7,61 +7,93 @@ image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1792772153/Altice_Inau
 ---
 
 <p>
-  El Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales (ITESMARENA)
-  continúa avanzando en su compromiso con la excelencia académica y la innovación tecnológica,
-  gracias a la donación de una moderna Sala de Telepresencia por parte de la Fundación Altice,
-  en alianza con el Ministerio de Medio Ambiente y Recursos Naturales.
+  El Instituto Técnico de Estudios Superiores en Medio Ambiente y Recursos Naturales
+  (ITESMARENA) continúa avanzando hacia la excelencia académica y la innovación
+  tecnológica con la inauguración de una moderna <strong>Sala de Telepresencia</strong>,
+  donada por Altice Dominicana, en alianza con el Ministerio de Medio Ambiente
+  y Recursos Naturales.
 </p>
 
 <p>
-  Esta importante iniciativa representa un paso significativo en el fortalecimiento de la
-  formación de los futuros técnicos superiores en <strong>Gestión Ambiental y Ciencias Forestales</strong>,
-  quienes contarán con nuevas herramientas tecnológicas para ampliar sus conocimientos y
-  desarrollar competencias profesionales orientadas a la conservación, protección y manejo
-  sostenible de los recursos naturales.
+  La actividad reunió a autoridades académicas, gubernamentales y empresariales,
+  quienes destacaron la importancia de esta iniciativa para fortalecer la formación
+  de profesionales en Gestión Ambiental y Ciencias Forestales.
 </p>
 
 <p>
-  El proyecto, que representa una inversión superior a los <strong>RD$4 millones</strong>,
-  permitirá conectar a estudiantes, docentes y personal técnico de ITESMARENA con especialistas,
-  instituciones académicas y organizaciones nacionales e internacionales, promoviendo el
-  intercambio de conocimientos, las capacitaciones virtuales y el acceso a experiencias
-  educativas innovadoras.
+  El acto inició con las palabras de bienvenida del
+  <strong>rector de ITESMARENA, Dr. José Santiago Vásquez Guerra</strong>,
+  quien agradeció el respaldo de Altice Dominicana y del Ministerio de Medio Ambiente,
+  resaltando que esta herramienta tecnológica contribuirá a modernizar los procesos
+  educativos y ampliar las oportunidades de aprendizaje de los estudiantes.
 </p>
 
 <p>
-  La nueva Sala de Telepresencia dispone de una pantalla inteligente con sistema de
-  videoconferencia integrado, conexión a internet simétrica de 50/50 Mbps, conectividad
-  Wi-Fi, ocho direcciones IP públicas fijas y mobiliario adecuado para el desarrollo
-  de actividades académicas y formativas.
+  Posteriormente, <strong>el Ing. Gerónimo Abreu, encargado del Programa Nacional
+  de Manejo del Fuego del Ministerio de Medio Ambiente</strong>, agradeció la
+  contribución de Altice, destacando su importancia para fortalecer la capacitación,
+  la conectividad y las labores de prevención y monitoreo de incendios forestales.
 </p>
 
 <p>
-  Asimismo, como parte de esta colaboración, se dotó de conectividad al
-  <strong>Centro de Monitoreo ubicado dentro de ITESMARENA</strong>, contribuyendo al
-  fortalecimiento de la infraestructura tecnológica institucional y de las capacidades
-  de seguimiento y gestión ambiental.
+  Por su parte, <strong>Danilo Ginebra, CEO de Altice Dominicana</strong>,
+  reafirmó el compromiso de la empresa con la educación, la tecnología y la
+  sostenibilidad ambiental. Asimismo, expresó la disposición de continuar apoyando
+  a ITESMARENA y a los bomberos forestales mediante iniciativas que contribuyan
+  a mejorar sus capacidades técnicas y operativas.
 </p>
 
 <p>
-  Para ITESMARENA, esta donación constituye una valiosa oportunidad para continuar
-  modernizando sus procesos de enseñanza y aprendizaje, ofreciendo a sus estudiantes
-  una preparación técnica de calidad, acorde con las exigencias actuales del sector
-  ambiental y forestal.
+  Durante su intervención, <strong>el ministro de Medio Ambiente y Recursos
+  Naturales, Paíno Henríquez</strong>, destacó que esta donación forma parte
+  de una visión integral para llevar a ITESMARENA a un nuevo nivel de desarrollo
+  académico e institucional. También se refirió a las gestiones para establecer
+  acuerdos de colaboración con universidades internacionales, orientados a
+  fortalecer la formación especializada y el intercambio de conocimientos.
 </p>
 
 <p>
-  La institución reconoce y agradece el respaldo de la Fundación Altice y del
-  Ministerio de Medio Ambiente y Recursos Naturales, cuya alianza reafirma la
-  importancia de invertir en educación, tecnología y desarrollo sostenible.
+  El ministro anunció, además, una
+  <strong>inversión de RD$124 millones para la primera fase de transformación
+  de la infraestructura de ITESMARENA</strong>, con el propósito de modernizar
+  sus instalaciones y mejorar las condiciones de enseñanza y aprendizaje.
 </p>
 
 <p>
-  Con iniciativas como esta, <strong>ITESMARENA reafirma su misión de formar profesionales
-  técnicos competentes, innovadores y comprometidos con la protección de los bosques,
+  La Sala de Telepresencia, cuya inversión supera los
+  <strong>RD$4 millones</strong>, permitirá conectar a estudiantes, docentes
+  y personal técnico con especialistas, universidades y organizaciones nacionales
+  e internacionales, facilitando capacitaciones virtuales, conferencias y
+  experiencias educativas innovadoras.
+</p>
+
+<p>
+  Este moderno espacio dispone de una pantalla inteligente con sistema de
+  videoconferencia integrado, conexión simétrica a internet de 50/50 Mbps,
+  conectividad Wi-Fi, ocho direcciones IP públicas fijas y mobiliario adecuado
+  para las actividades académicas.
+</p>
+
+<p>
+  Asimismo, la colaboración incluyó conectividad para el
+  <strong>Centro de Monitoreo de Incendios Forestales ubicado en ITESMARENA</strong>,
+  fortaleciendo las capacidades tecnológicas destinadas al seguimiento,
+  prevención y coordinación de acciones relacionadas con la protección
+  de los recursos naturales.
+</p>
+
+<p>
+  ITESMARENA agradece a Altice Dominicana y al Ministerio de Medio Ambiente
+  y Recursos Naturales por esta importante alianza, que representa un avance
+  significativo en la modernización institucional.
+</p>
+
+<p>
+  Con estas iniciativas,
+  <strong>ITESMARENA reafirma su compromiso de formar técnicos superiores
+  competentes, innovadores y comprometidos con la conservación de los bosques,
   la biodiversidad y el patrimonio natural de la República Dominicana.</strong>
 </p>
-
 <h3>Galería de Imágenes</h3>
 <div class="gallery">
     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2956_uujxat.jpg" alt="Imagen 1" width="600">
