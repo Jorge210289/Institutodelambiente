@@ -4,7 +4,7 @@
 layout: transparencia
 
 
-title: 
+title: Transparencia
 menus:
   header:
     title: Transparencia
