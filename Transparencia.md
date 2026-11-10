@@ -39,5 +39,10 @@ menus:
 <p></p>
 <p style="text-align: justify;"></p>
 <p style="text-align: justify;"><strong></strong></p>
+<div class="gallery">
+    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1773943923/IMG_7228_gmwlsb.jpg" alt="Imagen 1" width="600">
+    
+  
+</div>
 
 
