@@ -13,6 +13,11 @@ menus:
     title: Transparencia
     weight: 4
 ---
+<div class="gallery">
+    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794315460/Transparencia_Institucional_Icon_a3lwex.png" alt="Imagen 1" width="600">
+    
+  
+</div>
 <p style="text-align: justify;">En el ITESMARENA estamos comprometidos con la transparecia por eso ponemos a su disposici&oacute;n esta secci&oacute;n d&oacute;nde se presenta todos los documentos relacionados a nuestro diario accionar.</p>
 <p style="text-align: justify;">Nuestro C&oacute;digo de &Eacute;tica</p>
 <p style="text-align: justify;">Te presentamos como esta compuesto nuestro comit&eacute; de &eacute;tica:</p>
