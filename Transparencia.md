@@ -34,6 +34,9 @@ menus:
 <p></p>
 <p><a href="https://drive.google.com/file/d/1DUcifY35agoldQwm3nV_2vMEL1Nnze6V/view?usp=drive_link">Descarga aqu&iacute; el Informe de Gesti&oacute;n Institucional 2025</a></p>
 <p></p>
+<p></p>
+<p><a href="https://heyzine.com/flip-book/69db01d0b8.html">Descarga aqu&iacute; Revista Institucional Octubre 2026</a></p>
+<p></p>
 <p style="text-align: justify;"></p>
 <p style="text-align: justify;"><strong></strong></p>
 
