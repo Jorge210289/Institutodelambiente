@@ -1,11 +1,12 @@
 ---
+
+
+layout: transparencia
 <div class="gallery">
     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794315460/Transparencia_Institucional_Icon_a3lwex.png" alt="Imagen 1" width="600">
     
   
 </div>
-
-layout: transparencia
 
 title: Transparencia
 menus:
