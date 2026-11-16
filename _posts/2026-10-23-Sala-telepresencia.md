@@ -94,9 +94,11 @@ image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1792772153/Altice_Inau
   competentes, innovadores y comprometidos con la conservación de los bosques,
   la biodiversidad y el patrimonio natural de la República Dominicana.</strong>
 </p>
+
 <h3>Galería de Imágenes</h3>
 <div class="gallery">
     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2956_uujxat.jpg" alt="Imagen 1" width="600">
     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2957_bwz56b.jpg" alt="Imagen 1" width="600">
-   <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2959_cklmva.jpg" alt="Imagen 1" width="600"> 
+    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2959_cklmva.jpg" alt="Imagen 1" width="600"> 
+    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840846/IMG_4135_zrrvd8.jpg" alt="Imagen 1" width="600"> 
 </div>
