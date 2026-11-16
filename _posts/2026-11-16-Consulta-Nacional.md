@@ -3,7 +3,7 @@ layout: post
 title: ITESMARENA participa en la Consulta Nacional para el Futuro de la Educación Dominicana
 date: 2026-10-23 11:00:00 -0400
 category: eventos
-image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1792772153/Altice_Inaugurates_ITESMARENA_Telepresence_Classroom_fz838c.png
+image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840604/Consulta_Nacional_para_la_Educaci%C3%B3n_Dominicana_hshxcf.png
 ---
 
   <p>
@@ -68,4 +68,4 @@ image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1792772153/Altice_Inau
   </p>
 <h3>Galería de Imágenes</h3>
 <div class="gallery">
-    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1792769739/IMG_2956_uujxat.jpg" alt="Imagen 1" width="600">
+    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840604/Consulta_Nacional_para_la_Educaci%C3%B3n_Dominicana_hshxcf.png" alt="Imagen 1" width="600">
