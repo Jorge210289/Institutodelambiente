@@ -68,4 +68,15 @@ image: https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840604/Consulta_Na
   </p>
 <h3>Galería de Imágenes</h3>
 <div class="gallery">
-    <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840604/Consulta_Nacional_para_la_Educaci%C3%B3n_Dominicana_hshxcf.png" alt="Imagen 1" width="600">
+     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840604/Consulta_Nacional_para_la_Educaci%C3%B3n_Dominicana_hshxcf.png" alt="Imagen 1" width="600">
+     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840846/IMG_4134_kydizm.jpg" alt="Imagen 1" width="600">
+     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840845/IMG_4133_clvims.jpg" alt="Imagen 1" width="600">
+     <img src="https://res.cloudinary.com/dzirbfcv9/image/upload/v1794840846/IMG_4135_zrrvd8.jpg" alt="Imagen 1" width="600"> 
+</div>
+
+
+
+
+
+
+    
